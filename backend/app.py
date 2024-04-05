@@ -1,5 +1,5 @@
 import os
-from flask import Flask, request, jsonify
+from flask import Flask, request, jsonify, url_for, send_from_directory
 from werkzeug.utils import secure_filename
 import logging
 from flask_cors import CORS
@@ -55,8 +55,8 @@ def process_image_endpoint():
         process_image(image_path, output_folder)
 
         # Construct image URL 
-        host = request.host_url.rstrip('/')
-        image_url = f'{host}/{app.config["UPLOAD_FOLDER"]}/{filename}'
+        # Use url_for to generate the URL for the processed image
+        image_url = url_for('uploaded_file', filename=filename)
 
         # Return OCR result and image URL
         ocr_result_path = os.path.splitext(filename)[0] + '.txt'
@@ -71,6 +71,11 @@ def process_image_endpoint():
     except Exception as e:
         app.logger.exception('An error occurred during OCR processing: {}'.format(str(e)))
         return 'An error occurred during OCR processing', 500
+
+@app.route('/uploads/<filename>')
+def uploaded_file(filename):
+    return send_from_directory(app.config['UPLOAD_FOLDER'], filename)
+
 
 if __name__ == '__main__':
     app.run(debug=True)

@@ -77,7 +77,8 @@ function UploadForm() {
   };
 
   return (
-    <div id ="image-to-text" className='container'>
+    <div>
+      <div id="image-to-text" className="container"></div>
       {!ocrResult && !loading && (
         <div>
           <input type="file" id="file-input" style={{ display: 'none' }} onChange={handleFileSelection} />
