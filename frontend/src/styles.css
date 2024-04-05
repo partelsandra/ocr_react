@@ -71,7 +71,7 @@ body {
 
 /* Image upload and display progress */
 .image-upload-box {
-    width: 70%; 
+    width: 70%;
     height: 743px;
     background-color: rgb(255, 255, 255, 0.15);
     border-radius: 20px;
@@ -79,8 +79,8 @@ body {
     background-clip: padding-box;
     backdrop-filter: blur(20px);
     box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.25);
-    margin: 0 auto; 
-    margin-top: 20px; 
+    margin: 0 auto;
+    margin-top: 20px;
 }
 
 
@@ -105,7 +105,7 @@ body {
 
 /* Add hover effect */
 .upload:hover {
-    background-color: rgba(0, 14, 74, 0.2); 
+    background-color: rgba(0, 14, 74, 0.2);
 }
 
 /* Text below icon */
@@ -124,7 +124,7 @@ body {
     color: #ffffff;
     position: absolute;
     top: 20px;
-    left: 20px; 
+    left: 20px;
     font-size: 40px;
 }
 
@@ -134,20 +134,20 @@ body {
     height: 536px;
     left: 60%;
     top: 7%;
-    position: relative; 
+    position: relative;
 }
 
 /* Display uploaded image name */
 #uploaded-image-name {
     position: absolute;
-    top: 10px; 
-    left: 80px; 
+    top: 10px;
+    left: 80px;
     padding-left: 5px;
 }
 
 /* Add dragover effect */
 .display.dragover {
-    background-color: rgba(0, 14, 74, 0.2); 
+    background-color: rgba(0, 14, 74, 0.2);
 }
 
 /* Button */
@@ -197,17 +197,17 @@ body {
 
 .bigger-box,
 .bigger-box-kkk {
-    width: 100%; 
-    margin: 0 auto; 
+    width: 100%;
+    margin: 0 auto;
 }
 
 .bigger-box {
-    margin-top: 100px; 
+    margin-top: 100px;
     height: 341.51px;
 }
 
 .bigger-box-kkk {
-    margin-top: 100px; 
+    margin-top: 100px;
     height: 600px;
 }
 
@@ -252,10 +252,10 @@ body {
     background-clip: padding-box;
     backdrop-filter: blur(20px);
     box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.25);
-    position: fixed; 
-    top: 50%; 
-    left: 50%; 
-    transform: translate(-50%, -50%); 
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -314,7 +314,8 @@ body {
 /* Toast Notification Styles */
 .toast {
     position: fixed;
-    top: 20px; /* Adjust as needed */
+    top: 20px;
+    /* Adjust as needed */
     left: 50%;
     transform: translateX(-50%);
     background-color: rgba(0, 0, 0, 0.7);
@@ -323,6 +324,71 @@ body {
     border-radius: 5px;
     opacity: 1;
     transition: opacity 1s ease-in-out;
-    z-index: 9999; 
+    z-index: 9999;
 }
 
+@media only screen and (max-width: 762px) {
+
+    /* Body styles */
+    body {
+        background: url(used_images_etc/background.jpg) no-repeat fixed center;
+        background-size: cover;
+        background-color: rgba(0, 0, 0, 0.9);
+        font-family: 'Montserrat', sans-serif;
+        color: #FFFFFF;
+    }
+
+    /* Main Heading */
+    .main-heading {
+        font-size: 24px;
+        padding-top: 20px;
+    }
+
+    /* Second Heading */
+    .second-heading {
+        font-size: 18px;
+    }
+
+    /* Regular Text */
+    .regular-text {
+        font-size: 14px;
+        padding: 10px;
+    }
+
+    .navbar {
+        background-color: transparent !important;
+        border: none;
+        box-shadow: none;
+    }
+
+    .navbar-nav .nav-link {
+        font-size: 16px;
+        font-weight: 600;
+    }
+
+    /* Upload box */
+    .upload {
+        width: 100%;
+        height: 50%;
+        padding: 20px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    /* Display box*/
+    .display {
+        width: 100%;
+        height: 50%;
+        padding: 20px;
+    }
+    
+    /* Style for inner boxes */
+    .inner-box {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+    }
+}
