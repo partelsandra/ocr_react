@@ -54,11 +54,8 @@ def process_image_endpoint():
 
         process_image(image_path, output_folder)
 
-        # Construct image URL 
-        # Use url_for to generate the URL for the processed image
         image_url = url_for('uploaded_file', filename=filename)
 
-        # Return OCR result and image URL
         ocr_result_path = os.path.splitext(filename)[0] + '.txt'
         ocr_result_url = os.path.join(output_folder, ocr_result_path)
         with open(ocr_result_url, 'r') as ocr_file:
@@ -72,7 +69,7 @@ def process_image_endpoint():
         app.logger.exception('An error occurred during OCR processing: {}'.format(str(e)))
         return 'An error occurred during OCR processing', 500
 
-@app.route('/uploads/<filename>')
+@app.route('/backend/saved_images/<filename>')
 def uploaded_file(filename):
     return send_from_directory(app.config['UPLOAD_FOLDER'], filename)
 

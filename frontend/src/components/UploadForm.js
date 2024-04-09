@@ -6,10 +6,22 @@ function UploadForm() {
   const [ocrResult, setOcrResult] = useState(null);
 
   const handleFileSelection = (event) => {
+    event.preventDefault();
     const file = event.target.files[0];
     setUploadedFile(file);
     updateUploadedFile(file);
   };
+
+  const handleDragOver = (event) => {
+    event.preventDefault();
+  };
+  
+  const handleDrop = (event) => {
+    event.preventDefault();
+    const file = event.dataTransfer.files[0];
+    setUploadedFile(file);
+    updateUploadedFile(file);
+  };  
 
   const updateUploadedFile = (file) => {
     const uploadedImageName = document.getElementById("uploaded-image-name");
@@ -81,8 +93,8 @@ function UploadForm() {
       <div id="image-to-text" className="container"></div>
       {!ocrResult && !loading && (
         <div>
-          <input type="file" id="file-input" style={{ display: 'none' }} onChange={handleFileSelection} />
-          <div className="image-upload-box">
+          <input type="file" id="file-input" style={{ position: 'absolute', width: 0, height: 0, overflow: 'hidden' }} onChange={handleFileSelection} />
+          <div className="image-upload-box" onDragOver={handleDragOver} onDrop={handleDrop}>
             <div className="inner-box upload" onClick={() => document.getElementById('file-input').click()}>
               <i className="fa-regular fa-folder fa-lg icon"></i>
               <span className="second-heading drop-file">Drop your file here or browse </span>
