@@ -93,7 +93,7 @@ function UploadForm() {
     navigator.clipboard.writeText(ocrResult.ocr_result)
       .then(() => {
         setIsCopied(true);
-        setTimeout(() => setIsCopied(false), 2000); // Reset isCopied after 2 seconds
+        setTimeout(() => setIsCopied(false), 2000); 
       })
       .catch(error => {
         console.error('Error copying text:', error);
@@ -109,13 +109,13 @@ function UploadForm() {
           <div className="image-upload-box" onDragOver={handleDragOver} onDrop={handleDrop}>
             <div className="inner-box upload" onClick={() => document.getElementById('file-input').click()}>
               <i className="fa-regular fa-folder fa-lg icon"></i>
-              <span className="second-heading drop-file">Drop your file here or browse </span>
+              <span className="second-heading drop-file">Lohistage fail siia või sirvige arvutist</span>
             </div>
             <div className="inner-box display">
               <i id="uploaded-image-icon" className="fa-solid fa-image uploaded-image-icon" style={{ display: 'none' }}></i>
               <span id="uploaded-image-name" className="regular-text" style={{ display: 'none' }}></span>
             </div>
-            <button id="process-button" type="button" className="btn btn-outline-light" onClick={handleFileUpload}>Process</button>
+            <button id="process-button" type="button" className="btn btn-outline-light" onClick={handleFileUpload}>Töötle</button>
           </div>
         </div>
       )}

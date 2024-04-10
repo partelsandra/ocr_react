@@ -1615,3 +1615,82 @@ INFO:werkzeug: * Detected change in '/home/sandra/Desktop/ocr_application_react/
 INFO:werkzeug: * Restarting with stat
 WARNING:werkzeug: * Debugger is active!
 INFO:werkzeug: * Debugger PIN: 398-278-059
+INFO:werkzeug: * Detected change in '/home/sandra/Desktop/ocr_application_react/backend/ocr_processing.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 398-278-059
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [10/Apr/2024 10:12:07] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Apr/2024 10:12:07] "OPTIONS /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Apr/2024 10:12:13] "POST /process HTTP/1.1" 200 -
+DEBUG:root:Requested filename: erar-0-1_002_0000280_00003_t.jpg
+DEBUG:root:Sending file from path: /home/sandra/Desktop/ocr_application_react/backend/saved_images/erar-0-1_002_0000280_00003_t.jpg
+INFO:werkzeug:127.0.0.1 - - [10/Apr/2024 10:12:13] "GET /backend/saved_images/erar-0-1_002_0000280_00003_t.jpg HTTP/1.1" 200 -
+DEBUG:root:Requested filename: erar-0-1_002_0000280_00003_t.jpg
+DEBUG:root:Sending file from path: /home/sandra/Desktop/ocr_application_react/backend/saved_images/erar-0-1_002_0000280_00003_t.jpg
+INFO:werkzeug:127.0.0.1 - - [10/Apr/2024 10:12:13] "GET /backend/saved_images/erar-0-1_002_0000280_00003_t.jpg HTTP/1.1" 200 -
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [10/Apr/2024 10:12:27] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Apr/2024 10:12:27] "OPTIONS /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Apr/2024 10:12:40] "POST /process HTTP/1.1" 200 -
+DEBUG:root:Requested filename: erar-0-1_002_0000280_00005_t.jpg
+DEBUG:root:Sending file from path: /home/sandra/Desktop/ocr_application_react/backend/saved_images/erar-0-1_002_0000280_00005_t.jpg
+INFO:werkzeug:127.0.0.1 - - [10/Apr/2024 10:12:40] "GET /backend/saved_images/erar-0-1_002_0000280_00005_t.jpg HTTP/1.1" 200 -
+DEBUG:root:Requested filename: erar-0-1_002_0000280_00005_t.jpg
+DEBUG:root:Sending file from path: /home/sandra/Desktop/ocr_application_react/backend/saved_images/erar-0-1_002_0000280_00005_t.jpg
+INFO:werkzeug:127.0.0.1 - - [10/Apr/2024 10:12:40] "GET /backend/saved_images/erar-0-1_002_0000280_00005_t.jpg HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/sandra/Desktop/ocr_application_react/backend/ocr_processing.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 398-278-059
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [10/Apr/2024 10:12:59] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Apr/2024 10:13:00] "OPTIONS /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Apr/2024 10:13:13] "POST /process HTTP/1.1" 200 -
+DEBUG:root:Requested filename: erar-0-1_002_0000280_00005_t.jpg
+DEBUG:root:Sending file from path: /home/sandra/Desktop/ocr_application_react/backend/saved_images/erar-0-1_002_0000280_00005_t.jpg
+INFO:werkzeug:127.0.0.1 - - [10/Apr/2024 10:13:13] "GET /backend/saved_images/erar-0-1_002_0000280_00005_t.jpg HTTP/1.1" 200 -
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [10/Apr/2024 10:13:49] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Apr/2024 10:13:49] "OPTIONS /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Apr/2024 10:13:57] "POST /process HTTP/1.1" 200 -
+DEBUG:root:Requested filename: erar-0-1_002_0000280_00029_t.jpg
+DEBUG:root:Sending file from path: /home/sandra/Desktop/ocr_application_react/backend/saved_images/erar-0-1_002_0000280_00029_t.jpg
+INFO:werkzeug:127.0.0.1 - - [10/Apr/2024 10:13:57] "GET /backend/saved_images/erar-0-1_002_0000280_00029_t.jpg HTTP/1.1" 200 -
+DEBUG:root:Requested filename: erar-0-1_002_0000280_00029_t.jpg
+DEBUG:root:Sending file from path: /home/sandra/Desktop/ocr_application_react/backend/saved_images/erar-0-1_002_0000280_00029_t.jpg
+INFO:werkzeug:127.0.0.1 - - [10/Apr/2024 10:13:58] "GET /backend/saved_images/erar-0-1_002_0000280_00029_t.jpg HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/sandra/Desktop/ocr_application_react/backend/ocr_processing.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 398-278-059
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [10/Apr/2024 10:19:06] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Apr/2024 10:19:06] "OPTIONS /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Apr/2024 10:19:13] "POST /process HTTP/1.1" 200 -
+DEBUG:root:Requested filename: erar-0-1_002_0000280_00003_t.jpg
+DEBUG:root:Sending file from path: /home/sandra/Desktop/ocr_application_react/backend/saved_images/erar-0-1_002_0000280_00003_t.jpg
+INFO:werkzeug:127.0.0.1 - - [10/Apr/2024 10:19:13] "GET /backend/saved_images/erar-0-1_002_0000280_00003_t.jpg HTTP/1.1" 200 -
+DEBUG:root:Requested filename: erar-0-1_002_0000280_00003_t.jpg
+DEBUG:root:Sending file from path: /home/sandra/Desktop/ocr_application_react/backend/saved_images/erar-0-1_002_0000280_00003_t.jpg
+INFO:werkzeug:127.0.0.1 - - [10/Apr/2024 10:19:13] "GET /backend/saved_images/erar-0-1_002_0000280_00003_t.jpg HTTP/1.1" 200 -
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [10/Apr/2024 10:19:44] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Apr/2024 10:19:44] "OPTIONS /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Apr/2024 10:19:54] "POST /process HTTP/1.1" 200 -
+DEBUG:root:Requested filename: erar-0-1_002_0000280_00029_t.jpg
+DEBUG:root:Sending file from path: /home/sandra/Desktop/ocr_application_react/backend/saved_images/erar-0-1_002_0000280_00029_t.jpg
+INFO:werkzeug:127.0.0.1 - - [10/Apr/2024 10:19:54] "GET /backend/saved_images/erar-0-1_002_0000280_00029_t.jpg HTTP/1.1" 200 -
+DEBUG:root:Requested filename: erar-0-1_002_0000280_00029_t.jpg
+DEBUG:root:Sending file from path: /home/sandra/Desktop/ocr_application_react/backend/saved_images/erar-0-1_002_0000280_00029_t.jpg
+INFO:werkzeug:127.0.0.1 - - [10/Apr/2024 10:19:54] "GET /backend/saved_images/erar-0-1_002_0000280_00029_t.jpg HTTP/1.1" 200 -
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [10/Apr/2024 10:22:15] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Apr/2024 10:22:15] "OPTIONS /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Apr/2024 10:22:21] "POST /process HTTP/1.1" 200 -
+DEBUG:root:Requested filename: erar-0-1_002_0000280_00003_t.jpg
+DEBUG:root:Sending file from path: /home/sandra/Desktop/ocr_application_react/backend/saved_images/erar-0-1_002_0000280_00003_t.jpg
+INFO:werkzeug:127.0.0.1 - - [10/Apr/2024 10:22:21] "GET /backend/saved_images/erar-0-1_002_0000280_00003_t.jpg HTTP/1.1" 200 -
+DEBUG:root:Requested filename: erar-0-1_002_0000280_00003_t.jpg
+DEBUG:root:Sending file from path: /home/sandra/Desktop/ocr_application_react/backend/saved_images/erar-0-1_002_0000280_00003_t.jpg
+INFO:werkzeug:127.0.0.1 - - [10/Apr/2024 10:22:21] "GET /backend/saved_images/erar-0-1_002_0000280_00003_t.jpg HTTP/1.1" 200 -

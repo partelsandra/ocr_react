@@ -17,10 +17,10 @@ function App() {
           <div className="collapse navbar-collapse justify-content-end" id="navbarSupportedContent">
             <ul className="navbar-nav mb-2 mb-lg-0">
               <li className="nav-item">
-                <a className="nav-link active" aria-current="page" href="#image-to-text">Image to Text</a>
+                <a className="nav-link active" aria-current="page" href="#image-to-text">Pilt tekstiks</a>
               </li>
               <li className="nav-item">
-                <a className="nav-link" href="#how-to-use">How to Use</a>
+                <a className="nav-link" href="#how-to-use">Kuidas kasutada</a>
               </li>
               <li className="nav-item">
                 <a className="nav-link" href="#kkk">KKK</a>
@@ -61,7 +61,7 @@ function App() {
             {/* Text box */}
             <div className="col-md-6">
               <div className="text-box" style={{ overflowY: 'auto', position: 'relative' }}>
-                {/* Display the OCR result text */}
+                {/* OCR result text */}
                 <span className="regular-text">{ocrResult}</span>
               </div>
             </div>
@@ -80,14 +80,12 @@ function App() {
                 <span className="main-heading tool">How to use</span>
                 <span className="regular-text">
                   <ol>
-                    <li>Upload images</li>
-                    <li>Drag and drop Images into the input box
-                      or select images from your local device. </li>
-                    <li>Press process button </li>
-                    <li>Image is being processed </li>
-                    <li>After loading it will display the image and
-                      the extracted text</li>
-                    <li>You can now see the result and copy the text.</li>
+                    <li>Laadige üles pilte</li>
+                    <li>Lohista pilt sisendkasti või valige pilte oma kohalikust seadmest</li>
+                    <li>Vajutage töötle nuppu</li>
+                    <li>Pilti töödeldakse</li>
+                    <li>Pärast laadimist kuvatakse pilt ja saadud tekstitulemus</li>
+                    <li>Nüüd saate tulemust vaadata ja teksti kopeerida</li>
                   </ol>
                 </span>
               </div>
@@ -95,9 +93,8 @@ function App() {
             {/* Box 2 */}
             <div className="col-6">
               <div className="custom-box smaller-box">
-                <span className="main-heading format">Supported file formats </span>
-                <span className="regular-text">This photo to text converter supports multiple image file formats.
-                  You can upload the images in the following file format to get text from them.
+                <span className="main-heading format">Toetatud failiformaadid</span>
+                <span className="regular-text">Selle pildi tekstiks teisendaja toetab mitmeid pildifaili formaate. Saate laadida üles pilte järgmistes failivormingutes, et sealt teksti saada.
                   <ul>
                     <br />
                     <li>JPG</li>
@@ -112,13 +109,8 @@ function App() {
           <div className="row mt-5">
             <div className="col-12">
               <div className="custom-box bigger-box">
-                <span className="main-heading converter">How does the image to text converter work? </span>
-                <span className="regular-text">Based on OCR technology, the image to text tool is developed with
-                  advanced libraries and text recognition models. Different patterns of characters are classified
-                  into different prototypes. Commonly, an Image OCR tool performs the following functions: First,
-                  our tool scans and extract text from the Image.Then it does page segmentation and arranges text
-                  according to the image. After the text is fully extracted, our tool performs very light text
-                  corrections to make it more accurate.</span>
+                <span className="main-heading converter">Kuidas töötab pildist tekstiks teisendaja?</span>
+                <span className="regular-text">Põhinedes optilise märgituvastuse (OCR) tehnoloogial, on pildist tekstiks tööriist välja töötatud edasijõudnud raamatukogude ja tekstituvastuse mudelite abil. Erinevaid märgitüüpe klassifitseeritakse erinevatesse prototüüpidesse. Tavaliselt teostab pildi OCR tööriist järgmisi funktsioone: Esiteks skaneerib ja eraldab tööriist teksti pildilt. Seejärel teostab lehekülje segmenteerimist ja paigutab teksti vastavalt pildile. Pärast teksti täielikku eraldamist teeb tööriist väga kergeid tekstikorrektuure, et see oleks täpsem.</span>
               </div>
             </div>
           </div>
@@ -134,35 +126,29 @@ function App() {
               <span className="main-heading kkk">KKK</span>
               <span className="regular-text">
                 <ul>
-                  <li>What information is stored?
+                  <li>Mis teave on salvestatud?
                     <ul>
-                      <li>Filename: The name of the uploaded file.</li>
-                      <li>Processing Date: The date and time when the image was processed.</li>
-                      <li>Image File Path: The location of the processed image file.</li>
-                      <li>Unprocessed File Information: Details of files that could not be processed.
-                      </li>
-                      <li>File Size: The size of the uploaded file.</li>
-                      <li>File Format: The format of the uploaded image file.</li>
-                      <li>Processing Details:
+                      <li>Failinimi: Üles laaditud faili nimi.</li>
+                      <li>Töötlemise kuupäev: Kuupäev ja kellaaeg, mil pilti töödeldi.</li>
+                      <li>Pildifaili tee: Töödeldud pildifaili asukoht.</li>
+                      <li>Töötlemata failiinfo: Üksikasjad failide kohta, mida ei õnnestunud töödelda.</li>
+                      <li>Faili suurus: Üles laaditud faili suurus.</li>
+                      <li>Failivorming: Üles laaditud pildifaili vorming.</li>
+                      <li>Töötlemise üksikasjad:
                         <ul>
-                          <li>Completion Date: The date and time when processing was completed.
-                          </li>
-                          <li>Tesseract Version: The OCR engine version used.</li>
-                          <li>Enhancement Settings: Any applied settings for better processing.
-                          </li>
-                          <li>Page Segmentation: Details of page segmentation if applicable.</li>
+                          <li>Lõpetamise kuupäev: Kuupäev ja kellaaeg, mil töötlemine lõpetati.</li>
+                          <li>Tesseracti versioon: Kasutatud OCR-mootori versioon.</li>
+                          <li>Täiustamise sätted: Rakendatud sätted paremaks töötlemiseks.</li>
+                          <li>Lehekülje segmenteerimine: Lehekülje segmenteerimise üksikasjad vajadusel.</li>
                         </ul>
                       </li>
                     </ul>
                   </li>
                   <br />
-                  <li>Will the information stored in the database be deleted after a certain period?</li>
-                  <p>No, the information stored in our database will remain unless otherwise specified.
-                  </p>
-                  <li>How many files can I process at once?</li>
-                  <p>Only one file can be uploaded and is being processed at a time. Press the button back
-                    to process a new file.
-                  </p>
+                  <li>Kas andmed, mis on andmebaasis salvestatud, kustutatakse teatud aja möödudes?</li>
+                  <p>Ei, meie andmebaasis olevad andmed jäävad alles, kui ei ole teisiti määratud.</p>
+                  <li>Mitu faili saan korraga töödelda?</li>
+                  <p>Korraga saab üles laadida ja töödelda ainult ühe faili. Uue faili töötlemiseks vajutage tagasi nuppu.</p>
                 </ul>
               </span>
             </div>

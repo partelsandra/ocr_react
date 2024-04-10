@@ -27,7 +27,7 @@ def enhance_image(image):
 def clean_up_text(original_text):
     # Remove characters other than alphanumeric, dots, commas, and Estonian special characters
     cleaned_text = re.sub(r'[^\w.,öäüõÖÄÜÕ()\s-]', '', original_text)
-    # Remove isolated single letters
+    # Remove isolated single letters (eemaldab ka listi numbrid 1) 1. a) a. jne)
     cleaned_text = re.sub(r'\b\w\b', '', cleaned_text)
     # Remove isolated pairs of letters
     cleaned_text = re.sub(r'\b\w{2}\b\s*\n\s*\b\w{2}\b', '', cleaned_text)
