@@ -77,7 +77,7 @@ function App() {
             {/* Box 1 */}
             <div className="col-6">
               <div className="custom-box smaller-box">
-                <span className="main-heading tool">How to use</span>
+                <span className="main-heading tool">Kuidas kasutada?</span>
                 <span className="regular-text">
                   <ol>
                     <li>Laadige üles pilte</li>
@@ -123,7 +123,7 @@ function App() {
         <div className="row mt-5">
           <div className="col-12">
             <div className="custom-box bigger-box-kkk">
-              <span className="main-heading kkk">KKK</span>
+              <span className="main-heading kkk">Korduma kippuvad küsimused</span>
               <span className="regular-text">
                 <ul>
                   <li>Mis teave on salvestatud?
