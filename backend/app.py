@@ -1,8 +1,9 @@
 import os
-from flask import Flask, request, jsonify, url_for, send_from_directory
+from flask import Flask, request, jsonify, send_from_directory
 from werkzeug.utils import secure_filename
 import logging
 from flask_cors import CORS
+import flask  # Added flask import
 from ocr_processing import process_image
 
 app = Flask(__name__)
@@ -54,12 +55,14 @@ def process_image_endpoint():
 
         process_image(image_path, output_folder)
 
-        image_url = url_for('uploaded_file', filename=filename)
-
         ocr_result_path = os.path.splitext(filename)[0] + '.txt'
         ocr_result_url = os.path.join(output_folder, ocr_result_path)
         with open(ocr_result_url, 'r') as ocr_file:
             ocr_result = ocr_file.read()
+
+        # Manually construct image_url
+        image_url = flask.request.host_url + flask.request.script_root + '/backend/saved_images/' + filename
+
         return jsonify({
             'image_url': image_url,
             'ocr_result': ocr_result
@@ -71,8 +74,17 @@ def process_image_endpoint():
 
 @app.route('/backend/saved_images/<filename>')
 def uploaded_file(filename):
-    return send_from_directory(app.config['UPLOAD_FOLDER'], filename)
+    # Log the requested filename
+    logging.debug(f"Requested filename: {filename}")
 
+    # Construct the path to the file
+    file_path = os.path.join(app.config['UPLOAD_FOLDER'], filename)
+
+    # Log the file path being sent
+    logging.debug(f"Sending file from path: {file_path}")
+
+    # Send the file
+    return send_from_directory(app.config['UPLOAD_FOLDER'], filename)
 
 if __name__ == '__main__':
     app.run(debug=True)

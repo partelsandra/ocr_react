@@ -15,13 +15,13 @@ function UploadForm() {
   const handleDragOver = (event) => {
     event.preventDefault();
   };
-  
+
   const handleDrop = (event) => {
     event.preventDefault();
     const file = event.dataTransfer.files[0];
     setUploadedFile(file);
     updateUploadedFile(file);
-  };  
+  };
 
   const updateUploadedFile = (file) => {
     const uploadedImageName = document.getElementById("uploaded-image-name");
@@ -49,20 +49,20 @@ function UploadForm() {
       method: 'POST',
       body: formData
     })
-    .then(response => {
-      if (response.ok) {
-        return response.text();
-      } else {
-        throw new Error('Failed to upload file');
-      }
-    })
-    .then(data => {
-      console.log(data);
-      processImage(file.name);
-    })
-    .catch(error => {
-      console.error('Error:', error);
-    });
+      .then(response => {
+        if (response.ok) {
+          return response.text();
+        } else {
+          throw new Error('Failed to upload file');
+        }
+      })
+      .then(data => {
+        console.log(data);
+        processImage(file.name);
+      })
+      .catch(error => {
+        console.error('Error:', error);
+      });
   };
 
   const processImage = (fileName) => {
@@ -73,19 +73,19 @@ function UploadForm() {
       },
       body: JSON.stringify({ filename: fileName })
     })
-    .then(response => {
-      if (!response.ok) {
-        throw new Error('Failed to trigger OCR processing');
-      }
-      return response.json();
-    })
-    .then(data => {
-      setLoading(false);
-      setOcrResult(data);
-    })
-    .catch(error => {
-      console.error('Error:', error);
-    });
+      .then(response => {
+        if (!response.ok) {
+          throw new Error('Failed to trigger OCR processing');
+        }
+        return response.json();
+      })
+      .then(data => {
+        setLoading(false);
+        setOcrResult(data);
+      })
+      .catch(error => {
+        console.error('Error:', error);
+      });
   };
 
   return (
@@ -133,7 +133,8 @@ function UploadForm() {
             <div className="col-md-6">
               <div className="text-box" style={{ overflowY: 'auto', position: 'relative' }}>
                 <i className="fa-regular fa-copy copy-icon"></i>
-                <span className="regular-text">{ocrResult.ocr_result}</span>
+                {/* Text fromat like txt file */}
+                <pre style={{ color: 'white' }}>{ocrResult.ocr_result}</pre>
               </div>
             </div>
           </div>

@@ -103,7 +103,7 @@ body {
     cursor: pointer;
 }
 
-/* Add hover effect */
+/* Hover effect */
 .upload:hover {
     background-color: rgba(136, 134, 134, 0.603);
 }
@@ -277,7 +277,6 @@ body {
 .image-box {
     height: 850px;
     width: 603px;
-    background-color: #f8f9fa;
     overflow: hidden;
     box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.25);
     display: flex;
