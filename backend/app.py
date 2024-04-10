@@ -60,7 +60,7 @@ def process_image_endpoint():
         with open(ocr_result_url, 'r') as ocr_file:
             ocr_result = ocr_file.read()
 
-        # Manually construct image_url
+        # Manually construct imageurl
         image_url = flask.request.host_url + flask.request.script_root + '/backend/saved_images/' + filename
 
         return jsonify({

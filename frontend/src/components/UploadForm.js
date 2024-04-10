@@ -4,6 +4,7 @@ function UploadForm() {
   const [uploadedFile, setUploadedFile] = useState(null);
   const [loading, setLoading] = useState(false);
   const [ocrResult, setOcrResult] = useState(null);
+  const [isCopied, setIsCopied] = useState(false);
 
   const handleFileSelection = (event) => {
     event.preventDefault();
@@ -88,6 +89,17 @@ function UploadForm() {
       });
   };
 
+  const copyText = () => {
+    navigator.clipboard.writeText(ocrResult.ocr_result)
+      .then(() => {
+        setIsCopied(true);
+        setTimeout(() => setIsCopied(false), 2000); // Reset isCopied after 2 seconds
+      })
+      .catch(error => {
+        console.error('Error copying text:', error);
+      });
+  };
+
   return (
     <div>
       <div id="image-to-text" className="container"></div>
@@ -132,7 +144,12 @@ function UploadForm() {
             </div>
             <div className="col-md-6">
               <div className="text-box" style={{ overflowY: 'auto', position: 'relative' }}>
-                <i className="fa-regular fa-copy copy-icon"></i>
+                {isCopied ? (
+                  <i className="fa-solid fa-check check-icon"></i>
+                ) : (
+                  <i className="fa-regular fa-copy copy-icon" onClick={copyText}></i>
+                )}
+
                 {/* Text fromat like txt file */}
                 <pre style={{ color: 'white' }}>{ocrResult.ocr_result}</pre>
               </div>
