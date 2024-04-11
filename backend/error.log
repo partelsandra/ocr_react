@@ -1983,3 +1983,89 @@ INFO:app:File saved successfully
 INFO:werkzeug:127.0.0.1 - - [11/Apr/2024 13:27:01] "POST /upload HTTP/1.1" 200 -
 INFO:werkzeug:127.0.0.1 - - [11/Apr/2024 13:27:01] "OPTIONS /process HTTP/1.1" 200 -
 INFO:werkzeug:127.0.0.1 - - [11/Apr/2024 13:27:07] "POST /process HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/sandra/.local/lib/python3.10/site-packages/mysql/connector/locales/eng/__init__.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 132-448-163
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [11/Apr/2024 13:46:08] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Apr/2024 13:46:08] "OPTIONS /process HTTP/1.1" 200 -
+ERROR:app:An error occurred during OCR processing: local variable 'connection' referenced before assignment
+Traceback (most recent call last):
+  File "/home/sandra/Desktop/ocr_application_react/backend/app.py", line 56, in process_image_endpoint
+    process_image(image_path, output_folder)
+  File "/home/sandra/Desktop/ocr_application_react/backend/ocr_processing.py", line 172, in process_image
+    connect_and_insert(data)
+  File "/home/sandra/Desktop/ocr_application_react/backend/database_connection.py", line 35, in connect_and_insert
+    if (connection.is_connected()):
+UnboundLocalError: local variable 'connection' referenced before assignment
+INFO:werkzeug:127.0.0.1 - - [11/Apr/2024 13:46:18] "[35m[1mPOST /process HTTP/1.1[0m" 500 -
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [11/Apr/2024 13:47:09] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Apr/2024 13:47:09] "OPTIONS /process HTTP/1.1" 200 -
+ERROR:app:An error occurred during OCR processing: local variable 'connection' referenced before assignment
+Traceback (most recent call last):
+  File "/home/sandra/Desktop/ocr_application_react/backend/app.py", line 56, in process_image_endpoint
+    process_image(image_path, output_folder)
+  File "/home/sandra/Desktop/ocr_application_react/backend/ocr_processing.py", line 172, in process_image
+    connect_and_insert(data)
+  File "/home/sandra/Desktop/ocr_application_react/backend/database_connection.py", line 35, in connect_and_insert
+    if (connection.is_connected()):
+UnboundLocalError: local variable 'connection' referenced before assignment
+INFO:werkzeug:127.0.0.1 - - [11/Apr/2024 13:47:15] "[35m[1mPOST /process HTTP/1.1[0m" 500 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 138-487-395
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [11/Apr/2024 13:50:12] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Apr/2024 13:50:12] "OPTIONS /process HTTP/1.1" 200 -
+ERROR:app:An error occurred during OCR processing: local variable 'connection' referenced before assignment
+Traceback (most recent call last):
+  File "/home/sandra/Desktop/ocr_application_react/backend/app.py", line 56, in process_image_endpoint
+    process_image(image_path, output_folder)
+  File "/home/sandra/Desktop/ocr_application_react/backend/ocr_processing.py", line 172, in process_image
+    connect_and_insert(data)
+  File "/home/sandra/Desktop/ocr_application_react/backend/database_connection.py", line 35, in connect_and_insert
+    if (connection.is_connected()):
+UnboundLocalError: local variable 'connection' referenced before assignment
+INFO:werkzeug:127.0.0.1 - - [11/Apr/2024 13:50:19] "[35m[1mPOST /process HTTP/1.1[0m" 500 -
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [11/Apr/2024 13:55:34] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Apr/2024 13:55:34] "OPTIONS /process HTTP/1.1" 200 -
+ERROR:app:An error occurred during OCR processing: local variable 'connection' referenced before assignment
+Traceback (most recent call last):
+  File "/home/sandra/Desktop/ocr_application_react/backend/app.py", line 56, in process_image_endpoint
+    process_image(image_path, output_folder)
+  File "/home/sandra/Desktop/ocr_application_react/backend/ocr_processing.py", line 172, in process_image
+    connect_and_insert(data)
+  File "/home/sandra/Desktop/ocr_application_react/backend/database_connection.py", line 35, in connect_and_insert
+    if (connection.is_connected()):
+UnboundLocalError: local variable 'connection' referenced before assignment
+INFO:werkzeug:127.0.0.1 - - [11/Apr/2024 13:55:39] "[35m[1mPOST /process HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in '/home/sandra/.local/lib/python3.10/site-packages/mysql/connector/django/base.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 138-487-395
+INFO:werkzeug: * Detected change in '/home/sandra/Desktop/ocr_application_react/backend/database_connection.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 138-487-395
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 138-487-395
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [11/Apr/2024 14:02:42] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Apr/2024 14:02:42] "OPTIONS /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Apr/2024 14:02:48] "POST /process HTTP/1.1" 200 -
+DEBUG:root:Requested filename: erar-0-1_002_0000280_00003_t.jpg
+DEBUG:root:Sending file from path: /home/sandra/Desktop/ocr_application_react/backend/saved_images/erar-0-1_002_0000280_00003_t.jpg
+INFO:werkzeug:127.0.0.1 - - [11/Apr/2024 14:02:48] "GET /backend/saved_images/erar-0-1_002_0000280_00003_t.jpg HTTP/1.1" 200 -
+DEBUG:root:Requested filename: erar-0-1_002_0000280_00003_t.jpg
+DEBUG:root:Sending file from path: /home/sandra/Desktop/ocr_application_react/backend/saved_images/erar-0-1_002_0000280_00003_t.jpg
+INFO:werkzeug:127.0.0.1 - - [11/Apr/2024 14:02:48] "GET /backend/saved_images/erar-0-1_002_0000280_00003_t.jpg HTTP/1.1" 200 -
