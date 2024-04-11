@@ -1,4 +1,4 @@
-/* Body styles */
+/* Body */
 body {
     background: url(used_images_etc/background.jpg) no-repeat fixed center;
     background-size: cover;
@@ -7,11 +7,10 @@ body {
     color: #FFFFFF;
 }
 
-/* Main Heading */
+/* Main heading */
 .main-heading {
     font-family: 'Montserrat', sans-serif;
     font-weight: 800;
-    /* Extra bold */
     font-size: 30px;
     display: block;
     margin: 0 auto;
@@ -19,25 +18,23 @@ body {
     padding-top: 20px;
 }
 
-/* Second Heading */
+/* Second heading */
 .second-heading {
     font-family: 'Montserrat', sans-serif;
     font-weight: 600;
-    /* Semi-bold */
 }
 
-/* Regular Text */
+/* Regular text */
 .regular-text {
     font-family: 'Montserrat', sans-serif;
     font-weight: 500;
-    /* Medium */
     display: block;
     padding-left: 25px;
     padding-top: 10px;
     padding-right: 10px;
 }
 
-/* Transparent background navbar */
+/* Transparent navbar */
 .navbar {
     background-color: transparent !important;
     border: none;
@@ -53,7 +50,7 @@ body {
     text-transform: uppercase;
 }
 
-/* Active navbar item line */
+/* Active navbar line */
 .nav-item::after {
     content: '';
     display: block;
@@ -63,13 +60,13 @@ body {
     transition: width 0.3s ease;
 }
 
-/* Active navbar item line on hover */
+/* Navbar line on hover */
 .nav-item:hover::after,
 .nav-item.active::after {
     width: 100%;
 }
 
-/* Image upload and display progress */
+/* Image upload and display */
 .image-upload-box {
     width: 70%;
     height: 743px;
@@ -84,7 +81,7 @@ body {
 }
 
 
-/* Style for inner boxes */
+/* Inner boxes for upload */
 .inner-box {
     position: absolute;
     border: 2px solid #FFFFFF;
@@ -103,7 +100,7 @@ body {
     cursor: pointer;
 }
 
-/* Hover effect */
+/* Hover */
 .upload:hover {
     background-color: rgba(136, 134, 134, 0.603);
 }
@@ -137,7 +134,7 @@ body {
     position: relative;
 }
 
-/* Display uploaded image name */
+/* Display image name */
 #uploaded-image-name {
     position: absolute;
     top: 10px;
@@ -145,7 +142,7 @@ body {
     padding-left: 5px;
 }
 
-/* Add dragover effect */
+/* Dragover */
 .display.dragover {
     background-color: rgba(0, 14, 74, 0.2);
 }
@@ -168,32 +165,31 @@ body {
     align-items: center;
 }
 
-/* Laue uus pilt button */
+/* Lae uus pilt button */
 .lae-uus-pilt-button {
     position: relative;
     text-transform: uppercase;
-    width: 200px; 
-    height: 50px; 
-
+    width: 200px;
+    height: 50px;
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: #fff; 
-    color: #000; 
-    font-size: 18px; 
-    border: 2px solid #000; 
-    border-radius: 10px; 
+    background-color: #fff;
+    color: #000;
+    font-size: 18px;
+    border: 2px solid #000;
+    border-radius: 10px;
     cursor: pointer;
-    transition: background-color 0.3s, color 0.3s; 
+    transition: background-color 0.3s, color 0.3s;
 }
 
 .lae-uus-pilt-button:hover {
-    background-color: #000; 
-    color: #fff; 
+    background-color: #000;
+    color: #fff;
 }
 
 
-/* Style for icon */
+/* Icon */
 .icon {
     color: #FFFFFF;
     transform: scale(10);
@@ -204,7 +200,7 @@ body {
     margin-top: 100px;
 }
 
-/* Style for all boxes */
+/* All boxes */
 .custom-box {
     background-color: rgba(255, 255, 255, 0.15);
     border-radius: 20px;
@@ -237,35 +233,24 @@ body {
 }
 
 /*Text how to use boxes*/
-/* Text for Box 1 */
+/* Text box 1 */
 .tool {
     text-transform: uppercase;
 }
 
-/* Text for Box 2 */
+/* Text box 2 */
 .format {
     text-transform: uppercase;
 }
 
-/* Text for Box 3 */
+/* Text box 3 */
 .converter {
     text-transform: uppercase;
 }
 
-/* Text for Box 4 */
+/* Text box 4 */
 .kkk {
     text-transform: uppercase;
-}
-
-/*Footer*/
-.footer {
-    background-color: rgba(255, 255, 255, 0.15);
-    text-align: center;
-    overflow: hidden;
-    background-clip: padding-box;
-    backdrop-filter: blur(20px);
-    padding: 20px 0;
-    margin-top: 80px;
 }
 
 #progress-bar-container .progress-bar-box {
@@ -303,7 +288,6 @@ body {
     height: 850px;
     width: 603px;
     overflow: hidden;
-    box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.25);
     display: flex;
     justify-content: center;
     align-items: center;
@@ -311,7 +295,7 @@ body {
     border-radius: 20px;
 }
 
-/* Text box styling */
+/* Text box */
 .text-box {
     height: 850px;
     width: 603px;
@@ -325,8 +309,9 @@ body {
     margin: auto;
 }
 
-/*Copy icon and checkmark icon*/
-.copy-icon, .check-icon {
+/*Copy and checkmark icon*/
+.copy-icon,
+.check-icon {
     position: absolute;
     top: 20px;
     right: 20px;
@@ -335,7 +320,7 @@ body {
 }
 
 
-/*Mobile or smaller screen views*/
+/*Mobile or smaller screen views(needed or not needs to be decided)*/
 @media only screen and (max-width: 762px) {
 
     /* Body styles */
@@ -347,18 +332,18 @@ body {
         color: #FFFFFF;
     }
 
-    /* Main Heading */
+    /* Main heading */
     .main-heading {
         font-size: 24px;
         padding-top: 20px;
     }
 
-    /* Second Heading */
+    /* Second heading */
     .second-heading {
         font-size: 18px;
     }
 
-    /* Regular Text */
+    /* Regular text */
     .regular-text {
         font-size: 14px;
         padding: 10px;
@@ -392,7 +377,7 @@ body {
         height: 50%;
         padding: 20px;
     }
-    
+
     /* Style for inner boxes */
     .inner-box {
         position: absolute;

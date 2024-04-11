@@ -101,7 +101,7 @@ function UploadForm() {
   };
 
   const goToUploadScreen = () => {
-    setOcrResult(null); // Resetting the OCR result
+    setOcrResult(null); 
   };
 
   return (
@@ -153,12 +153,11 @@ function UploadForm() {
                 ) : (
                   <i className="fa-regular fa-copy copy-icon" onClick={copyText}></i>
                 )}
-                {/* Text fromat like txt file */}
+                {/* Text format like txt file */}
                 <pre style={{ color: 'white' }}>{ocrResult.ocr_result}</pre>
               </div>
             </div>
           </div>
-          <div id="toast-container"></div>
           <button id="new-image-button" type="button" className="btn btn-outline-light" onClick={goToUploadScreen}>Lae uus pilt</button>
         </div>
       )}

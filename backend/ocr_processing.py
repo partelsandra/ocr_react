@@ -92,13 +92,13 @@ def process_image(image_path, output_folder):
 
     start_time = datetime.now()  # Processing start time
     
-    # Initial ocr without enhancement
+    # ocr without enhancement
     print(f"Processing image: {image_path}")
     ocr_text = pytesseract.image_to_string(image, config=ocr_config)
 
     psm = None
     
-    # OCR for regular text
+    # ocr for regular text
     if is_regular_text(ocr_text):
         psm = "--psm 3"
         enhanced_image = image  
@@ -122,7 +122,7 @@ def process_image(image_path, output_folder):
     with open(output_path, 'w') as output_file:
         output_file.write(cleaned_text)
     
-    #DATABASE INFO 
+    #Database info
     image_width, image_height = Image.open(image_path).size
 
     file_size = os.path.getsize(image_path)

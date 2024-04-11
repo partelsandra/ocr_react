@@ -3,7 +3,7 @@ import UploadForm from './components/UploadForm';
 import './styles.css';
 
 function App() {
-  const [ocrResult, setOcrResult] = useState('');
+  const [setOcrResult] = useState('');
 
   return (
     <div>
@@ -31,44 +31,6 @@ function App() {
       </nav>
 
       <UploadForm onOcrResult={setOcrResult} />
-
-      <div id="progress-bar-container" className="container-fluid" style={{ display: 'none' }}>
-        {/* Progress bar */}
-        <div id="progress-bar-container" className="container-fluid" style={{ display: 'none' }}>
-          <div className="row justify-content-center align-items-center" style={{ height: '100vh' }}>
-            <div className="col-12 progress-bar-box">
-              <span className="main-heading drop-file">Performing text recognition</span>
-              <div className="progress">
-                <div className="progress-bar" id="progress-bar" role="progressbar" style={{ width: '0%' }} aria-valuenow="0"
-                  aria-valuemin="0" aria-valuemax="100"></div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-
-      {ocrResult && (
-        <div id="ocr-result-container" className="container-fluid">
-          {/* OCR result */}
-          <div className="row justify-content-center align-items-center" style={{ height: '100vh' }}>
-            {/* Image box */}
-            <div className="col-md-6">
-              <div className="image-box">
-                {/* Placeholder image */}
-                <img id="uploaded-image" className="img-fluid" src="" alt="Uploaded" />
-              </div>
-            </div>
-            {/* Text box */}
-            <div className="col-md-6">
-              <div className="text-box" style={{ overflowY: 'auto', position: 'relative' }}>
-                {/* OCR result text */}
-                <span className="regular-text">{ocrResult}</span>
-              </div>
-            </div>
-          </div>
-          <div id="toast-container"></div>
-        </div>
-      )}
 
       <div id="how-to-use" className="container">
         {/* How to use */}
