@@ -110,7 +110,7 @@ function App() {
                   <li>Kas andmed, mis on andmebaasis salvestatud, kustutatakse teatud aja möödudes?</li>
                   <p>Ei, meie andmebaasis olevad andmed jäävad alles, kui ei ole teisiti määratud.</p>
                   <li>Mitu faili saan korraga töödelda?</li>
-                  <p>Korraga saab üles laadida ja töödelda ainult ühe faili. Uue faili töötlemiseks vajutage tagasi nuppu.</p>
+                  <p>Korraga saab üles laadida ja töödelda ainult ühe faili. Uue faili töötlemiseks vajutage tagasi nuppu mis asub ekraani vasakul servas.</p>
                 </ul>
               </span>
             </div>
