@@ -1975,3 +1975,7 @@ INFO:werkzeug: * Detected change in '/home/sandra/Desktop/ocr_application_react/
 INFO:werkzeug: * Restarting with stat
 WARNING:werkzeug: * Debugger is active!
 INFO:werkzeug: * Debugger PIN: 132-448-163
+INFO:werkzeug: * Detected change in '/home/sandra/Desktop/ocr_application_react/backend/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 132-448-163
