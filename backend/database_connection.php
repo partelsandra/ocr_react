@@ -1,6 +1,6 @@
 <?php
 
-$servername = "localhost";
+/*$servername = "localhost";
 $username = "ocradmin";
 $password = "qwerty";
 $dbname = "ocr_image_data";
@@ -94,4 +94,4 @@ if (isset($data['Image_Size']) && isset($data['File_Size']) && isset($data['File
 }
 
 $stmt->close();
-$conn->close();
+$conn->close(); */

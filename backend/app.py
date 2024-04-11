@@ -3,7 +3,7 @@ from flask import Flask, request, jsonify, send_from_directory
 from werkzeug.utils import secure_filename
 import logging
 from flask_cors import CORS
-import flask  # Added flask import
+import flask  
 from ocr_processing import process_image
 
 app = Flask(__name__)
@@ -60,7 +60,6 @@ def process_image_endpoint():
         with open(ocr_result_url, 'r') as ocr_file:
             ocr_result = ocr_file.read()
 
-        # Manually construct imageurl
         image_url = flask.request.host_url + flask.request.script_root + '/backend/saved_images/' + filename
 
         return jsonify({
@@ -74,16 +73,12 @@ def process_image_endpoint():
 
 @app.route('/backend/saved_images/<filename>')
 def uploaded_file(filename):
-    # Log the requested filename
     logging.debug(f"Requested filename: {filename}")
 
-    # Construct the path to the file
     file_path = os.path.join(app.config['UPLOAD_FOLDER'], filename)
 
-    # Log the file path being sent
     logging.debug(f"Sending file from path: {file_path}")
 
-    # Send the file
     return send_from_directory(app.config['UPLOAD_FOLDER'], filename)
 
 if __name__ == '__main__':

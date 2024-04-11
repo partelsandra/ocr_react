@@ -1701,3 +1701,257 @@ INFO:werkzeug:127.0.0.1 - - [10/Apr/2024 14:43:21] "POST /process HTTP/1.1" 200 
 DEBUG:root:Requested filename: erar-0-1_002_0000280_00029_t.jpg
 DEBUG:root:Sending file from path: /home/sandra/Desktop/ocr_application_react/backend/saved_images/erar-0-1_002_0000280_00029_t.jpg
 INFO:werkzeug:127.0.0.1 - - [10/Apr/2024 14:43:21] "GET /backend/saved_images/erar-0-1_002_0000280_00029_t.jpg HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 132-448-163
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [11/Apr/2024 09:47:50] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Apr/2024 09:47:50] "OPTIONS /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Apr/2024 09:47:59] "POST /process HTTP/1.1" 200 -
+DEBUG:root:Requested filename: erar-0-1_002_0000280_00029_t.jpg
+DEBUG:root:Sending file from path: /home/sandra/Desktop/ocr_application_react/backend/saved_images/erar-0-1_002_0000280_00029_t.jpg
+INFO:werkzeug:127.0.0.1 - - [11/Apr/2024 09:47:59] "GET /backend/saved_images/erar-0-1_002_0000280_00029_t.jpg HTTP/1.1" 200 -
+DEBUG:root:Requested filename: erar-0-1_002_0000280_00029_t.jpg
+DEBUG:root:Sending file from path: /home/sandra/Desktop/ocr_application_react/backend/saved_images/erar-0-1_002_0000280_00029_t.jpg
+INFO:werkzeug:127.0.0.1 - - [11/Apr/2024 09:47:59] "GET /backend/saved_images/erar-0-1_002_0000280_00029_t.jpg HTTP/1.1" 200 -
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [11/Apr/2024 09:48:08] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Apr/2024 09:48:08] "OPTIONS /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Apr/2024 09:48:17] "POST /process HTTP/1.1" 200 -
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [11/Apr/2024 09:52:50] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Apr/2024 09:52:50] "OPTIONS /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Apr/2024 09:52:58] "POST /process HTTP/1.1" 200 -
+DEBUG:root:Requested filename: erar-0-1_002_0000280_00029_t.jpg
+DEBUG:root:Sending file from path: /home/sandra/Desktop/ocr_application_react/backend/saved_images/erar-0-1_002_0000280_00029_t.jpg
+INFO:werkzeug:127.0.0.1 - - [11/Apr/2024 09:52:58] "GET /backend/saved_images/erar-0-1_002_0000280_00029_t.jpg HTTP/1.1" 200 -
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [11/Apr/2024 09:54:20] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Apr/2024 09:54:20] "OPTIONS /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Apr/2024 09:54:28] "POST /process HTTP/1.1" 200 -
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [11/Apr/2024 09:58:19] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Apr/2024 09:58:19] "OPTIONS /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Apr/2024 09:58:28] "POST /process HTTP/1.1" 200 -
+DEBUG:root:Requested filename: erar-0-1_002_0000280_00029_t.jpg
+DEBUG:root:Sending file from path: /home/sandra/Desktop/ocr_application_react/backend/saved_images/erar-0-1_002_0000280_00029_t.jpg
+INFO:werkzeug:127.0.0.1 - - [11/Apr/2024 09:58:28] "GET /backend/saved_images/erar-0-1_002_0000280_00029_t.jpg HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/sandra/Desktop/ocr_application_react/backend/database_connection.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 132-448-163
+INFO:werkzeug: * Detected change in '/home/sandra/Desktop/ocr_application_react/backend/ocr_processing.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 132-448-163
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [11/Apr/2024 11:27:58] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Apr/2024 11:27:58] "OPTIONS /process HTTP/1.1" 200 -
+ERROR:app:An error occurred during OCR processing: 'image_width'
+Traceback (most recent call last):
+  File "/home/sandra/Desktop/ocr_application_react/backend/app.py", line 56, in process_image_endpoint
+    process_image(image_path, output_folder)
+  File "/home/sandra/Desktop/ocr_application_react/backend/ocr_processing.py", line 181, in process_image
+    database_connection.insert_data(data)
+  File "/home/sandra/Desktop/ocr_application_react/backend/database_connection.py", line 39, in insert_data
+    image_dimensions = f"{data['image_width']}x{data['image_height']}"
+KeyError: 'image_width'
+INFO:werkzeug:127.0.0.1 - - [11/Apr/2024 11:28:06] "[35m[1mPOST /process HTTP/1.1[0m" 500 -
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [11/Apr/2024 11:29:40] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Apr/2024 11:29:40] "OPTIONS /process HTTP/1.1" 200 -
+ERROR:app:An error occurred during OCR processing: 'image_width'
+Traceback (most recent call last):
+  File "/home/sandra/Desktop/ocr_application_react/backend/app.py", line 56, in process_image_endpoint
+    process_image(image_path, output_folder)
+  File "/home/sandra/Desktop/ocr_application_react/backend/ocr_processing.py", line 181, in process_image
+    database_connection.insert_data(data)
+  File "/home/sandra/Desktop/ocr_application_react/backend/database_connection.py", line 39, in insert_data
+    image_dimensions = f"{data['image_width']}x{data['image_height']}"
+KeyError: 'image_width'
+INFO:werkzeug:127.0.0.1 - - [11/Apr/2024 11:29:48] "[35m[1mPOST /process HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in '/home/sandra/Desktop/ocr_application_react/backend/database_connection.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 132-448-163
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [11/Apr/2024 11:40:41] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Apr/2024 11:40:41] "OPTIONS /process HTTP/1.1" 200 -
+ERROR:app:An error occurred during OCR processing: name 'mysql' is not defined
+Traceback (most recent call last):
+  File "/home/sandra/Desktop/ocr_application_react/backend/app.py", line 56, in process_image_endpoint
+    process_image(image_path, output_folder)
+  File "/home/sandra/Desktop/ocr_application_react/backend/ocr_processing.py", line 181, in process_image
+    database_connection.insert_data(data)
+  File "/home/sandra/Desktop/ocr_application_react/backend/database_connection.py", line 9, in insert_data
+    conn = mysql.connector.connect(
+NameError: name 'mysql' is not defined
+INFO:werkzeug:127.0.0.1 - - [11/Apr/2024 11:40:50] "[35m[1mPOST /process HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in '/home/sandra/Desktop/ocr_application_react/backend/database_connection.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 132-448-163
+INFO:werkzeug: * Detected change in '/home/sandra/Desktop/ocr_application_react/backend/database_connection.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 132-448-163
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [11/Apr/2024 11:41:47] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Apr/2024 11:41:47] "OPTIONS /process HTTP/1.1" 200 -
+ERROR:app:An error occurred during OCR processing: 'image_width'
+Traceback (most recent call last):
+  File "/home/sandra/Desktop/ocr_application_react/backend/app.py", line 56, in process_image_endpoint
+    process_image(image_path, output_folder)
+  File "/home/sandra/Desktop/ocr_application_react/backend/ocr_processing.py", line 181, in process_image
+    database_connection.insert_data(data)
+  File "/home/sandra/Desktop/ocr_application_react/backend/database_connection.py", line 41, in insert_data
+    image_size = f"{data['image_width']}x{data['image_height']}"
+KeyError: 'image_width'
+INFO:werkzeug:127.0.0.1 - - [11/Apr/2024 11:41:55] "[35m[1mPOST /process HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in '/home/sandra/Desktop/ocr_application_react/backend/ocr_processing.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 132-448-163
+INFO:werkzeug: * Detected change in '/home/sandra/Desktop/ocr_application_react/backend/ocr_processing.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 132-448-163
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [11/Apr/2024 11:44:46] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Apr/2024 11:44:46] "OPTIONS /process HTTP/1.1" 200 -
+ERROR:app:An error occurred during OCR processing: 'image_width'
+Traceback (most recent call last):
+  File "/home/sandra/Desktop/ocr_application_react/backend/app.py", line 56, in process_image_endpoint
+    process_image(image_path, output_folder)
+  File "/home/sandra/Desktop/ocr_application_react/backend/ocr_processing.py", line 183, in process_image
+    database_connection.insert_data(data)
+  File "/home/sandra/Desktop/ocr_application_react/backend/database_connection.py", line 41, in insert_data
+    image_size = f"{data['image_width']}x{data['image_height']}"
+KeyError: 'image_width'
+INFO:werkzeug:127.0.0.1 - - [11/Apr/2024 11:44:55] "[35m[1mPOST /process HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in '/home/sandra/Desktop/ocr_application_react/backend/ocr_processing.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 132-448-163
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [11/Apr/2024 11:46:42] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Apr/2024 11:46:42] "OPTIONS /process HTTP/1.1" 200 -
+ERROR:app:An error occurred during OCR processing: 'image_width'
+Traceback (most recent call last):
+  File "/home/sandra/Desktop/ocr_application_react/backend/app.py", line 56, in process_image_endpoint
+    process_image(image_path, output_folder)
+  File "/home/sandra/Desktop/ocr_application_react/backend/ocr_processing.py", line 183, in process_image
+    database_connection.insert_data(data)
+  File "/home/sandra/Desktop/ocr_application_react/backend/database_connection.py", line 41, in insert_data
+    image_size = f"{data['image_width']}x{data['image_height']}"
+KeyError: 'image_width'
+INFO:werkzeug:127.0.0.1 - - [11/Apr/2024 11:46:51] "[35m[1mPOST /process HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in '/home/sandra/Desktop/ocr_application_react/backend/database_connection.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 132-448-163
+INFO:werkzeug: * Detected change in '/home/sandra/Desktop/ocr_application_react/backend/ocr_processing.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 132-448-163
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [11/Apr/2024 11:49:23] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Apr/2024 11:49:23] "OPTIONS /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Apr/2024 11:49:32] "POST /process HTTP/1.1" 200 -
+DEBUG:root:Requested filename: erar-0-1_002_0000280_00029_t.jpg
+DEBUG:root:Sending file from path: /home/sandra/Desktop/ocr_application_react/backend/saved_images/erar-0-1_002_0000280_00029_t.jpg
+INFO:werkzeug:127.0.0.1 - - [11/Apr/2024 11:49:32] "GET /backend/saved_images/erar-0-1_002_0000280_00029_t.jpg HTTP/1.1" 200 -
+DEBUG:root:Requested filename: erar-0-1_002_0000280_00029_t.jpg
+DEBUG:root:Sending file from path: /home/sandra/Desktop/ocr_application_react/backend/saved_images/erar-0-1_002_0000280_00029_t.jpg
+INFO:werkzeug:127.0.0.1 - - [11/Apr/2024 11:49:32] "GET /backend/saved_images/erar-0-1_002_0000280_00029_t.jpg HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/sandra/Desktop/ocr_application_react/backend/database_connection.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 132-448-163
+INFO:werkzeug: * Detected change in '/home/sandra/Desktop/ocr_application_react/backend/ocr_processing.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 132-448-163
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [11/Apr/2024 11:55:11] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Apr/2024 11:55:11] "OPTIONS /process HTTP/1.1" 200 -
+ERROR:app:An error occurred during OCR processing: Python type Version cannot be converted
+Traceback (most recent call last):
+  File "/home/sandra/Desktop/ocr_application_react/backend/app.py", line 56, in process_image_endpoint
+    process_image(image_path, output_folder)
+  File "/home/sandra/Desktop/ocr_application_react/backend/ocr_processing.py", line 195, in process_image
+    connect_and_insert(data)
+  File "/home/sandra/Desktop/ocr_application_react/backend/database_connection.py", line 29, in connect_and_insert
+    cursor.execute("INSERT INTO processing_data (Image_ID, Duration_Time, Tesseract_Version, Enhancement_Settings, Page_Segmentation) VALUES (%s, %s, %s, %s, %s)",
+  File "/home/sandra/.local/lib/python3.10/site-packages/mysql/connector/cursor_cext.py", line 361, in execute
+    prepared = self._cnx.prepare_for_mysql(params)
+  File "/home/sandra/.local/lib/python3.10/site-packages/mysql/connector/connection_cext.py", line 830, in prepare_for_mysql
+    result = self._cmysql.convert_to_mysql(*params)
+_mysql_connector.MySQLInterfaceError: Python type Version cannot be converted
+INFO:werkzeug:127.0.0.1 - - [11/Apr/2024 11:55:21] "[35m[1mPOST /process HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in '/home/sandra/Desktop/ocr_application_react/backend/ocr_processing.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 132-448-163
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [11/Apr/2024 11:56:42] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Apr/2024 11:56:42] "OPTIONS /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Apr/2024 11:56:48] "POST /process HTTP/1.1" 200 -
+DEBUG:root:Requested filename: erar-0-1_002_0000280_00003_t.jpg
+DEBUG:root:Sending file from path: /home/sandra/Desktop/ocr_application_react/backend/saved_images/erar-0-1_002_0000280_00003_t.jpg
+INFO:werkzeug:127.0.0.1 - - [11/Apr/2024 11:56:48] "GET /backend/saved_images/erar-0-1_002_0000280_00003_t.jpg HTTP/1.1" 200 -
+DEBUG:root:Requested filename: erar-0-1_002_0000280_00003_t.jpg
+DEBUG:root:Sending file from path: /home/sandra/Desktop/ocr_application_react/backend/saved_images/erar-0-1_002_0000280_00003_t.jpg
+INFO:werkzeug:127.0.0.1 - - [11/Apr/2024 11:56:48] "GET /backend/saved_images/erar-0-1_002_0000280_00003_t.jpg HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/sandra/Desktop/ocr_application_react/backend/database_connection.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 132-448-163
+INFO:werkzeug: * Detected change in '/home/sandra/Desktop/ocr_application_react/backend/ocr_processing.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 132-448-163
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [11/Apr/2024 11:58:36] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Apr/2024 11:58:36] "OPTIONS /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Apr/2024 11:58:45] "POST /process HTTP/1.1" 200 -
+DEBUG:root:Requested filename: erar-0-1_002_0000280_00029_t.jpg
+DEBUG:root:Sending file from path: /home/sandra/Desktop/ocr_application_react/backend/saved_images/erar-0-1_002_0000280_00029_t.jpg
+INFO:werkzeug:127.0.0.1 - - [11/Apr/2024 11:58:45] "GET /backend/saved_images/erar-0-1_002_0000280_00029_t.jpg HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/sandra/Desktop/ocr_application_react/backend/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 132-448-163
+INFO:werkzeug: * Detected change in '/home/sandra/Desktop/ocr_application_react/backend/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 132-448-163
+INFO:werkzeug: * Detected change in '/home/sandra/Desktop/ocr_application_react/backend/ocr_processing.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 132-448-163
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [11/Apr/2024 12:03:30] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Apr/2024 12:03:30] "OPTIONS /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Apr/2024 12:03:36] "POST /process HTTP/1.1" 200 -
+DEBUG:root:Requested filename: erar-0-1_002_0000280_00003_t.jpg
+DEBUG:root:Sending file from path: /home/sandra/Desktop/ocr_application_react/backend/saved_images/erar-0-1_002_0000280_00003_t.jpg
+INFO:werkzeug:127.0.0.1 - - [11/Apr/2024 12:03:36] "GET /backend/saved_images/erar-0-1_002_0000280_00003_t.jpg HTTP/1.1" 200 -
+DEBUG:root:Requested filename: erar-0-1_002_0000280_00003_t.jpg
+DEBUG:root:Sending file from path: /home/sandra/Desktop/ocr_application_react/backend/saved_images/erar-0-1_002_0000280_00003_t.jpg
+INFO:werkzeug:127.0.0.1 - - [11/Apr/2024 12:03:36] "GET /backend/saved_images/erar-0-1_002_0000280_00003_t.jpg HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/sandra/Desktop/ocr_application_react/backend/ocr_processing.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 132-448-163
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [11/Apr/2024 12:05:03] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Apr/2024 12:05:03] "OPTIONS /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Apr/2024 12:05:10] "POST /process HTTP/1.1" 200 -
