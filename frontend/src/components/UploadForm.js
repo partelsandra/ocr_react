@@ -101,7 +101,7 @@ function UploadForm() {
   };
 
   const goToUploadScreen = () => {
-    setOcrResult(null); 
+    setOcrResult(null);
   };
 
   return (
@@ -140,6 +140,9 @@ function UploadForm() {
 
       {ocrResult && (
         <div id="ocr-result-container" className="container-fluid">
+          <div style={{ position: 'relative' }}>
+          <i className="fa-solid fa-arrow-left back-arrow-icon" onClick={goToUploadScreen}></i>
+          </div>
           <div className="row justify-content-center align-items-center" style={{ height: '100vh' }}>
             <div className="col-md-6">
               <div className="image-box">
@@ -158,11 +161,10 @@ function UploadForm() {
               </div>
             </div>
           </div>
-          <button id="new-image-button" type="button" className="btn btn-outline-light" onClick={goToUploadScreen}>Lae uus pilt</button>
         </div>
       )}
+
     </div>
-    
   );
 }
 
