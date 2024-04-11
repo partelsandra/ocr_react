@@ -29,13 +29,13 @@ To use the OCR functionality, you need to install Tesseract-OCR. Follow the inst
 
 ## Usage
 
-1. **Start the frontend:**
+1. **Start the backend:**
 
-    Follow the instructions in the frontend README to start the frontend.
+    Follow the instructions in the frontend README to start the backend.
 
-2. **Start the backend:**
+2. **Start the frontend:**
 
-    Follow the instructions in the backend README to start the backend.
+    Follow the instructions in the backend README to start the frontend.
 
 3. **Interact with the application:**
 
