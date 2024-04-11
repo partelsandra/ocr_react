@@ -13,7 +13,7 @@ This repository contains the backend code for OCR application. It consists of a 
 
 1. Clone the repository:
     ```bash
-    git clone <https://github.com/partelsandra/ocr_react>
+    git clone https://github.com/partelsandra/ocr_react
     ```
 
 2. Navigate to the backend directory:
