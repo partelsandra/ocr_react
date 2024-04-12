@@ -56,7 +56,7 @@ function App() {
             <div className="col-6">
               <div className="custom-box smaller-box">
                 <span className="main-heading format">Toetatud failiformaadid</span>
-                <span className="regular-text">Selle pildi tekstiks teisendaja toetab mitmeid pildifaili formaate. Saate laadida üles pilte järgmistes failivormingutes, et sealt teksti saada.
+                <span className="regular-text">Pildi tekstiks teisendaja toetab mitmeid pildifaili formaate. Saate laadida üles pilte järgmistes failivormingutes, et sealt teksti saada.
                   <ul>
                     <br />
                     <li>JPG</li>

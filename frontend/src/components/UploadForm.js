@@ -128,7 +128,7 @@ function UploadForm() {
         <div id="progress-bar-container" className="container-fluid">
           <div className="row justify-content-center align-items-center" style={{ height: '100vh' }}>
             <div className="col-12 progress-bar-box">
-              <span className="main-heading drop-file">Performing text recognition</span>
+              <span className="main-heading drop-file">Teostan tekstituvastust</span>
               <div className="progress">
                 <div className="progress-bar" id="progress-bar" role="progressbar" style={{ width: '0%' }} aria-valuenow="0"
                   aria-valuemin="0" aria-valuemax="100"></div>

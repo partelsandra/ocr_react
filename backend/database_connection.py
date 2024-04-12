@@ -10,7 +10,7 @@ def connect_and_insert(data):
 
         if connection.is_connected():
             db_Info = connection.get_server_info()
-            print("Connected to MySQL Server version ", db_Info)
+            print("Connected to MySQL", db_Info)
             cursor = connection.cursor()
 
             # Data to ocr_data
@@ -18,7 +18,7 @@ def connect_and_insert(data):
                            (data['filename'], data['image_url'], data['image_size'], data['file_size'], data['file_format']))
 
             connection.commit()
-            print("Data inserted into ocr_data successfully")
+            print("Data inserted to ocr_data successfully")
 
             image_id = cursor.lastrowid
 
@@ -27,7 +27,7 @@ def connect_and_insert(data):
                            (image_id, data['duration_time'], data['tesseract_version'], data['enhancement_settings'], data['page_segmentation']))
 
             connection.commit()
-            print("Data inserted into processing_data successfully")
+            print("Data inserted to processing_data successfully")
 
     except Error as e:
         print("Error while connecting to MySQL", e)
@@ -35,4 +35,4 @@ def connect_and_insert(data):
         if (connection.is_connected()):
             cursor.close()
             connection.close()
-            print("MySQL connection is closed")
+            print("MySQL connection  closed")
