@@ -102,7 +102,8 @@ function UploadForm() {
 
   const goToUploadScreen = () => {
     setOcrResult(null);
-  };
+    window.location.reload();
+};
 
   return (
     <div>
