@@ -1,0 +1,2283 @@
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 327-689-961
+INFO:app:File saved successfully
+INFO:app:Image processed successfully
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 09:36:04] "POST /upload HTTP/1.1" 200 -
+INFO:app:File saved successfully
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 09:40:13] "[33mPOST /process HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 09:40:14] "[33mPOST /process HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 09:40:15] "[33mPOST /process HTTP/1.1[0m" 404 -
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 09:40:20] "[33mPOST /process HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Detected change in '/home/sandra/Desktop/OCR_application/backend/app.py', reloading
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 327-689-961
+INFO:werkzeug: * Detected change in '/home/sandra/Desktop/OCR_application/backend/app.py', reloading
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 327-689-961
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 09:52:28] "POST /upload HTTP/1.1" 200 -
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 09:52:39] "POST /upload HTTP/1.1" 200 -
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 09:52:46] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/sandra/Desktop/OCR_application/backend/app.py', reloading
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 327-689-961
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 09:55:26] "POST /upload HTTP/1.1" 200 -
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 09:57:10] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/sandra/Desktop/OCR_application/backend/ocr_processing.py', reloading
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 327-689-961
+INFO:werkzeug: * Detected change in '/home/sandra/Desktop/OCR_application/backend/app.py', reloading
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 327-689-961
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 10:05:18] "POST /upload HTTP/1.1" 200 -
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 10:09:29] "POST /upload HTTP/1.1" 200 -
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 10:10:11] "POST /upload HTTP/1.1" 200 -
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 10:11:01] "POST /upload HTTP/1.1" 200 -
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 10:15:38] "POST /upload HTTP/1.1" 200 -
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 10:21:12] "POST /upload HTTP/1.1" 200 -
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 10:22:41] "POST /upload HTTP/1.1" 200 -
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 10:25:11] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 10:25:31] "[33mPOST /process HTTP/1.1[0m" 404 -
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 10:27:04] "POST /upload HTTP/1.1" 200 -
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 10:30:02] "POST /upload HTTP/1.1" 200 -
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 10:30:43] "POST /upload HTTP/1.1" 200 -
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 10:30:49] "POST /upload HTTP/1.1" 200 -
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 10:31:19] "POST /upload HTTP/1.1" 200 -
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 10:32:01] "POST /upload HTTP/1.1" 200 -
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 10:32:04] "POST /upload HTTP/1.1" 200 -
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 10:32:08] "POST /upload HTTP/1.1" 200 -
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 10:33:35] "POST /upload HTTP/1.1" 200 -
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 10:33:38] "POST /upload HTTP/1.1" 200 -
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 10:33:54] "POST /upload HTTP/1.1" 200 -
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 10:33:56] "POST /upload HTTP/1.1" 200 -
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 10:33:59] "POST /upload HTTP/1.1" 200 -
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 10:35:17] "POST /upload HTTP/1.1" 200 -
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 10:35:20] "POST /upload HTTP/1.1" 200 -
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 10:36:02] "POST /upload HTTP/1.1" 200 -
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 10:37:05] "POST /upload HTTP/1.1" 200 -
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 10:37:09] "POST /upload HTTP/1.1" 200 -
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 10:37:24] "POST /upload HTTP/1.1" 200 -
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 10:37:57] "POST /upload HTTP/1.1" 200 -
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 10:38:34] "POST /upload HTTP/1.1" 200 -
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 10:38:59] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 10:41:03] "[33mPOST /process HTTP/1.1[0m" 404 -
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 10:41:23] "POST /upload HTTP/1.1" 200 -
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 10:41:46] "POST /upload HTTP/1.1" 200 -
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 10:46:55] "POST /upload HTTP/1.1" 200 -
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 10:46:58] "POST /upload HTTP/1.1" 200 -
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 10:52:27] "POST /upload HTTP/1.1" 200 -
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 10:52:30] "POST /upload HTTP/1.1" 200 -
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 10:55:22] "POST /upload HTTP/1.1" 200 -
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 10:55:39] "POST /upload HTTP/1.1" 200 -
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 12:02:24] "POST /upload HTTP/1.1" 200 -
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 12:02:30] "POST /upload HTTP/1.1" 200 -
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 12:04:04] "POST /upload HTTP/1.1" 200 -
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 12:10:36] "POST /upload HTTP/1.1" 200 -
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 12:15:29] "POST /upload HTTP/1.1" 200 -
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 12:24:53] "POST /upload HTTP/1.1" 200 -
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 12:24:58] "POST /upload HTTP/1.1" 200 -
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 13:13:07] "POST /upload HTTP/1.1" 200 -
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 13:13:10] "POST /upload HTTP/1.1" 200 -
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 13:13:19] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/sandra/Desktop/OCR_application/backend/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 327-689-961
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 13:16:25] "POST /upload HTTP/1.1" 200 -
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 13:16:27] "POST /upload HTTP/1.1" 200 -
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 13:17:52] "POST /upload HTTP/1.1" 200 -
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 13:21:33] "POST /upload HTTP/1.1" 200 -
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 13:21:57] "POST /upload HTTP/1.1" 200 -
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 13:21:59] "POST /upload HTTP/1.1" 200 -
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 13:27:15] "POST /upload HTTP/1.1" 200 -
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 13:27:58] "POST /upload HTTP/1.1" 200 -
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 13:28:00] "POST /upload HTTP/1.1" 200 -
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 13:28:03] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 13:28:51] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 13:28:51] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 13:28:52] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 13:28:52] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 13:28:53] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 13:28:53] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 13:28:54] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 13:28:54] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 13:28:55] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 13:28:55] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 13:28:56] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 13:28:56] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 13:28:57] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 13:28:57] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 13:28:58] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 13:28:58] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 13:28:59] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 13:28:59] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 13:29:00] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 13:29:00] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 13:29:01] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 13:29:02] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 13:29:02] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 13:29:03] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 13:29:03] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 13:29:04] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 13:29:04] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 13:29:05] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 13:29:05] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 13:29:06] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 13:29:06] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 13:29:07] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 13:29:07] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 13:29:08] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 13:29:08] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 13:29:08] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 13:29:09] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 13:29:09] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 13:29:10] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 13:29:10] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 13:29:11] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 13:29:11] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 13:29:12] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 13:29:12] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 13:29:13] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 13:29:13] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 13:29:14] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 13:29:14] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 13:29:15] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 13:29:15] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 13:29:16] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 13:29:17] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 13:29:17] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 13:29:18] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 13:29:18] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 13:29:19] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 13:29:20] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 13:29:20] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 13:29:20] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 13:29:21] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 13:29:21] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 13:29:22] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 13:29:22] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 13:29:23] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 13:29:23] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 13:29:24] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 13:29:25] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 13:29:25] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 13:29:25] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 13:29:26] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 13:29:27] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 13:29:27] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 13:29:28] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 13:29:28] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 13:29:29] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 13:29:29] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 13:29:30] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 13:29:30] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 13:29:31] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 13:29:31] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 13:29:32] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 13:29:32] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 13:29:33] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 13:29:33] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 13:29:34] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 13:29:34] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 13:29:35] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 13:29:35] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 13:29:36] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 13:29:36] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 13:29:36] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 13:29:37] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 13:29:37] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 13:29:38] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 13:29:38] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 13:29:38] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 13:29:39] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 13:29:39] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 13:29:40] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 13:29:40] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 13:29:41] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 13:29:41] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 13:29:42] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 13:29:43] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 13:29:43] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 13:29:44] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 13:29:45] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 13:29:46] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 13:29:46] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 13:29:47] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 13:29:47] "POST /upload HTTP/1.1" 200 -
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 13:30:22] "POST /upload HTTP/1.1" 200 -
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 13:30:25] "POST /upload HTTP/1.1" 200 -
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 13:31:20] "POST /upload HTTP/1.1" 200 -
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 13:34:57] "POST /upload HTTP/1.1" 200 -
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 13:34:59] "POST /upload HTTP/1.1" 200 -
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 13:36:16] "POST /upload HTTP/1.1" 200 -
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 13:36:26] "POST /upload HTTP/1.1" 200 -
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 13:36:28] "POST /upload HTTP/1.1" 200 -
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 13:36:30] "POST /upload HTTP/1.1" 200 -
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 13:36:32] "POST /upload HTTP/1.1" 200 -
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 13:36:54] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 13:39:21] "[33mPOST /process HTTP/1.1[0m" 404 -
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 13:42:28] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/sandra/Desktop/OCR_application/backend/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 327-689-961
+INFO:werkzeug: * Detected change in '/home/sandra/Desktop/OCR_application/backend/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 327-689-961
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 13:56:42] "POST /upload HTTP/1.1" 200 -
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 13:57:28] "POST /upload HTTP/1.1" 200 -
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 13:57:33] "POST /upload HTTP/1.1" 200 -
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 13:57:54] "POST /upload HTTP/1.1" 200 -
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 13:58:18] "POST /upload HTTP/1.1" 200 -
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 14:08:35] "POST /upload HTTP/1.1" 200 -
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 14:09:37] "POST /upload HTTP/1.1" 200 -
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 14:12:13] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/sandra/Desktop/OCR_application/backend/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 327-689-961
+INFO:werkzeug: * Detected change in '/home/sandra/Desktop/OCR_application/backend/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 327-689-961
+INFO:werkzeug: * Detected change in '/home/sandra/Desktop/OCR_application/backend/ocr_processing.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 327-689-961
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 14:39:20] "OPTIONS /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 14:39:36] "POST /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 14:40:19] "OPTIONS /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 14:40:31] "POST /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 14:43:04] "OPTIONS /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 14:43:16] "POST /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 14:49:00] "OPTIONS /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 14:49:12] "POST /process HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/sandra/Desktop/OCR_application/backend/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 327-689-961
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 14:51:19] "OPTIONS /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 14:51:37] "POST /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 15:13:19] "OPTIONS /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 15:13:34] "POST /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 15:13:57] "[31m[1mGET /process HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 15:13:57] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 15:15:19] "OPTIONS /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 15:15:36] "POST /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 15:17:34] "OPTIONS /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 15:17:46] "POST /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 15:25:02] "OPTIONS /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 15:25:14] "POST /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 15:26:31] "OPTIONS /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 15:26:45] "POST /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 15:34:22] "OPTIONS /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 15:34:39] "POST /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 15:37:18] "OPTIONS /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 15:37:34] "POST /process HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 357-430-282
+INFO:werkzeug:127.0.0.1 - - [02/Apr/2024 09:48:51] "OPTIONS /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Apr/2024 09:49:03] "POST /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Apr/2024 09:50:35] "OPTIONS /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Apr/2024 09:51:07] "POST /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Apr/2024 09:51:34] "OPTIONS /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Apr/2024 09:51:45] "POST /process HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/sandra/Desktop/OCR_application/backend/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 357-430-282
+INFO:werkzeug:127.0.0.1 - - [02/Apr/2024 10:02:24] "OPTIONS /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Apr/2024 10:02:37] "POST /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Apr/2024 10:02:55] "OPTIONS /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Apr/2024 10:03:12] "POST /process HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/sandra/Desktop/OCR_application/backend/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 357-430-282
+INFO:werkzeug:127.0.0.1 - - [02/Apr/2024 10:05:21] "OPTIONS /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Apr/2024 10:05:38] "POST /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Apr/2024 10:14:59] "OPTIONS /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Apr/2024 10:15:11] "POST /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Apr/2024 10:20:31] "OPTIONS /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Apr/2024 10:20:44] "POST /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Apr/2024 10:24:10] "OPTIONS /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Apr/2024 10:24:10] "OPTIONS /process HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 357-430-282
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [02/Apr/2024 10:31:57] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Apr/2024 10:31:57] "OPTIONS /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Apr/2024 10:32:09] "POST /process HTTP/1.1" 200 -
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [02/Apr/2024 10:33:44] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Apr/2024 10:33:44] "OPTIONS /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Apr/2024 10:33:57] "POST /process HTTP/1.1" 200 -
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [02/Apr/2024 10:36:03] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Apr/2024 10:36:03] "OPTIONS /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Apr/2024 10:36:14] "POST /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Apr/2024 10:37:43] "[33mGET / HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [02/Apr/2024 10:37:54] "[31m[1mGET /process HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [02/Apr/2024 10:37:59] "[33mGET / HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Detected change in '/home/sandra/Desktop/OCR_application/backend/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 357-430-282
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [02/Apr/2024 10:46:16] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Apr/2024 10:46:16] "OPTIONS /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Apr/2024 10:46:28] "POST /process HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/sandra/Desktop/OCR_application/backend/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 357-430-282
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [02/Apr/2024 10:50:19] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Apr/2024 10:50:19] "OPTIONS /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Apr/2024 10:50:34] "POST /process HTTP/1.1" 200 -
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [02/Apr/2024 10:53:58] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Apr/2024 10:53:58] "OPTIONS /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Apr/2024 10:54:14] "POST /process HTTP/1.1" 200 -
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [02/Apr/2024 11:03:15] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Apr/2024 11:03:15] "OPTIONS /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Apr/2024 11:03:27] "POST /process HTTP/1.1" 200 -
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [02/Apr/2024 11:05:05] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Apr/2024 11:05:05] "OPTIONS /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Apr/2024 11:05:18] "POST /process HTTP/1.1" 200 -
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [02/Apr/2024 11:09:33] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Apr/2024 11:09:33] "OPTIONS /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Apr/2024 11:09:46] "POST /process HTTP/1.1" 200 -
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [02/Apr/2024 11:13:43] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Apr/2024 11:13:43] "OPTIONS /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Apr/2024 11:13:54] "POST /process HTTP/1.1" 200 -
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [02/Apr/2024 11:19:32] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Apr/2024 11:19:32] "OPTIONS /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Apr/2024 11:19:44] "POST /process HTTP/1.1" 200 -
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [02/Apr/2024 11:23:13] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Apr/2024 11:23:13] "OPTIONS /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Apr/2024 11:23:24] "POST /process HTTP/1.1" 200 -
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [02/Apr/2024 11:32:30] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Apr/2024 11:32:30] "OPTIONS /process HTTP/1.1" 200 -
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [02/Apr/2024 11:32:38] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Apr/2024 11:32:38] "OPTIONS /process HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 357-430-282
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [02/Apr/2024 11:37:37] "POST /upload HTTP/1.1" 200 -
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [02/Apr/2024 11:40:15] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Apr/2024 11:40:15] "OPTIONS /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Apr/2024 11:40:26] "POST /process HTTP/1.1" 200 -
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [02/Apr/2024 11:43:40] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Apr/2024 11:43:40] "OPTIONS /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Apr/2024 11:43:53] "POST /process HTTP/1.1" 200 -
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [02/Apr/2024 11:49:20] "POST /upload HTTP/1.1" 200 -
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [02/Apr/2024 11:54:29] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Apr/2024 11:54:29] "OPTIONS /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Apr/2024 11:54:41] "POST /process HTTP/1.1" 200 -
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [02/Apr/2024 11:55:11] "POST /upload HTTP/1.1" 200 -
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [02/Apr/2024 12:01:33] "POST /upload HTTP/1.1" 200 -
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [02/Apr/2024 12:01:35] "POST /upload HTTP/1.1" 200 -
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [02/Apr/2024 12:01:37] "POST /upload HTTP/1.1" 200 -
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [02/Apr/2024 12:01:39] "POST /upload HTTP/1.1" 200 -
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [02/Apr/2024 12:10:09] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Apr/2024 12:10:09] "OPTIONS /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Apr/2024 12:10:22] "POST /process HTTP/1.1" 200 -
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [02/Apr/2024 12:14:44] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Apr/2024 12:14:44] "OPTIONS /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Apr/2024 12:15:15] "POST /process HTTP/1.1" 200 -
+ERROR:app:An error occurred during OCR processing: 415 Unsupported Media Type: Did not attempt to load JSON data because the request Content-Type was not 'application/json'.
+Traceback (most recent call last):
+  File "/home/sandra/Desktop/OCR_application/backend/app.py", line 52, in process_image_endpoint
+    data = request.get_json()
+  File "/home/sandra/.local/lib/python3.10/site-packages/werkzeug/wrappers/request.py", line 604, in get_json
+    return self.on_json_loading_failed(None)
+  File "/home/sandra/.local/lib/python3.10/site-packages/flask/wrappers.py", line 131, in on_json_loading_failed
+    return super().on_json_loading_failed(e)
+  File "/home/sandra/.local/lib/python3.10/site-packages/werkzeug/wrappers/request.py", line 647, in on_json_loading_failed
+    raise UnsupportedMediaType(
+werkzeug.exceptions.UnsupportedMediaType: 415 Unsupported Media Type: Did not attempt to load JSON data because the request Content-Type was not 'application/json'.
+INFO:werkzeug:127.0.0.1 - - [02/Apr/2024 12:18:43] "[35m[1mPOST /process HTTP/1.1[0m" 500 -
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [02/Apr/2024 12:21:22] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Apr/2024 12:21:22] "OPTIONS /process HTTP/1.1" 200 -
+ERROR:app:An error occurred during OCR processing: join() argument must be str, bytes, or os.PathLike object, not 'dict'
+Traceback (most recent call last):
+  File "/home/sandra/Desktop/OCR_application/backend/app.py", line 55, in process_image_endpoint
+    image_path = os.path.join(app.config['UPLOAD_FOLDER'], filename)
+  File "/usr/lib/python3.10/posixpath.py", line 90, in join
+    genericpath._check_arg_types('join', a, *p)
+  File "/usr/lib/python3.10/genericpath.py", line 152, in _check_arg_types
+    raise TypeError(f'{funcname}() argument must be str, bytes, or '
+TypeError: join() argument must be str, bytes, or os.PathLike object, not 'dict'
+INFO:werkzeug:127.0.0.1 - - [02/Apr/2024 12:21:22] "[35m[1mPOST /process HTTP/1.1[0m" 500 -
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [02/Apr/2024 12:23:06] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Apr/2024 12:23:06] "OPTIONS /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Apr/2024 12:23:19] "POST /process HTTP/1.1" 200 -
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [02/Apr/2024 12:24:59] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Apr/2024 12:24:59] "OPTIONS /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Apr/2024 12:25:11] "POST /process HTTP/1.1" 200 -
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [02/Apr/2024 12:32:44] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Apr/2024 12:32:44] "OPTIONS /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Apr/2024 12:32:57] "POST /process HTTP/1.1" 200 -
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [02/Apr/2024 12:34:14] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Apr/2024 12:34:14] "OPTIONS /process HTTP/1.1" 200 -
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [02/Apr/2024 12:34:24] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Apr/2024 12:34:24] "OPTIONS /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Apr/2024 12:35:24] "POST /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Apr/2024 12:35:37] "POST /process HTTP/1.1" 200 -
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [02/Apr/2024 12:37:59] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Apr/2024 13:27:58] "[31m[1mPOST /upload HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [02/Apr/2024 13:30:39] "[31m[1mPOST /upload HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [02/Apr/2024 13:32:03] "[31m[1mPOST /upload HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [02/Apr/2024 13:32:33] "[31m[1mPOST /upload HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [02/Apr/2024 13:33:59] "[31m[1mPOST /upload HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [02/Apr/2024 13:35:17] "[33mPOST / HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [02/Apr/2024 13:35:24] "[31m[1mPOST /upload HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [02/Apr/2024 13:38:57] "POST /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Apr/2024 13:39:16] "[31m[1mPOST /upload HTTP/1.1[0m" 400 -
+INFO:werkzeug: * Detected change in '/home/sandra/Desktop/OCR_application/backend/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 357-430-282
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [02/Apr/2024 13:46:12] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Apr/2024 13:46:12] "OPTIONS /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Apr/2024 13:46:25] "POST /process HTTP/1.1" 200 -
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [02/Apr/2024 13:49:52] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Apr/2024 13:49:52] "OPTIONS /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Apr/2024 13:50:05] "POST /process HTTP/1.1" 200 -
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [02/Apr/2024 13:51:35] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Apr/2024 13:51:35] "OPTIONS /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Apr/2024 13:51:52] "POST /process HTTP/1.1" 200 -
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [02/Apr/2024 13:53:27] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Apr/2024 13:53:27] "OPTIONS /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Apr/2024 13:53:40] "POST /process HTTP/1.1" 200 -
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [02/Apr/2024 14:02:37] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Apr/2024 14:02:37] "OPTIONS /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Apr/2024 14:02:50] "POST /process HTTP/1.1" 200 -
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [02/Apr/2024 14:07:37] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Apr/2024 14:07:38] "OPTIONS /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Apr/2024 14:07:51] "POST /process HTTP/1.1" 200 -
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [02/Apr/2024 14:15:50] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Apr/2024 14:15:50] "OPTIONS /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Apr/2024 14:16:07] "POST /process HTTP/1.1" 200 -
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [02/Apr/2024 14:17:17] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Apr/2024 14:17:17] "OPTIONS /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Apr/2024 14:17:38] "POST /process HTTP/1.1" 200 -
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [02/Apr/2024 14:19:32] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Apr/2024 14:19:32] "OPTIONS /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Apr/2024 14:19:53] "POST /process HTTP/1.1" 200 -
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [02/Apr/2024 14:27:43] "POST /upload HTTP/1.1" 200 -
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [02/Apr/2024 14:28:37] "POST /upload HTTP/1.1" 200 -
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [02/Apr/2024 14:30:25] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Apr/2024 14:30:25] "OPTIONS /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Apr/2024 14:30:37] "POST /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Apr/2024 14:32:53] "[31m[1mPOST /upload HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [02/Apr/2024 14:32:57] "[31m[1mPOST /upload HTTP/1.1[0m" 400 -
+INFO:werkzeug: * Detected change in '/home/sandra/Desktop/OCR_application/backend/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 357-430-282
+INFO:werkzeug: * Detected change in '/home/sandra/Desktop/OCR_application/backend/ocr_processing.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 357-430-282
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [02/Apr/2024 14:49:19] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Apr/2024 14:49:19] "OPTIONS /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Apr/2024 14:49:30] "POST /process HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/sandra/Desktop/OCR_application/backend/ocr_processing.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 357-430-282
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [02/Apr/2024 14:54:07] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Apr/2024 14:54:07] "OPTIONS /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Apr/2024 14:54:19] "POST /process HTTP/1.1" 200 -
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [02/Apr/2024 14:58:42] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Apr/2024 14:58:42] "OPTIONS /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Apr/2024 14:58:53] "POST /process HTTP/1.1" 200 -
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [02/Apr/2024 14:59:55] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Apr/2024 14:59:55] "OPTIONS /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Apr/2024 15:00:06] "POST /process HTTP/1.1" 200 -
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [02/Apr/2024 15:01:07] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Apr/2024 15:01:07] "OPTIONS /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Apr/2024 15:01:20] "POST /process HTTP/1.1" 200 -
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [02/Apr/2024 15:04:30] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Apr/2024 15:04:30] "OPTIONS /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Apr/2024 15:04:43] "POST /process HTTP/1.1" 200 -
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [02/Apr/2024 15:07:39] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Apr/2024 15:07:39] "OPTIONS /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Apr/2024 15:07:52] "POST /process HTTP/1.1" 200 -
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [02/Apr/2024 15:08:21] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Apr/2024 15:08:21] "OPTIONS /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Apr/2024 15:08:33] "POST /process HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 393-051-063
+INFO:werkzeug: * Detected change in '/home/sandra/Desktop/OCR_application/backend/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 393-051-063
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [03/Apr/2024 11:11:39] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Apr/2024 11:11:39] "OPTIONS /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Apr/2024 11:11:39] "[35m[1mPOST /process HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in '/home/sandra/Desktop/OCR_application/backend/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 393-051-063
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [03/Apr/2024 11:13:20] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Apr/2024 11:13:20] "OPTIONS /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Apr/2024 11:13:20] "POST /process HTTP/1.1" 200 -
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [03/Apr/2024 11:13:36] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Apr/2024 11:13:36] "OPTIONS /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Apr/2024 11:13:36] "POST /process HTTP/1.1" 200 -
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [03/Apr/2024 11:13:49] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Apr/2024 11:13:49] "OPTIONS /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Apr/2024 11:13:49] "POST /process HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/sandra/Desktop/OCR_application/backend/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 393-051-063
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [03/Apr/2024 11:19:59] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Apr/2024 11:19:59] "OPTIONS /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Apr/2024 11:19:59] "POST /process HTTP/1.1" 200 -
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [03/Apr/2024 11:20:22] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Apr/2024 11:20:22] "OPTIONS /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Apr/2024 11:20:22] "POST /process HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/sandra/Desktop/OCR_application/backend/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 393-051-063
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [03/Apr/2024 11:22:11] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Apr/2024 11:22:11] "OPTIONS /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Apr/2024 11:22:11] "POST /process HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/sandra/Desktop/OCR_application/backend/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 393-051-063
+INFO:werkzeug: * Detected change in '/home/sandra/Desktop/OCR_application/backend/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 393-051-063
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [03/Apr/2024 11:26:12] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Apr/2024 11:26:12] "OPTIONS /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Apr/2024 11:26:26] "POST /process HTTP/1.1" 200 -
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [03/Apr/2024 11:28:50] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Apr/2024 11:28:50] "OPTIONS /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Apr/2024 11:29:02] "POST /process HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/sandra/Desktop/OCR_application/backend/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 393-051-063
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [03/Apr/2024 11:31:28] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Apr/2024 11:31:28] "OPTIONS /process HTTP/1.1" 200 -
+INFO:app:Received request to process image: erar-0-1_001_0000620_00002_t.jpg
+INFO:app:Initiating image processing
+INFO:app:Image processing completed
+INFO:app:Fetching OCR result
+INFO:app:Returning OCR result
+INFO:werkzeug:127.0.0.1 - - [03/Apr/2024 11:31:41] "POST /process HTTP/1.1" 200 -
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [03/Apr/2024 11:44:55] "POST /upload HTTP/1.1" 200 -
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [03/Apr/2024 11:47:49] "POST /upload HTTP/1.1" 200 -
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [03/Apr/2024 11:50:26] "POST /upload HTTP/1.1" 200 -
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [03/Apr/2024 12:41:53] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Apr/2024 12:44:21] "[33mOPTIONS /ocr_status HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [03/Apr/2024 12:44:38] "[33mOPTIONS /ocr_status HTTP/1.1[0m" 404 -
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [03/Apr/2024 12:44:49] "POST /upload HTTP/1.1" 200 -
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [03/Apr/2024 12:47:03] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Apr/2024 12:47:03] "OPTIONS /process HTTP/1.1" 200 -
+INFO:app:Received request to process image: erar-0-1_001_0000620_00002_t.jpg
+INFO:app:Initiating image processing
+INFO:app:Image processing completed
+INFO:app:Fetching OCR result
+INFO:app:Returning OCR result
+INFO:werkzeug:127.0.0.1 - - [03/Apr/2024 12:47:15] "POST /process HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 437-848-955
+INFO:werkzeug: * Detected change in '/home/sandra/Desktop/OCR_application/backend/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 437-848-955
+INFO:werkzeug: * Detected change in '/home/sandra/Desktop/OCR_application/backend/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 437-848-955
+INFO:werkzeug: * Detected change in '/home/sandra/Desktop/OCR_application/backend/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 437-848-955
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 09:49:00] "OPTIONS /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 09:49:11] "POST /process HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/sandra/Desktop/OCR_application/backend/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 437-848-955
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 09:55:59] "OPTIONS /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 09:56:11] "POST /process HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/sandra/Desktop/OCR_application/backend/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 437-848-955
+INFO:werkzeug: * Detected change in '/home/sandra/Desktop/OCR_application/backend/ocr_processing.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 437-848-955
+INFO:werkzeug: * Detected change in '/home/sandra/Desktop/OCR_application/backend/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 437-848-955
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 10:03:58] "OPTIONS /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 10:03:58] "POST /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 10:07:36] "OPTIONS /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 10:07:36] "POST /process HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/sandra/Desktop/OCR_application/backend/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 437-848-955
+INFO:werkzeug: * Detected change in '/home/sandra/Desktop/OCR_application/backend/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 437-848-955
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 10:09:00] "OPTIONS /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 10:09:00] "POST /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 10:12:27] "OPTIONS /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 10:12:27] "POST /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 10:16:27] "OPTIONS /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 10:16:27] "POST /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 10:18:22] "OPTIONS /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 10:18:22] "POST /process HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/sandra/Desktop/OCR_application/backend/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 437-848-955
+INFO:werkzeug: * Detected change in '/home/sandra/Desktop/OCR_application/backend/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 437-848-955
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 10:34:43] "OPTIONS /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 10:34:43] "POST /process HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/sandra/Desktop/OCR_application/backend/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 437-848-955
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 10:40:08] "[33mOPTIONS /process HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Detected change in '/home/sandra/Desktop/OCR_application/backend/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 437-848-955
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 10:42:29] "[33mOPTIONS /process HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Detected change in '/home/sandra/Desktop/OCR_application/backend/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 437-848-955
+INFO:werkzeug: * Detected change in '/home/sandra/Desktop/OCR_application/backend/ocr_processing.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 437-848-955
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 10:47:47] "OPTIONS /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 10:47:47] "POST /process HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/sandra/Desktop/OCR_application/backend/ocr_processing.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 437-848-955
+INFO:werkzeug: * Detected change in '/home/sandra/Desktop/OCR_application/backend/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 437-848-955
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 10:49:30] "[33mOPTIONS /process HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Detected change in '/home/sandra/Desktop/OCR_application/backend/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 437-848-955
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 10:49:44] "OPTIONS /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 10:49:44] "POST /process HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/sandra/Desktop/OCR_application/backend/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 437-848-955
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 10:51:24] "[33mOPTIONS /process HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Detected change in '/home/sandra/Desktop/OCR_application/backend/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 437-848-955
+ERROR:app:An error occurred during image processing: 415 Unsupported Media Type: Did not attempt to load JSON data because the request Content-Type was not 'application/json'.
+Traceback (most recent call last):
+  File "/home/sandra/Desktop/OCR_application/backend/app.py", line 55, in process_image_request
+    if 'filename' not in request.json:
+  File "/home/sandra/.local/lib/python3.10/site-packages/werkzeug/wrappers/request.py", line 558, in json
+    return self.get_json()
+  File "/home/sandra/.local/lib/python3.10/site-packages/werkzeug/wrappers/request.py", line 604, in get_json
+    return self.on_json_loading_failed(None)
+  File "/home/sandra/.local/lib/python3.10/site-packages/flask/wrappers.py", line 131, in on_json_loading_failed
+    return super().on_json_loading_failed(e)
+  File "/home/sandra/.local/lib/python3.10/site-packages/werkzeug/wrappers/request.py", line 647, in on_json_loading_failed
+    raise UnsupportedMediaType(
+werkzeug.exceptions.UnsupportedMediaType: 415 Unsupported Media Type: Did not attempt to load JSON data because the request Content-Type was not 'application/json'.
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 10:54:34] "[35m[1mPOST /process HTTP/1.1[0m" 500 -
+ERROR:app:An error occurred during image processing: 415 Unsupported Media Type: Did not attempt to load JSON data because the request Content-Type was not 'application/json'.
+Traceback (most recent call last):
+  File "/home/sandra/Desktop/OCR_application/backend/app.py", line 55, in process_image_request
+    if 'filename' not in request.json:
+  File "/home/sandra/.local/lib/python3.10/site-packages/werkzeug/wrappers/request.py", line 558, in json
+    return self.get_json()
+  File "/home/sandra/.local/lib/python3.10/site-packages/werkzeug/wrappers/request.py", line 604, in get_json
+    return self.on_json_loading_failed(None)
+  File "/home/sandra/.local/lib/python3.10/site-packages/flask/wrappers.py", line 131, in on_json_loading_failed
+    return super().on_json_loading_failed(e)
+  File "/home/sandra/.local/lib/python3.10/site-packages/werkzeug/wrappers/request.py", line 647, in on_json_loading_failed
+    raise UnsupportedMediaType(
+werkzeug.exceptions.UnsupportedMediaType: 415 Unsupported Media Type: Did not attempt to load JSON data because the request Content-Type was not 'application/json'.
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 10:54:54] "[35m[1mPOST /process HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 10:56:20] "OPTIONS /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 10:56:20] "[31m[1mPOST /process HTTP/1.1[0m" 400 -
+ERROR:app:An error occurred during image processing: 415 Unsupported Media Type: Did not attempt to load JSON data because the request Content-Type was not 'application/json'.
+Traceback (most recent call last):
+  File "/home/sandra/Desktop/OCR_application/backend/app.py", line 55, in process_image_request
+    if 'filename' not in request.json:
+  File "/home/sandra/.local/lib/python3.10/site-packages/werkzeug/wrappers/request.py", line 558, in json
+    return self.get_json()
+  File "/home/sandra/.local/lib/python3.10/site-packages/werkzeug/wrappers/request.py", line 604, in get_json
+    return self.on_json_loading_failed(None)
+  File "/home/sandra/.local/lib/python3.10/site-packages/flask/wrappers.py", line 131, in on_json_loading_failed
+    return super().on_json_loading_failed(e)
+  File "/home/sandra/.local/lib/python3.10/site-packages/werkzeug/wrappers/request.py", line 647, in on_json_loading_failed
+    raise UnsupportedMediaType(
+werkzeug.exceptions.UnsupportedMediaType: 415 Unsupported Media Type: Did not attempt to load JSON data because the request Content-Type was not 'application/json'.
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 10:57:08] "[35m[1mPOST /process?filename=erar-0-1_002_0000280_00002_t.jpg HTTP/1.1[0m" 500 -
+ERROR:app:An error occurred during image processing: 415 Unsupported Media Type: Did not attempt to load JSON data because the request Content-Type was not 'application/json'.
+Traceback (most recent call last):
+  File "/home/sandra/Desktop/OCR_application/backend/app.py", line 55, in process_image_request
+    if 'filename' not in request.json:
+  File "/home/sandra/.local/lib/python3.10/site-packages/werkzeug/wrappers/request.py", line 558, in json
+    return self.get_json()
+  File "/home/sandra/.local/lib/python3.10/site-packages/werkzeug/wrappers/request.py", line 604, in get_json
+    return self.on_json_loading_failed(None)
+  File "/home/sandra/.local/lib/python3.10/site-packages/flask/wrappers.py", line 131, in on_json_loading_failed
+    return super().on_json_loading_failed(e)
+  File "/home/sandra/.local/lib/python3.10/site-packages/werkzeug/wrappers/request.py", line 647, in on_json_loading_failed
+    raise UnsupportedMediaType(
+werkzeug.exceptions.UnsupportedMediaType: 415 Unsupported Media Type: Did not attempt to load JSON data because the request Content-Type was not 'application/json'.
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 10:57:37] "[35m[1mPOST /process?filename=erar-0-1_001_0000620_00002_t.jpg HTTP/1.1[0m" 500 -
+ERROR:app:An error occurred during image processing: 415 Unsupported Media Type: Did not attempt to load JSON data because the request Content-Type was not 'application/json'.
+Traceback (most recent call last):
+  File "/home/sandra/Desktop/OCR_application/backend/app.py", line 55, in process_image_request
+    if 'filename' not in request.json:
+  File "/home/sandra/.local/lib/python3.10/site-packages/werkzeug/wrappers/request.py", line 558, in json
+    return self.get_json()
+  File "/home/sandra/.local/lib/python3.10/site-packages/werkzeug/wrappers/request.py", line 604, in get_json
+    return self.on_json_loading_failed(None)
+  File "/home/sandra/.local/lib/python3.10/site-packages/flask/wrappers.py", line 131, in on_json_loading_failed
+    return super().on_json_loading_failed(e)
+  File "/home/sandra/.local/lib/python3.10/site-packages/werkzeug/wrappers/request.py", line 647, in on_json_loading_failed
+    raise UnsupportedMediaType(
+werkzeug.exceptions.UnsupportedMediaType: 415 Unsupported Media Type: Did not attempt to load JSON data because the request Content-Type was not 'application/json'.
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 10:59:01] "[35m[1mPOST /process?filename=erar-0-1_002_0000280_00002_t.jpg HTTP/1.1[0m" 500 -
+ERROR:app:An error occurred during image processing: 415 Unsupported Media Type: Did not attempt to load JSON data because the request Content-Type was not 'application/json'.
+Traceback (most recent call last):
+  File "/home/sandra/Desktop/OCR_application/backend/app.py", line 55, in process_image_request
+    if 'filename' not in request.json:
+  File "/home/sandra/.local/lib/python3.10/site-packages/werkzeug/wrappers/request.py", line 558, in json
+    return self.get_json()
+  File "/home/sandra/.local/lib/python3.10/site-packages/werkzeug/wrappers/request.py", line 604, in get_json
+    return self.on_json_loading_failed(None)
+  File "/home/sandra/.local/lib/python3.10/site-packages/flask/wrappers.py", line 131, in on_json_loading_failed
+    return super().on_json_loading_failed(e)
+  File "/home/sandra/.local/lib/python3.10/site-packages/werkzeug/wrappers/request.py", line 647, in on_json_loading_failed
+    raise UnsupportedMediaType(
+werkzeug.exceptions.UnsupportedMediaType: 415 Unsupported Media Type: Did not attempt to load JSON data because the request Content-Type was not 'application/json'.
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 11:01:19] "[35m[1mPOST /process HTTP/1.1[0m" 500 -
+ERROR:app:An error occurred during image processing: 415 Unsupported Media Type: Did not attempt to load JSON data because the request Content-Type was not 'application/json'.
+Traceback (most recent call last):
+  File "/home/sandra/Desktop/OCR_application/backend/app.py", line 55, in process_image_request
+    if 'filename' not in request.json:
+  File "/home/sandra/.local/lib/python3.10/site-packages/werkzeug/wrappers/request.py", line 558, in json
+    return self.get_json()
+  File "/home/sandra/.local/lib/python3.10/site-packages/werkzeug/wrappers/request.py", line 604, in get_json
+    return self.on_json_loading_failed(None)
+  File "/home/sandra/.local/lib/python3.10/site-packages/flask/wrappers.py", line 131, in on_json_loading_failed
+    return super().on_json_loading_failed(e)
+  File "/home/sandra/.local/lib/python3.10/site-packages/werkzeug/wrappers/request.py", line 647, in on_json_loading_failed
+    raise UnsupportedMediaType(
+werkzeug.exceptions.UnsupportedMediaType: 415 Unsupported Media Type: Did not attempt to load JSON data because the request Content-Type was not 'application/json'.
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 11:02:33] "[35m[1mPOST /process?filename=[object%20File] HTTP/1.1[0m" 500 -
+ERROR:app:An error occurred during image processing: 415 Unsupported Media Type: Did not attempt to load JSON data because the request Content-Type was not 'application/json'.
+Traceback (most recent call last):
+  File "/home/sandra/Desktop/OCR_application/backend/app.py", line 55, in process_image_request
+    if 'filename' not in request.json:
+  File "/home/sandra/.local/lib/python3.10/site-packages/werkzeug/wrappers/request.py", line 558, in json
+    return self.get_json()
+  File "/home/sandra/.local/lib/python3.10/site-packages/werkzeug/wrappers/request.py", line 604, in get_json
+    return self.on_json_loading_failed(None)
+  File "/home/sandra/.local/lib/python3.10/site-packages/flask/wrappers.py", line 131, in on_json_loading_failed
+    return super().on_json_loading_failed(e)
+  File "/home/sandra/.local/lib/python3.10/site-packages/werkzeug/wrappers/request.py", line 647, in on_json_loading_failed
+    raise UnsupportedMediaType(
+werkzeug.exceptions.UnsupportedMediaType: 415 Unsupported Media Type: Did not attempt to load JSON data because the request Content-Type was not 'application/json'.
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 11:03:38] "[35m[1mPOST /process HTTP/1.1[0m" 500 -
+ERROR:app:An error occurred during image processing: 415 Unsupported Media Type: Did not attempt to load JSON data because the request Content-Type was not 'application/json'.
+Traceback (most recent call last):
+  File "/home/sandra/Desktop/OCR_application/backend/app.py", line 55, in process_image_request
+    if 'filename' not in request.json:
+  File "/home/sandra/.local/lib/python3.10/site-packages/werkzeug/wrappers/request.py", line 558, in json
+    return self.get_json()
+  File "/home/sandra/.local/lib/python3.10/site-packages/werkzeug/wrappers/request.py", line 604, in get_json
+    return self.on_json_loading_failed(None)
+  File "/home/sandra/.local/lib/python3.10/site-packages/flask/wrappers.py", line 131, in on_json_loading_failed
+    return super().on_json_loading_failed(e)
+  File "/home/sandra/.local/lib/python3.10/site-packages/werkzeug/wrappers/request.py", line 647, in on_json_loading_failed
+    raise UnsupportedMediaType(
+werkzeug.exceptions.UnsupportedMediaType: 415 Unsupported Media Type: Did not attempt to load JSON data because the request Content-Type was not 'application/json'.
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 11:08:47] "[35m[1mPOST /process HTTP/1.1[0m" 500 -
+ERROR:app:An error occurred during image processing: 415 Unsupported Media Type: Did not attempt to load JSON data because the request Content-Type was not 'application/json'.
+Traceback (most recent call last):
+  File "/home/sandra/Desktop/OCR_application/backend/app.py", line 55, in process_image_request
+    if 'filename' not in request.json:
+  File "/home/sandra/.local/lib/python3.10/site-packages/werkzeug/wrappers/request.py", line 558, in json
+    return self.get_json()
+  File "/home/sandra/.local/lib/python3.10/site-packages/werkzeug/wrappers/request.py", line 604, in get_json
+    return self.on_json_loading_failed(None)
+  File "/home/sandra/.local/lib/python3.10/site-packages/flask/wrappers.py", line 131, in on_json_loading_failed
+    return super().on_json_loading_failed(e)
+  File "/home/sandra/.local/lib/python3.10/site-packages/werkzeug/wrappers/request.py", line 647, in on_json_loading_failed
+    raise UnsupportedMediaType(
+werkzeug.exceptions.UnsupportedMediaType: 415 Unsupported Media Type: Did not attempt to load JSON data because the request Content-Type was not 'application/json'.
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 11:12:07] "[35m[1mPOST /process HTTP/1.1[0m" 500 -
+ERROR:app:An error occurred during image processing: 415 Unsupported Media Type: Did not attempt to load JSON data because the request Content-Type was not 'application/json'.
+Traceback (most recent call last):
+  File "/home/sandra/Desktop/OCR_application/backend/app.py", line 55, in process_image_request
+    if 'filename' not in request.json:
+  File "/home/sandra/.local/lib/python3.10/site-packages/werkzeug/wrappers/request.py", line 558, in json
+    return self.get_json()
+  File "/home/sandra/.local/lib/python3.10/site-packages/werkzeug/wrappers/request.py", line 604, in get_json
+    return self.on_json_loading_failed(None)
+  File "/home/sandra/.local/lib/python3.10/site-packages/flask/wrappers.py", line 131, in on_json_loading_failed
+    return super().on_json_loading_failed(e)
+  File "/home/sandra/.local/lib/python3.10/site-packages/werkzeug/wrappers/request.py", line 647, in on_json_loading_failed
+    raise UnsupportedMediaType(
+werkzeug.exceptions.UnsupportedMediaType: 415 Unsupported Media Type: Did not attempt to load JSON data because the request Content-Type was not 'application/json'.
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 11:12:12] "[35m[1mPOST /process HTTP/1.1[0m" 500 -
+ERROR:app:An error occurred during image processing: 415 Unsupported Media Type: Did not attempt to load JSON data because the request Content-Type was not 'application/json'.
+Traceback (most recent call last):
+  File "/home/sandra/Desktop/OCR_application/backend/app.py", line 55, in process_image_request
+    if 'filename' not in request.json:
+  File "/home/sandra/.local/lib/python3.10/site-packages/werkzeug/wrappers/request.py", line 558, in json
+    return self.get_json()
+  File "/home/sandra/.local/lib/python3.10/site-packages/werkzeug/wrappers/request.py", line 604, in get_json
+    return self.on_json_loading_failed(None)
+  File "/home/sandra/.local/lib/python3.10/site-packages/flask/wrappers.py", line 131, in on_json_loading_failed
+    return super().on_json_loading_failed(e)
+  File "/home/sandra/.local/lib/python3.10/site-packages/werkzeug/wrappers/request.py", line 647, in on_json_loading_failed
+    raise UnsupportedMediaType(
+werkzeug.exceptions.UnsupportedMediaType: 415 Unsupported Media Type: Did not attempt to load JSON data because the request Content-Type was not 'application/json'.
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 11:13:38] "[35m[1mPOST /process HTTP/1.1[0m" 500 -
+ERROR:app:An error occurred during image processing: 415 Unsupported Media Type: Did not attempt to load JSON data because the request Content-Type was not 'application/json'.
+Traceback (most recent call last):
+  File "/home/sandra/Desktop/OCR_application/backend/app.py", line 55, in process_image_request
+    if 'filename' not in request.json:
+  File "/home/sandra/.local/lib/python3.10/site-packages/werkzeug/wrappers/request.py", line 558, in json
+    return self.get_json()
+  File "/home/sandra/.local/lib/python3.10/site-packages/werkzeug/wrappers/request.py", line 604, in get_json
+    return self.on_json_loading_failed(None)
+  File "/home/sandra/.local/lib/python3.10/site-packages/flask/wrappers.py", line 131, in on_json_loading_failed
+    return super().on_json_loading_failed(e)
+  File "/home/sandra/.local/lib/python3.10/site-packages/werkzeug/wrappers/request.py", line 647, in on_json_loading_failed
+    raise UnsupportedMediaType(
+werkzeug.exceptions.UnsupportedMediaType: 415 Unsupported Media Type: Did not attempt to load JSON data because the request Content-Type was not 'application/json'.
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 11:17:34] "[35m[1mPOST /process HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in '/home/sandra/Desktop/OCR_application/backend/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 437-848-955
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 11:18:48] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 11:18:49] "OPTIONS /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 11:19:02] "POST /process HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/sandra/Desktop/OCR_application/backend/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 437-848-955
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 11:24:04] "OPTIONS /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 11:24:04] "POST /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 11:27:44] "OPTIONS /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 11:27:44] "POST /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 11:34:18] "OPTIONS /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 11:34:18] "POST /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 11:42:46] "OPTIONS /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 11:42:46] "POST /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 11:44:08] "OPTIONS /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 11:44:08] "POST /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 11:48:18] "OPTIONS /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 11:48:18] "POST /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 11:49:39] "OPTIONS /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 11:49:39] "POST /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 11:58:18] "OPTIONS /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 11:58:18] "POST /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 12:04:00] "OPTIONS /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 12:04:00] "POST /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 12:17:15] "OPTIONS /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 12:17:15] "POST /process HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/sandra/Desktop/OCR_application/backend/ocr_processing.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 437-848-955
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 12:22:27] "OPTIONS /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 12:22:27] "POST /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 12:29:46] "OPTIONS /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 12:29:46] "POST /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 12:29:54] "OPTIONS /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 12:29:54] "POST /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 12:30:04] "OPTIONS /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 12:30:04] "POST /process HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 437-848-955
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 12:31:45] "OPTIONS /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 12:31:45] "POST /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 13:45:12] "OPTIONS /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 13:45:12] "POST /process HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/sandra/Desktop/OCR_application/backend/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 437-848-955
+INFO:werkzeug: * Detected change in '/home/sandra/Desktop/OCR_application/backend/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 437-848-955
+INFO:werkzeug: * Detected change in '/home/sandra/Desktop/OCR_application/backend/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 437-848-955
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 14:01:43] "OPTIONS /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 14:01:43] "POST /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 14:10:00] "OPTIONS /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 14:10:00] "POST /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 14:12:03] "OPTIONS /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 14:12:03] "POST /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 14:17:38] "OPTIONS /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 14:17:38] "POST /process HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/sandra/Desktop/OCR_application/backend/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 437-848-955
+ERROR:engineio.server:http://127.0.0.1:5500 is not an accepted origin. (further occurrences of this error will be logged with level INFO)
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 14:22:21] "[31m[1mGET /socket.io/?EIO=4&transport=polling&t=Owes7Do HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 14:22:23] "[31m[1mGET /socket.io/?EIO=4&transport=polling&t=Owes7f_ HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 14:22:23] "[31m[1mGET /socket.io/?EIO=4&transport=polling&t=Owes7lq HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 14:22:24] "[31m[1mGET /socket.io/?EIO=4&transport=polling&t=Owes7xU HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 14:22:24] "[31m[1mGET /socket.io/?EIO=4&transport=polling&t=Owes80q HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 14:22:26] "[31m[1mGET /socket.io/?EIO=4&transport=polling&t=Owes8MZ HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 14:22:26] "[31m[1mGET /socket.io/?EIO=4&transport=polling&t=Owes8Ry HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 14:22:27] "[31m[1mGET /socket.io/?EIO=4&transport=polling&t=Owes8cR HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 14:22:27] "[31m[1mGET /socket.io/?EIO=4&transport=polling&t=Owes8h8 HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 14:22:28] "[31m[1mGET /socket.io/?EIO=4&transport=polling&t=Owes922 HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 14:22:29] "[31m[1mGET /socket.io/?EIO=4&transport=polling&t=Owes97m HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 14:22:30] "[31m[1mGET /socket.io/?EIO=4&transport=polling&t=Owes9Pk HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 14:22:30] "[31m[1mGET /socket.io/?EIO=4&transport=polling&t=Owes9XB HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 14:22:32] "[31m[1mGET /socket.io/?EIO=4&transport=polling&t=OwesA25 HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 14:22:33] "[31m[1mGET /socket.io/?EIO=4&transport=polling&t=OwesA6r HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 14:22:35] "[31m[1mGET /socket.io/?EIO=4&transport=polling&t=OwesAcf HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 14:22:35] "[31m[1mGET /socket.io/?EIO=4&transport=polling&t=OwesAhf HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 14:22:37] "[31m[1mGET /socket.io/?EIO=4&transport=polling&t=OwesBBP HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 14:22:38] "[31m[1mGET /socket.io/?EIO=4&transport=polling&t=OwesBGZ HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 14:22:40] "[31m[1mGET /socket.io/?EIO=4&transport=polling&t=OwesBmO HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 14:22:40] "[31m[1mGET /socket.io/?EIO=4&transport=polling&t=OwesBsD HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 14:22:42] "[31m[1mGET /socket.io/?EIO=4&transport=polling&t=OwesCP9 HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 14:22:42] "[31m[1mGET /socket.io/?EIO=4&transport=polling&t=OwesCTY HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 14:22:44] "[31m[1mGET /socket.io/?EIO=4&transport=polling&t=OwesCzC HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 14:22:45] "[31m[1mGET /socket.io/?EIO=4&transport=polling&t=OwesD31 HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 14:22:47] "[31m[1mGET /socket.io/?EIO=4&transport=polling&t=OwesDZ1 HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 14:22:47] "[31m[1mGET /socket.io/?EIO=4&transport=polling&t=OwesDdU HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 14:22:50] "[31m[1mGET /socket.io/?EIO=4&transport=polling&t=OwesEDf HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 14:22:50] "[31m[1mGET /socket.io/?EIO=4&transport=polling&t=OwesEJw HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 14:22:52] "[31m[1mGET /socket.io/?EIO=4&transport=polling&t=OwesErO HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 14:22:52] "[31m[1mGET /socket.io/?EIO=4&transport=polling&t=OwesEvr HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 14:22:55] "[31m[1mGET /socket.io/?EIO=4&transport=polling&t=OwesFVZ HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 14:22:55] "[31m[1mGET /socket.io/?EIO=4&transport=polling&t=OwesFaS HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 14:22:58] "[31m[1mGET /socket.io/?EIO=4&transport=polling&t=OwesGAX HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 14:22:58] "[31m[1mGET /socket.io/?EIO=4&transport=polling&t=OwesGGq HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 14:23:00] "[31m[1mGET /socket.io/?EIO=4&transport=polling&t=OwesGqO HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 14:23:01] "[31m[1mGET /socket.io/?EIO=4&transport=polling&t=OwesGvY HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 14:23:03] "[31m[1mGET /socket.io/?EIO=4&transport=polling&t=OwesHPP HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 14:23:03] "[31m[1mGET /socket.io/?EIO=4&transport=polling&t=OwesHUr HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 14:23:05] "[31m[1mGET /socket.io/?EIO=4&transport=polling&t=OwesI4_ HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 14:23:06] "[31m[1mGET /socket.io/?EIO=4&transport=polling&t=OwesI9o HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 14:23:08] "[31m[1mGET /socket.io/?EIO=4&transport=polling&t=OwesIgo HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 14:23:08] "[31m[1mGET /socket.io/?EIO=4&transport=polling&t=OwesImG HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 14:23:10] "[31m[1mGET /socket.io/?EIO=4&transport=polling&t=OwesJGy HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 14:23:11] "[31m[1mGET /socket.io/?EIO=4&transport=polling&t=OwesJMn HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 14:23:13] "[31m[1mGET /socket.io/?EIO=4&transport=polling&t=OwesJt6 HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 14:23:13] "[31m[1mGET /socket.io/?EIO=4&transport=polling&t=OwesJyl HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 14:23:16] "[31m[1mGET /socket.io/?EIO=4&transport=polling&t=OwesKbU HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 14:23:16] "[31m[1mGET /socket.io/?EIO=4&transport=polling&t=OwesKj_ HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 14:23:18] "[31m[1mGET /socket.io/?EIO=4&transport=polling&t=OwesL7r HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 14:23:18] "[31m[1mGET /socket.io/?EIO=4&transport=polling&t=OwesLG1 HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 14:23:20] "[31m[1mGET /socket.io/?EIO=4&transport=polling&t=OwesLfV HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 14:23:20] "[31m[1mGET /socket.io/?EIO=4&transport=polling&t=OwesLkc HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 14:23:21] "[31m[1mGET /socket.io/?EIO=4&transport=polling&t=OwesL-U HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 14:23:22] "[31m[1mGET /socket.io/?EIO=4&transport=polling&t=OwesM4U HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 14:23:23] "[31m[1mGET /socket.io/?EIO=4&transport=polling&t=OwesMQQ HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 14:23:24] "[31m[1mGET /socket.io/?EIO=4&transport=polling&t=OwesMVu HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 14:23:25] "[31m[1mGET /socket.io/?EIO=4&transport=polling&t=OwesMwI HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 14:23:26] "[31m[1mGET /socket.io/?EIO=4&transport=polling&t=OwesN0O HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 14:23:27] "[31m[1mGET /socket.io/?EIO=4&transport=polling&t=OwesNG4 HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 14:23:27] "[31m[1mGET /socket.io/?EIO=4&transport=polling&t=OwesNL6 HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 14:23:28] "[31m[1mGET /socket.io/?EIO=4&transport=polling&t=OwesNg2 HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 14:23:29] "[31m[1mGET /socket.io/?EIO=4&transport=polling&t=OwesNlk HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 14:23:30] "[31m[1mGET /socket.io/?EIO=4&transport=polling&t=OwesO3q HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 14:23:30] "[31m[1mGET /socket.io/?EIO=4&transport=polling&t=OwesO9Y HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 14:23:32] "[31m[1mGET /socket.io/?EIO=4&transport=polling&t=OwesOUT HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 14:23:32] "[31m[1mGET /socket.io/?EIO=4&transport=polling&t=OwesOa1 HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 14:23:33] "[31m[1mGET /socket.io/?EIO=4&transport=polling&t=OwesOlk HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 14:23:33] "[31m[1mGET /socket.io/?EIO=4&transport=polling&t=OwesOqN HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 14:23:34] "[31m[1mGET /socket.io/?EIO=4&transport=polling&t=OwesP5A HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 14:23:35] "[31m[1mGET /socket.io/?EIO=4&transport=polling&t=OwesPBE HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 14:23:36] "[31m[1mGET /socket.io/?EIO=4&transport=polling&t=OwesPYb HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 14:23:36] "[31m[1mGET /socket.io/?EIO=4&transport=polling&t=OwesPeN HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 14:23:38] "[31m[1mGET /socket.io/?EIO=4&transport=polling&t=OwesPxb HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 14:23:38] "[31m[1mGET /socket.io/?EIO=4&transport=polling&t=OwesQ1O HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 14:23:40] "[31m[1mGET /socket.io/?EIO=4&transport=polling&t=OwesQRB HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 14:23:40] "[31m[1mGET /socket.io/?EIO=4&transport=polling&t=OwesQVh HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 14:23:42] "[31m[1mGET /socket.io/?EIO=4&transport=polling&t=OwesR69 HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 14:23:43] "[31m[1mGET /socket.io/?EIO=4&transport=polling&t=OwesRAj HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 14:23:45] "[31m[1mGET /socket.io/?EIO=4&transport=polling&t=OwesRi2 HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 14:23:45] "[31m[1mGET /socket.io/?EIO=4&transport=polling&t=OwesRn2 HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 14:23:47] "[31m[1mGET /socket.io/?EIO=4&transport=polling&t=OwesSI7 HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 14:23:48] "[31m[1mGET /socket.io/?EIO=4&transport=polling&t=OwesSNS HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 14:23:49] "[31m[1mGET /socket.io/?EIO=4&transport=polling&t=OwesSkd HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 14:23:49] "[31m[1mGET /socket.io/?EIO=4&transport=polling&t=OwesSq9 HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 14:23:51] "[31m[1mGET /socket.io/?EIO=4&transport=polling&t=OwesTDP HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 14:23:51] "[31m[1mGET /socket.io/?EIO=4&transport=polling&t=OwesTJV HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 14:23:52] "[31m[1mGET /socket.io/?EIO=4&transport=polling&t=OwesTVA HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 14:23:53] "[31m[1mGET /socket.io/?EIO=4&transport=polling&t=OwesTa7 HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 14:23:54] "[31m[1mGET /socket.io/?EIO=4&transport=polling&t=OwesTul HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 14:23:54] "[31m[1mGET /socket.io/?EIO=4&transport=polling&t=OwesT_x HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 14:23:55] "[31m[1mGET /socket.io/?EIO=4&transport=polling&t=OwesUJH HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 14:23:56] "[31m[1mGET /socket.io/?EIO=4&transport=polling&t=OwesUOT HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 14:23:57] "[31m[1mGET /socket.io/?EIO=4&transport=polling&t=OwesUh8 HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 14:23:57] "[31m[1mGET /socket.io/?EIO=4&transport=polling&t=OwesUmX HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 14:23:59] "[31m[1mGET /socket.io/?EIO=4&transport=polling&t=OwesVCR HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 14:23:59] "[31m[1mGET /socket.io/?EIO=4&transport=polling&t=OwesVHC HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 14:24:01] "[31m[1mGET /socket.io/?EIO=4&transport=polling&t=OwesVg3 HTTP/1.1[0m" 400 -
+INFO:werkzeug: * Detected change in '/home/sandra/Desktop/OCR_application/backend/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 437-848-955
+ERROR:engineio.server:http://127.0.0.1:5500 is not an accepted origin. (further occurrences of this error will be logged with level INFO)
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 14:25:24] "[31m[1mGET /socket.io/?EIO=4&transport=polling&t=Owesq17 HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 14:25:27] "[31m[1mGET /socket.io/?EIO=4&transport=polling&t=OwesqXQ HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 14:25:27] "[31m[1mGET /socket.io/?EIO=4&transport=polling&t=Owesqbq HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 14:25:28] "[31m[1mGET /socket.io/?EIO=4&transport=polling&t=Owesq-G HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 14:25:29] "[31m[1mGET /socket.io/?EIO=4&transport=polling&t=Owesr32 HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 14:25:30] "[31m[1mGET /socket.io/?EIO=4&transport=polling&t=OwesrIY HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 14:25:30] "[31m[1mGET /socket.io/?EIO=4&transport=polling&t=OwesrNF HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 14:25:31] "[31m[1mGET /socket.io/?EIO=4&transport=polling&t=Owesra7 HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 14:25:31] "[31m[1mGET /socket.io/?EIO=4&transport=polling&t=OwesreU HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 14:25:32] "[31m[1mGET /socket.io/?EIO=4&transport=polling&t=OwesrxP HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 14:25:33] "[31m[1mGET /socket.io/?EIO=4&transport=polling&t=Owess0o HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 14:25:35] "[31m[1mGET /socket.io/?EIO=4&transport=polling&t=Owessdl HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 14:25:35] "[31m[1mGET /socket.io/?EIO=4&transport=polling&t=OwessjA HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 14:25:38] "[31m[1mGET /socket.io/?EIO=4&transport=polling&t=OwestDF HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 14:25:38] "[31m[1mGET /socket.io/?EIO=4&transport=polling&t=OwestJX HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 14:25:40] "[31m[1mGET /socket.io/?EIO=4&transport=polling&t=Owestub HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 14:25:41] "[31m[1mGET /socket.io/?EIO=4&transport=polling&t=OwestzV HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 14:25:43] "[31m[1mGET /socket.io/?EIO=4&transport=polling&t=OwesuTh HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 14:25:43] "[31m[1mGET /socket.io/?EIO=4&transport=polling&t=OwesuYm HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 14:25:45] "[31m[1mGET /socket.io/?EIO=4&transport=polling&t=Owesv2W HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 14:25:45] "[31m[1mGET /socket.io/?EIO=4&transport=polling&t=Owesv7U HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 14:25:48] "[31m[1mGET /socket.io/?EIO=4&transport=polling&t=OwesvjR HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 14:25:48] "[31m[1mGET /socket.io/?EIO=4&transport=polling&t=Owesvnu HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 14:25:51] "[31m[1mGET /socket.io/?EIO=4&transport=polling&t=OweswSR HTTP/1.1[0m" 400 -
+INFO:werkzeug: * Detected change in '/home/sandra/Desktop/OCR_application/backend/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 437-848-955
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 14:26:12] "OPTIONS /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 14:26:12] "POST /process HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/sandra/Desktop/OCR_application/backend/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 437-848-955
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 14:29:02] "OPTIONS /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 14:29:02] "POST /process HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/sandra/Desktop/OCR_application/backend/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 437-848-955
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 14:33:28] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 14:33:28] "OPTIONS /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 14:33:41] "POST /process HTTP/1.1" 200 -
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 14:35:31] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 14:35:31] "OPTIONS /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 14:35:43] "POST /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 14:36:10] "[31m[1mGET /process HTTP/1.1[0m" 405 -
+INFO:werkzeug: * Detected change in '/home/sandra/Desktop/OCR_application/backend/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 437-848-955
+INFO:werkzeug: * Detected change in '/home/sandra/Desktop/OCR_application/backend/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 437-848-955
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 14:39:01] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 14:39:01] "OPTIONS /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 14:39:14] "POST /process HTTP/1.1" 200 -
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 14:42:09] "POST /upload HTTP/1.1" 200 -
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 14:45:20] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 14:45:20] "OPTIONS /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 14:45:32] "POST /process HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 648-971-695
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 10:48:50] "POST /upload HTTP/1.1" 200 -
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 11:05:20] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/sandra/Desktop/ocr_application_react/backend/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 648-971-695
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 11:08:17] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/sandra/Desktop/ocr_application_react/backend/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 648-971-695
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 11:09:34] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 11:09:34] "OPTIONS /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 11:09:48] "POST /process HTTP/1.1" 200 -
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 11:15:11] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 11:15:11] "OPTIONS /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 11:15:22] "POST /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 11:15:22] "[33mGET /home/sandra/Desktop/ocr_application_react/backend/saved_images/erar-0-1_001_0000620_00002_t.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 11:18:01] "[33mGET /home/sandra/Desktop/ocr_application_react/backend/saved_images/erar-0-1_001_0000620_00002_t.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 11:18:01] "[33mGET /home/sandra/Desktop/ocr_application_react/backend/saved_images/erar-0-1_001_0000620_00002_t.jpg HTTP/1.1[0m" 404 -
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 11:19:41] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 11:19:41] "OPTIONS /process HTTP/1.1" 200 -
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 11:19:43] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 11:19:43] "OPTIONS /process HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 648-971-695
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 11:20:44] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 11:20:44] "OPTIONS /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 11:20:55] "POST /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 11:20:55] "[33mGET /home/sandra/Desktop/ocr_application_react/backend/saved_images/erar-0-1_001_0000620_00002_t.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 11:20:55] "[33mGET /home/sandra/Desktop/ocr_application_react/backend/saved_images/erar-0-1_001_0000620_00002_t.jpg HTTP/1.1[0m" 404 -
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 11:35:21] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 11:35:21] "OPTIONS /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 11:35:32] "POST /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 11:35:32] "[33mGET /home/sandra/Desktop/ocr_application_react/backend/saved_images/erar-0-1_001_0000620_00002_t.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 11:35:32] "[33mGET /home/sandra/Desktop/ocr_application_react/backend/saved_images/erar-0-1_001_0000620_00002_t.jpg HTTP/1.1[0m" 404 -
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 11:40:54] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 11:40:54] "OPTIONS /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 11:41:05] "POST /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 11:41:05] "[33mGET /home/sandra/Desktop/ocr_application_react/backend/saved_images/erar-0-1_001_0000620_00002_t.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 11:41:05] "[33mGET /home/sandra/Desktop/ocr_application_react/backend/saved_images/erar-0-1_001_0000620_00002_t.jpg HTTP/1.1[0m" 404 -
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 11:55:22] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 11:55:22] "OPTIONS /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 11:55:34] "POST /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 11:55:34] "[33mGET /home/sandra/Desktop/ocr_application_react/backend/saved_images/erar-0-1_001_0000620_00002_t.jpg HTTP/1.1[0m" 404 -
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 12:13:10] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 12:13:10] "OPTIONS /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 12:13:20] "POST /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 12:13:20] "[33mGET /home/sandra/Desktop/ocr_application_react/backend/saved_images/erar-0-1_001_0000620_00002_t.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 12:13:20] "[33mGET /home/sandra/Desktop/ocr_application_react/backend/saved_images/erar-0-1_001_0000620_00002_t.jpg HTTP/1.1[0m" 404 -
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 12:14:10] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 12:14:10] "OPTIONS /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 12:14:23] "POST /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 12:14:24] "[33mGET /home/sandra/Desktop/ocr_application_react/backend/saved_images/erar-0-1_002_0000280_00005_t.jpg HTTP/1.1[0m" 404 -
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 13:06:28] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 13:06:28] "OPTIONS /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 13:06:39] "POST /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 13:06:39] "[33mGET /home/sandra/Desktop/ocr_application_react/backend/saved_images/erar-0-1_001_0000620_00002_t.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 13:06:39] "[33mGET /home/sandra/Desktop/ocr_application_react/backend/saved_images/erar-0-1_001_0000620_00002_t.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 104-258-924
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 13:49:38] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 13:49:38] "OPTIONS /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 13:49:45] "POST /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 13:49:45] "[33mGET /home/sandra/Desktop/ocr_application_react/backend/saved_images/erar-0-1_002_0000280_00003_t.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 13:49:45] "[33mGET /home/sandra/Desktop/ocr_application_react/backend/saved_images/erar-0-1_002_0000280_00003_t.jpg HTTP/1.1[0m" 404 -
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 13:49:59] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 13:49:59] "OPTIONS /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 13:50:13] "POST /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 13:50:13] "[33mGET /home/sandra/Desktop/ocr_application_react/backend/saved_images/erar-0-1_002_0000280_00005_t.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 14:00:38] "[33mGET /home/sandra/Desktop/ocr_application_react/backend/saved_images/erar-0-1_002_0000280_00005_t.jpg HTTP/1.1[0m" 404 -
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 14:02:29] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 14:02:29] "OPTIONS /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 14:02:43] "POST /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 14:02:43] "[33mGET /home/sandra/Desktop/ocr_application_react/backend/saved_images/erar-0-1_002_0000280_00005_t.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 14:02:43] "[33mGET /home/sandra/Desktop/ocr_application_react/backend/saved_images/erar-0-1_002_0000280_00005_t.jpg HTTP/1.1[0m" 404 -
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 14:05:02] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 14:05:02] "OPTIONS /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 14:05:13] "POST /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 14:05:13] "[33mGET /home/sandra/Desktop/ocr_application_react/backend/saved_images/erar-0-1_001_0000620_00002_t.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Detected change in '/home/sandra/Desktop/ocr_application_react/backend/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 104-258-924
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 14:10:50] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 14:10:50] "OPTIONS /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 14:10:56] "POST /process HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 104-258-924
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2024 09:50:21] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2024 09:50:21] "OPTIONS /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2024 09:50:28] "POST /process HTTP/1.1" 200 -
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2024 09:54:46] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2024 09:54:46] "OPTIONS /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2024 09:54:56] "POST /process HTTP/1.1" 200 -
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2024 09:56:57] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2024 09:56:57] "OPTIONS /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2024 09:57:04] "POST /process HTTP/1.1" 200 -
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2024 09:58:28] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2024 09:58:28] "OPTIONS /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2024 09:58:36] "POST /process HTTP/1.1" 200 -
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2024 10:04:02] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2024 10:04:02] "OPTIONS /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2024 10:04:09] "POST /process HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/sandra/Desktop/ocr_application_react/backend/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 104-258-924
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2024 10:05:56] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2024 10:05:56] "OPTIONS /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2024 10:06:01] "POST /process HTTP/1.1" 200 -
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2024 10:11:00] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2024 10:11:00] "OPTIONS /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2024 10:11:06] "POST /process HTTP/1.1" 200 -
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2024 10:18:14] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2024 10:18:14] "OPTIONS /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2024 10:18:20] "POST /process HTTP/1.1" 200 -
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2024 10:18:26] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2024 10:18:26] "OPTIONS /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2024 10:18:32] "POST /process HTTP/1.1" 200 -
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2024 12:35:58] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2024 12:35:58] "OPTIONS /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2024 12:36:05] "POST /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2024 12:38:03] "[33mGET /backend/saved_images//backend/saved_images/erar-0-1_002_0000280_00003_t.jpg HTTP/1.1[0m" 404 -
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2024 12:38:13] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2024 12:38:13] "OPTIONS /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2024 12:38:19] "POST /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2024 12:38:19] "[33mGET /backend/saved_images//backend/saved_images/erar-0-1_002_0000280_00003_t.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Detected change in '/home/sandra/Desktop/ocr_application_react/backend/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 104-258-924
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2024 12:44:53] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2024 12:44:53] "OPTIONS /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2024 12:45:00] "POST /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2024 12:46:01] "[33mGET /backend/saved_images//backend/saved_images/erar-0-1_002_0000280_00101_t.jpg HTTP/1.1[0m" 404 -
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2024 12:46:08] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2024 12:46:08] "OPTIONS /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2024 12:46:14] "POST /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2024 12:46:14] "[33mGET /backend/saved_images//backend/saved_images/erar-0-1_002_0000280_00101_t.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Detected change in '/home/sandra/Desktop/ocr_application_react/backend/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 104-258-924
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2024 12:51:01] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2024 12:51:01] "OPTIONS /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2024 12:51:07] "POST /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2024 12:51:07] "[33mGET /backend/saved_images//backend/saved_images/erar-0-1_002_0000280_00003_t.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Detected change in '/home/sandra/Desktop/ocr_application_react/backend/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 104-258-924
+INFO:werkzeug: * Detected change in '/home/sandra/Desktop/ocr_application_react/backend/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 104-258-924
+INFO:werkzeug: * Detected change in '/home/sandra/Desktop/ocr_application_react/backend/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 104-258-924
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2024 12:55:45] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2024 12:55:45] "OPTIONS /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2024 12:55:51] "POST /process HTTP/1.1" 200 -
+DEBUG:root:Requested filename: erar-0-1_002_0000280_00003_t.jpg
+DEBUG:root:Sending file from path: /home/sandra/Desktop/ocr_application_react/backend/saved_images/erar-0-1_002_0000280_00003_t.jpg
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2024 12:55:51] "GET /backend/saved_images/erar-0-1_002_0000280_00003_t.jpg HTTP/1.1" 200 -
+DEBUG:root:Requested filename: erar-0-1_002_0000280_00003_t.jpg
+DEBUG:root:Sending file from path: /home/sandra/Desktop/ocr_application_react/backend/saved_images/erar-0-1_002_0000280_00003_t.jpg
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2024 12:55:51] "GET /backend/saved_images/erar-0-1_002_0000280_00003_t.jpg HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 398-278-059
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [10/Apr/2024 09:31:53] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Apr/2024 09:31:53] "OPTIONS /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Apr/2024 09:32:00] "POST /process HTTP/1.1" 200 -
+DEBUG:root:Requested filename: erar-0-1_002_0000280_00101_t.jpg
+DEBUG:root:Sending file from path: /home/sandra/Desktop/ocr_application_react/backend/saved_images/erar-0-1_002_0000280_00101_t.jpg
+INFO:werkzeug:127.0.0.1 - - [10/Apr/2024 09:32:00] "GET /backend/saved_images/erar-0-1_002_0000280_00101_t.jpg HTTP/1.1" 200 -
+DEBUG:root:Requested filename: erar-0-1_002_0000280_00101_t.jpg
+DEBUG:root:Sending file from path: /home/sandra/Desktop/ocr_application_react/backend/saved_images/erar-0-1_002_0000280_00101_t.jpg
+INFO:werkzeug:127.0.0.1 - - [10/Apr/2024 09:32:00] "GET /backend/saved_images/erar-0-1_002_0000280_00101_t.jpg HTTP/1.1" 200 -
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [10/Apr/2024 09:38:27] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Apr/2024 09:38:27] "OPTIONS /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Apr/2024 09:38:32] "POST /process HTTP/1.1" 200 -
+DEBUG:root:Requested filename: erar-0-1_002_0000280_00003_t.jpg
+DEBUG:root:Sending file from path: /home/sandra/Desktop/ocr_application_react/backend/saved_images/erar-0-1_002_0000280_00003_t.jpg
+INFO:werkzeug:127.0.0.1 - - [10/Apr/2024 09:38:32] "GET /backend/saved_images/erar-0-1_002_0000280_00003_t.jpg HTTP/1.1" 200 -
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [10/Apr/2024 09:41:33] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Apr/2024 09:41:33] "OPTIONS /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Apr/2024 09:41:39] "POST /process HTTP/1.1" 200 -
+DEBUG:root:Requested filename: erar-0-1_002_0000280_00003_t.jpg
+DEBUG:root:Sending file from path: /home/sandra/Desktop/ocr_application_react/backend/saved_images/erar-0-1_002_0000280_00003_t.jpg
+INFO:werkzeug:127.0.0.1 - - [10/Apr/2024 09:41:39] "GET /backend/saved_images/erar-0-1_002_0000280_00003_t.jpg HTTP/1.1" 200 -
+DEBUG:root:Requested filename: erar-0-1_002_0000280_00003_t.jpg
+DEBUG:root:Sending file from path: /home/sandra/Desktop/ocr_application_react/backend/saved_images/erar-0-1_002_0000280_00003_t.jpg
+INFO:werkzeug:127.0.0.1 - - [10/Apr/2024 09:41:39] "GET /backend/saved_images/erar-0-1_002_0000280_00003_t.jpg HTTP/1.1" 200 -
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [10/Apr/2024 09:42:30] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Apr/2024 09:42:30] "OPTIONS /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Apr/2024 09:42:36] "POST /process HTTP/1.1" 200 -
+DEBUG:root:Requested filename: erar-0-1_002_0000280_00101_t.jpg
+DEBUG:root:Sending file from path: /home/sandra/Desktop/ocr_application_react/backend/saved_images/erar-0-1_002_0000280_00101_t.jpg
+INFO:werkzeug:127.0.0.1 - - [10/Apr/2024 09:42:36] "GET /backend/saved_images/erar-0-1_002_0000280_00101_t.jpg HTTP/1.1" 200 -
+DEBUG:root:Requested filename: erar-0-1_002_0000280_00101_t.jpg
+DEBUG:root:Sending file from path: /home/sandra/Desktop/ocr_application_react/backend/saved_images/erar-0-1_002_0000280_00101_t.jpg
+INFO:werkzeug:127.0.0.1 - - [10/Apr/2024 09:42:36] "GET /backend/saved_images/erar-0-1_002_0000280_00101_t.jpg HTTP/1.1" 200 -
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [10/Apr/2024 09:48:23] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Apr/2024 09:48:23] "OPTIONS /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Apr/2024 09:48:29] "POST /process HTTP/1.1" 200 -
+DEBUG:root:Requested filename: erar-0-1_002_0000280_00101_t.jpg
+DEBUG:root:Sending file from path: /home/sandra/Desktop/ocr_application_react/backend/saved_images/erar-0-1_002_0000280_00101_t.jpg
+INFO:werkzeug:127.0.0.1 - - [10/Apr/2024 09:48:29] "GET /backend/saved_images/erar-0-1_002_0000280_00101_t.jpg HTTP/1.1" 200 -
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [10/Apr/2024 09:50:17] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Apr/2024 09:50:18] "OPTIONS /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Apr/2024 09:50:23] "POST /process HTTP/1.1" 200 -
+DEBUG:root:Requested filename: erar-0-1_002_0000280_00101_t.jpg
+DEBUG:root:Sending file from path: /home/sandra/Desktop/ocr_application_react/backend/saved_images/erar-0-1_002_0000280_00101_t.jpg
+INFO:werkzeug:127.0.0.1 - - [10/Apr/2024 09:50:23] "GET /backend/saved_images/erar-0-1_002_0000280_00101_t.jpg HTTP/1.1" 200 -
+DEBUG:root:Requested filename: erar-0-1_002_0000280_00101_t.jpg
+DEBUG:root:Sending file from path: /home/sandra/Desktop/ocr_application_react/backend/saved_images/erar-0-1_002_0000280_00101_t.jpg
+INFO:werkzeug:127.0.0.1 - - [10/Apr/2024 09:50:23] "GET /backend/saved_images/erar-0-1_002_0000280_00101_t.jpg HTTP/1.1" 200 -
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [10/Apr/2024 09:51:14] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Apr/2024 09:51:14] "OPTIONS /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Apr/2024 09:51:27] "POST /process HTTP/1.1" 200 -
+DEBUG:root:Requested filename: erar-0-1_002_0000280_00005_t.jpg
+DEBUG:root:Sending file from path: /home/sandra/Desktop/ocr_application_react/backend/saved_images/erar-0-1_002_0000280_00005_t.jpg
+INFO:werkzeug:127.0.0.1 - - [10/Apr/2024 09:51:27] "GET /backend/saved_images/erar-0-1_002_0000280_00005_t.jpg HTTP/1.1" 200 -
+DEBUG:root:Requested filename: erar-0-1_002_0000280_00005_t.jpg
+DEBUG:root:Sending file from path: /home/sandra/Desktop/ocr_application_react/backend/saved_images/erar-0-1_002_0000280_00005_t.jpg
+INFO:werkzeug:127.0.0.1 - - [10/Apr/2024 09:51:27] "GET /backend/saved_images/erar-0-1_002_0000280_00005_t.jpg HTTP/1.1" 200 -
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [10/Apr/2024 10:05:37] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Apr/2024 10:05:37] "OPTIONS /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Apr/2024 10:05:43] "POST /process HTTP/1.1" 200 -
+DEBUG:root:Requested filename: erar-0-1_002_0000280_00003_t.jpg
+DEBUG:root:Sending file from path: /home/sandra/Desktop/ocr_application_react/backend/saved_images/erar-0-1_002_0000280_00003_t.jpg
+INFO:werkzeug:127.0.0.1 - - [10/Apr/2024 10:05:43] "GET /backend/saved_images/erar-0-1_002_0000280_00003_t.jpg HTTP/1.1" 200 -
+DEBUG:root:Requested filename: erar-0-1_002_0000280_00003_t.jpg
+DEBUG:root:Sending file from path: /home/sandra/Desktop/ocr_application_react/backend/saved_images/erar-0-1_002_0000280_00003_t.jpg
+INFO:werkzeug:127.0.0.1 - - [10/Apr/2024 10:05:43] "GET /backend/saved_images/erar-0-1_002_0000280_00003_t.jpg HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/sandra/Desktop/ocr_application_react/backend/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 398-278-059
+INFO:werkzeug: * Detected change in '/home/sandra/Desktop/ocr_application_react/backend/ocr_processing.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 398-278-059
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [10/Apr/2024 10:12:07] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Apr/2024 10:12:07] "OPTIONS /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Apr/2024 10:12:13] "POST /process HTTP/1.1" 200 -
+DEBUG:root:Requested filename: erar-0-1_002_0000280_00003_t.jpg
+DEBUG:root:Sending file from path: /home/sandra/Desktop/ocr_application_react/backend/saved_images/erar-0-1_002_0000280_00003_t.jpg
+INFO:werkzeug:127.0.0.1 - - [10/Apr/2024 10:12:13] "GET /backend/saved_images/erar-0-1_002_0000280_00003_t.jpg HTTP/1.1" 200 -
+DEBUG:root:Requested filename: erar-0-1_002_0000280_00003_t.jpg
+DEBUG:root:Sending file from path: /home/sandra/Desktop/ocr_application_react/backend/saved_images/erar-0-1_002_0000280_00003_t.jpg
+INFO:werkzeug:127.0.0.1 - - [10/Apr/2024 10:12:13] "GET /backend/saved_images/erar-0-1_002_0000280_00003_t.jpg HTTP/1.1" 200 -
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [10/Apr/2024 10:12:27] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Apr/2024 10:12:27] "OPTIONS /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Apr/2024 10:12:40] "POST /process HTTP/1.1" 200 -
+DEBUG:root:Requested filename: erar-0-1_002_0000280_00005_t.jpg
+DEBUG:root:Sending file from path: /home/sandra/Desktop/ocr_application_react/backend/saved_images/erar-0-1_002_0000280_00005_t.jpg
+INFO:werkzeug:127.0.0.1 - - [10/Apr/2024 10:12:40] "GET /backend/saved_images/erar-0-1_002_0000280_00005_t.jpg HTTP/1.1" 200 -
+DEBUG:root:Requested filename: erar-0-1_002_0000280_00005_t.jpg
+DEBUG:root:Sending file from path: /home/sandra/Desktop/ocr_application_react/backend/saved_images/erar-0-1_002_0000280_00005_t.jpg
+INFO:werkzeug:127.0.0.1 - - [10/Apr/2024 10:12:40] "GET /backend/saved_images/erar-0-1_002_0000280_00005_t.jpg HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/sandra/Desktop/ocr_application_react/backend/ocr_processing.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 398-278-059
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [10/Apr/2024 10:12:59] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Apr/2024 10:13:00] "OPTIONS /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Apr/2024 10:13:13] "POST /process HTTP/1.1" 200 -
+DEBUG:root:Requested filename: erar-0-1_002_0000280_00005_t.jpg
+DEBUG:root:Sending file from path: /home/sandra/Desktop/ocr_application_react/backend/saved_images/erar-0-1_002_0000280_00005_t.jpg
+INFO:werkzeug:127.0.0.1 - - [10/Apr/2024 10:13:13] "GET /backend/saved_images/erar-0-1_002_0000280_00005_t.jpg HTTP/1.1" 200 -
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [10/Apr/2024 10:13:49] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Apr/2024 10:13:49] "OPTIONS /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Apr/2024 10:13:57] "POST /process HTTP/1.1" 200 -
+DEBUG:root:Requested filename: erar-0-1_002_0000280_00029_t.jpg
+DEBUG:root:Sending file from path: /home/sandra/Desktop/ocr_application_react/backend/saved_images/erar-0-1_002_0000280_00029_t.jpg
+INFO:werkzeug:127.0.0.1 - - [10/Apr/2024 10:13:57] "GET /backend/saved_images/erar-0-1_002_0000280_00029_t.jpg HTTP/1.1" 200 -
+DEBUG:root:Requested filename: erar-0-1_002_0000280_00029_t.jpg
+DEBUG:root:Sending file from path: /home/sandra/Desktop/ocr_application_react/backend/saved_images/erar-0-1_002_0000280_00029_t.jpg
+INFO:werkzeug:127.0.0.1 - - [10/Apr/2024 10:13:58] "GET /backend/saved_images/erar-0-1_002_0000280_00029_t.jpg HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/sandra/Desktop/ocr_application_react/backend/ocr_processing.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 398-278-059
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [10/Apr/2024 10:19:06] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Apr/2024 10:19:06] "OPTIONS /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Apr/2024 10:19:13] "POST /process HTTP/1.1" 200 -
+DEBUG:root:Requested filename: erar-0-1_002_0000280_00003_t.jpg
+DEBUG:root:Sending file from path: /home/sandra/Desktop/ocr_application_react/backend/saved_images/erar-0-1_002_0000280_00003_t.jpg
+INFO:werkzeug:127.0.0.1 - - [10/Apr/2024 10:19:13] "GET /backend/saved_images/erar-0-1_002_0000280_00003_t.jpg HTTP/1.1" 200 -
+DEBUG:root:Requested filename: erar-0-1_002_0000280_00003_t.jpg
+DEBUG:root:Sending file from path: /home/sandra/Desktop/ocr_application_react/backend/saved_images/erar-0-1_002_0000280_00003_t.jpg
+INFO:werkzeug:127.0.0.1 - - [10/Apr/2024 10:19:13] "GET /backend/saved_images/erar-0-1_002_0000280_00003_t.jpg HTTP/1.1" 200 -
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [10/Apr/2024 10:19:44] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Apr/2024 10:19:44] "OPTIONS /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Apr/2024 10:19:54] "POST /process HTTP/1.1" 200 -
+DEBUG:root:Requested filename: erar-0-1_002_0000280_00029_t.jpg
+DEBUG:root:Sending file from path: /home/sandra/Desktop/ocr_application_react/backend/saved_images/erar-0-1_002_0000280_00029_t.jpg
+INFO:werkzeug:127.0.0.1 - - [10/Apr/2024 10:19:54] "GET /backend/saved_images/erar-0-1_002_0000280_00029_t.jpg HTTP/1.1" 200 -
+DEBUG:root:Requested filename: erar-0-1_002_0000280_00029_t.jpg
+DEBUG:root:Sending file from path: /home/sandra/Desktop/ocr_application_react/backend/saved_images/erar-0-1_002_0000280_00029_t.jpg
+INFO:werkzeug:127.0.0.1 - - [10/Apr/2024 10:19:54] "GET /backend/saved_images/erar-0-1_002_0000280_00029_t.jpg HTTP/1.1" 200 -
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [10/Apr/2024 10:22:15] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Apr/2024 10:22:15] "OPTIONS /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Apr/2024 10:22:21] "POST /process HTTP/1.1" 200 -
+DEBUG:root:Requested filename: erar-0-1_002_0000280_00003_t.jpg
+DEBUG:root:Sending file from path: /home/sandra/Desktop/ocr_application_react/backend/saved_images/erar-0-1_002_0000280_00003_t.jpg
+INFO:werkzeug:127.0.0.1 - - [10/Apr/2024 10:22:21] "GET /backend/saved_images/erar-0-1_002_0000280_00003_t.jpg HTTP/1.1" 200 -
+DEBUG:root:Requested filename: erar-0-1_002_0000280_00003_t.jpg
+DEBUG:root:Sending file from path: /home/sandra/Desktop/ocr_application_react/backend/saved_images/erar-0-1_002_0000280_00003_t.jpg
+INFO:werkzeug:127.0.0.1 - - [10/Apr/2024 10:22:21] "GET /backend/saved_images/erar-0-1_002_0000280_00003_t.jpg HTTP/1.1" 200 -
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [10/Apr/2024 14:43:13] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Apr/2024 14:43:13] "OPTIONS /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Apr/2024 14:43:21] "POST /process HTTP/1.1" 200 -
+DEBUG:root:Requested filename: erar-0-1_002_0000280_00029_t.jpg
+DEBUG:root:Sending file from path: /home/sandra/Desktop/ocr_application_react/backend/saved_images/erar-0-1_002_0000280_00029_t.jpg
+INFO:werkzeug:127.0.0.1 - - [10/Apr/2024 14:43:21] "GET /backend/saved_images/erar-0-1_002_0000280_00029_t.jpg HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 132-448-163
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [11/Apr/2024 09:47:50] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Apr/2024 09:47:50] "OPTIONS /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Apr/2024 09:47:59] "POST /process HTTP/1.1" 200 -
+DEBUG:root:Requested filename: erar-0-1_002_0000280_00029_t.jpg
+DEBUG:root:Sending file from path: /home/sandra/Desktop/ocr_application_react/backend/saved_images/erar-0-1_002_0000280_00029_t.jpg
+INFO:werkzeug:127.0.0.1 - - [11/Apr/2024 09:47:59] "GET /backend/saved_images/erar-0-1_002_0000280_00029_t.jpg HTTP/1.1" 200 -
+DEBUG:root:Requested filename: erar-0-1_002_0000280_00029_t.jpg
+DEBUG:root:Sending file from path: /home/sandra/Desktop/ocr_application_react/backend/saved_images/erar-0-1_002_0000280_00029_t.jpg
+INFO:werkzeug:127.0.0.1 - - [11/Apr/2024 09:47:59] "GET /backend/saved_images/erar-0-1_002_0000280_00029_t.jpg HTTP/1.1" 200 -
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [11/Apr/2024 09:48:08] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Apr/2024 09:48:08] "OPTIONS /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Apr/2024 09:48:17] "POST /process HTTP/1.1" 200 -
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [11/Apr/2024 09:52:50] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Apr/2024 09:52:50] "OPTIONS /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Apr/2024 09:52:58] "POST /process HTTP/1.1" 200 -
+DEBUG:root:Requested filename: erar-0-1_002_0000280_00029_t.jpg
+DEBUG:root:Sending file from path: /home/sandra/Desktop/ocr_application_react/backend/saved_images/erar-0-1_002_0000280_00029_t.jpg
+INFO:werkzeug:127.0.0.1 - - [11/Apr/2024 09:52:58] "GET /backend/saved_images/erar-0-1_002_0000280_00029_t.jpg HTTP/1.1" 200 -
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [11/Apr/2024 09:54:20] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Apr/2024 09:54:20] "OPTIONS /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Apr/2024 09:54:28] "POST /process HTTP/1.1" 200 -
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [11/Apr/2024 09:58:19] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Apr/2024 09:58:19] "OPTIONS /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Apr/2024 09:58:28] "POST /process HTTP/1.1" 200 -
+DEBUG:root:Requested filename: erar-0-1_002_0000280_00029_t.jpg
+DEBUG:root:Sending file from path: /home/sandra/Desktop/ocr_application_react/backend/saved_images/erar-0-1_002_0000280_00029_t.jpg
+INFO:werkzeug:127.0.0.1 - - [11/Apr/2024 09:58:28] "GET /backend/saved_images/erar-0-1_002_0000280_00029_t.jpg HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/sandra/Desktop/ocr_application_react/backend/database_connection.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 132-448-163
+INFO:werkzeug: * Detected change in '/home/sandra/Desktop/ocr_application_react/backend/ocr_processing.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 132-448-163
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [11/Apr/2024 11:27:58] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Apr/2024 11:27:58] "OPTIONS /process HTTP/1.1" 200 -
+ERROR:app:An error occurred during OCR processing: 'image_width'
+Traceback (most recent call last):
+  File "/home/sandra/Desktop/ocr_application_react/backend/app.py", line 56, in process_image_endpoint
+    process_image(image_path, output_folder)
+  File "/home/sandra/Desktop/ocr_application_react/backend/ocr_processing.py", line 181, in process_image
+    database_connection.insert_data(data)
+  File "/home/sandra/Desktop/ocr_application_react/backend/database_connection.py", line 39, in insert_data
+    image_dimensions = f"{data['image_width']}x{data['image_height']}"
+KeyError: 'image_width'
+INFO:werkzeug:127.0.0.1 - - [11/Apr/2024 11:28:06] "[35m[1mPOST /process HTTP/1.1[0m" 500 -
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [11/Apr/2024 11:29:40] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Apr/2024 11:29:40] "OPTIONS /process HTTP/1.1" 200 -
+ERROR:app:An error occurred during OCR processing: 'image_width'
+Traceback (most recent call last):
+  File "/home/sandra/Desktop/ocr_application_react/backend/app.py", line 56, in process_image_endpoint
+    process_image(image_path, output_folder)
+  File "/home/sandra/Desktop/ocr_application_react/backend/ocr_processing.py", line 181, in process_image
+    database_connection.insert_data(data)
+  File "/home/sandra/Desktop/ocr_application_react/backend/database_connection.py", line 39, in insert_data
+    image_dimensions = f"{data['image_width']}x{data['image_height']}"
+KeyError: 'image_width'
+INFO:werkzeug:127.0.0.1 - - [11/Apr/2024 11:29:48] "[35m[1mPOST /process HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in '/home/sandra/Desktop/ocr_application_react/backend/database_connection.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 132-448-163
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [11/Apr/2024 11:40:41] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Apr/2024 11:40:41] "OPTIONS /process HTTP/1.1" 200 -
+ERROR:app:An error occurred during OCR processing: name 'mysql' is not defined
+Traceback (most recent call last):
+  File "/home/sandra/Desktop/ocr_application_react/backend/app.py", line 56, in process_image_endpoint
+    process_image(image_path, output_folder)
+  File "/home/sandra/Desktop/ocr_application_react/backend/ocr_processing.py", line 181, in process_image
+    database_connection.insert_data(data)
+  File "/home/sandra/Desktop/ocr_application_react/backend/database_connection.py", line 9, in insert_data
+    conn = mysql.connector.connect(
+NameError: name 'mysql' is not defined
+INFO:werkzeug:127.0.0.1 - - [11/Apr/2024 11:40:50] "[35m[1mPOST /process HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in '/home/sandra/Desktop/ocr_application_react/backend/database_connection.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 132-448-163
+INFO:werkzeug: * Detected change in '/home/sandra/Desktop/ocr_application_react/backend/database_connection.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 132-448-163
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [11/Apr/2024 11:41:47] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Apr/2024 11:41:47] "OPTIONS /process HTTP/1.1" 200 -
+ERROR:app:An error occurred during OCR processing: 'image_width'
+Traceback (most recent call last):
+  File "/home/sandra/Desktop/ocr_application_react/backend/app.py", line 56, in process_image_endpoint
+    process_image(image_path, output_folder)
+  File "/home/sandra/Desktop/ocr_application_react/backend/ocr_processing.py", line 181, in process_image
+    database_connection.insert_data(data)
+  File "/home/sandra/Desktop/ocr_application_react/backend/database_connection.py", line 41, in insert_data
+    image_size = f"{data['image_width']}x{data['image_height']}"
+KeyError: 'image_width'
+INFO:werkzeug:127.0.0.1 - - [11/Apr/2024 11:41:55] "[35m[1mPOST /process HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in '/home/sandra/Desktop/ocr_application_react/backend/ocr_processing.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 132-448-163
+INFO:werkzeug: * Detected change in '/home/sandra/Desktop/ocr_application_react/backend/ocr_processing.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 132-448-163
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [11/Apr/2024 11:44:46] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Apr/2024 11:44:46] "OPTIONS /process HTTP/1.1" 200 -
+ERROR:app:An error occurred during OCR processing: 'image_width'
+Traceback (most recent call last):
+  File "/home/sandra/Desktop/ocr_application_react/backend/app.py", line 56, in process_image_endpoint
+    process_image(image_path, output_folder)
+  File "/home/sandra/Desktop/ocr_application_react/backend/ocr_processing.py", line 183, in process_image
+    database_connection.insert_data(data)
+  File "/home/sandra/Desktop/ocr_application_react/backend/database_connection.py", line 41, in insert_data
+    image_size = f"{data['image_width']}x{data['image_height']}"
+KeyError: 'image_width'
+INFO:werkzeug:127.0.0.1 - - [11/Apr/2024 11:44:55] "[35m[1mPOST /process HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in '/home/sandra/Desktop/ocr_application_react/backend/ocr_processing.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 132-448-163
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [11/Apr/2024 11:46:42] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Apr/2024 11:46:42] "OPTIONS /process HTTP/1.1" 200 -
+ERROR:app:An error occurred during OCR processing: 'image_width'
+Traceback (most recent call last):
+  File "/home/sandra/Desktop/ocr_application_react/backend/app.py", line 56, in process_image_endpoint
+    process_image(image_path, output_folder)
+  File "/home/sandra/Desktop/ocr_application_react/backend/ocr_processing.py", line 183, in process_image
+    database_connection.insert_data(data)
+  File "/home/sandra/Desktop/ocr_application_react/backend/database_connection.py", line 41, in insert_data
+    image_size = f"{data['image_width']}x{data['image_height']}"
+KeyError: 'image_width'
+INFO:werkzeug:127.0.0.1 - - [11/Apr/2024 11:46:51] "[35m[1mPOST /process HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in '/home/sandra/Desktop/ocr_application_react/backend/database_connection.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 132-448-163
+INFO:werkzeug: * Detected change in '/home/sandra/Desktop/ocr_application_react/backend/ocr_processing.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 132-448-163
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [11/Apr/2024 11:49:23] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Apr/2024 11:49:23] "OPTIONS /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Apr/2024 11:49:32] "POST /process HTTP/1.1" 200 -
+DEBUG:root:Requested filename: erar-0-1_002_0000280_00029_t.jpg
+DEBUG:root:Sending file from path: /home/sandra/Desktop/ocr_application_react/backend/saved_images/erar-0-1_002_0000280_00029_t.jpg
+INFO:werkzeug:127.0.0.1 - - [11/Apr/2024 11:49:32] "GET /backend/saved_images/erar-0-1_002_0000280_00029_t.jpg HTTP/1.1" 200 -
+DEBUG:root:Requested filename: erar-0-1_002_0000280_00029_t.jpg
+DEBUG:root:Sending file from path: /home/sandra/Desktop/ocr_application_react/backend/saved_images/erar-0-1_002_0000280_00029_t.jpg
+INFO:werkzeug:127.0.0.1 - - [11/Apr/2024 11:49:32] "GET /backend/saved_images/erar-0-1_002_0000280_00029_t.jpg HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/sandra/Desktop/ocr_application_react/backend/database_connection.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 132-448-163
+INFO:werkzeug: * Detected change in '/home/sandra/Desktop/ocr_application_react/backend/ocr_processing.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 132-448-163
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [11/Apr/2024 11:55:11] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Apr/2024 11:55:11] "OPTIONS /process HTTP/1.1" 200 -
+ERROR:app:An error occurred during OCR processing: Python type Version cannot be converted
+Traceback (most recent call last):
+  File "/home/sandra/Desktop/ocr_application_react/backend/app.py", line 56, in process_image_endpoint
+    process_image(image_path, output_folder)
+  File "/home/sandra/Desktop/ocr_application_react/backend/ocr_processing.py", line 195, in process_image
+    connect_and_insert(data)
+  File "/home/sandra/Desktop/ocr_application_react/backend/database_connection.py", line 29, in connect_and_insert
+    cursor.execute("INSERT INTO processing_data (Image_ID, Duration_Time, Tesseract_Version, Enhancement_Settings, Page_Segmentation) VALUES (%s, %s, %s, %s, %s)",
+  File "/home/sandra/.local/lib/python3.10/site-packages/mysql/connector/cursor_cext.py", line 361, in execute
+    prepared = self._cnx.prepare_for_mysql(params)
+  File "/home/sandra/.local/lib/python3.10/site-packages/mysql/connector/connection_cext.py", line 830, in prepare_for_mysql
+    result = self._cmysql.convert_to_mysql(*params)
+_mysql_connector.MySQLInterfaceError: Python type Version cannot be converted
+INFO:werkzeug:127.0.0.1 - - [11/Apr/2024 11:55:21] "[35m[1mPOST /process HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in '/home/sandra/Desktop/ocr_application_react/backend/ocr_processing.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 132-448-163
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [11/Apr/2024 11:56:42] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Apr/2024 11:56:42] "OPTIONS /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Apr/2024 11:56:48] "POST /process HTTP/1.1" 200 -
+DEBUG:root:Requested filename: erar-0-1_002_0000280_00003_t.jpg
+DEBUG:root:Sending file from path: /home/sandra/Desktop/ocr_application_react/backend/saved_images/erar-0-1_002_0000280_00003_t.jpg
+INFO:werkzeug:127.0.0.1 - - [11/Apr/2024 11:56:48] "GET /backend/saved_images/erar-0-1_002_0000280_00003_t.jpg HTTP/1.1" 200 -
+DEBUG:root:Requested filename: erar-0-1_002_0000280_00003_t.jpg
+DEBUG:root:Sending file from path: /home/sandra/Desktop/ocr_application_react/backend/saved_images/erar-0-1_002_0000280_00003_t.jpg
+INFO:werkzeug:127.0.0.1 - - [11/Apr/2024 11:56:48] "GET /backend/saved_images/erar-0-1_002_0000280_00003_t.jpg HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/sandra/Desktop/ocr_application_react/backend/database_connection.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 132-448-163
+INFO:werkzeug: * Detected change in '/home/sandra/Desktop/ocr_application_react/backend/ocr_processing.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 132-448-163
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [11/Apr/2024 11:58:36] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Apr/2024 11:58:36] "OPTIONS /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Apr/2024 11:58:45] "POST /process HTTP/1.1" 200 -
+DEBUG:root:Requested filename: erar-0-1_002_0000280_00029_t.jpg
+DEBUG:root:Sending file from path: /home/sandra/Desktop/ocr_application_react/backend/saved_images/erar-0-1_002_0000280_00029_t.jpg
+INFO:werkzeug:127.0.0.1 - - [11/Apr/2024 11:58:45] "GET /backend/saved_images/erar-0-1_002_0000280_00029_t.jpg HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/sandra/Desktop/ocr_application_react/backend/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 132-448-163
+INFO:werkzeug: * Detected change in '/home/sandra/Desktop/ocr_application_react/backend/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 132-448-163
+INFO:werkzeug: * Detected change in '/home/sandra/Desktop/ocr_application_react/backend/ocr_processing.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 132-448-163
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [11/Apr/2024 12:03:30] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Apr/2024 12:03:30] "OPTIONS /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Apr/2024 12:03:36] "POST /process HTTP/1.1" 200 -
+DEBUG:root:Requested filename: erar-0-1_002_0000280_00003_t.jpg
+DEBUG:root:Sending file from path: /home/sandra/Desktop/ocr_application_react/backend/saved_images/erar-0-1_002_0000280_00003_t.jpg
+INFO:werkzeug:127.0.0.1 - - [11/Apr/2024 12:03:36] "GET /backend/saved_images/erar-0-1_002_0000280_00003_t.jpg HTTP/1.1" 200 -
+DEBUG:root:Requested filename: erar-0-1_002_0000280_00003_t.jpg
+DEBUG:root:Sending file from path: /home/sandra/Desktop/ocr_application_react/backend/saved_images/erar-0-1_002_0000280_00003_t.jpg
+INFO:werkzeug:127.0.0.1 - - [11/Apr/2024 12:03:36] "GET /backend/saved_images/erar-0-1_002_0000280_00003_t.jpg HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/sandra/Desktop/ocr_application_react/backend/ocr_processing.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 132-448-163
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [11/Apr/2024 12:05:03] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Apr/2024 12:05:03] "OPTIONS /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Apr/2024 12:05:10] "POST /process HTTP/1.1" 200 -
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [11/Apr/2024 13:13:36] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Apr/2024 13:13:36] "OPTIONS /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Apr/2024 13:13:42] "POST /process HTTP/1.1" 200 -
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [11/Apr/2024 13:16:05] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Apr/2024 13:16:05] "OPTIONS /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Apr/2024 13:16:11] "POST /process HTTP/1.1" 200 -
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [11/Apr/2024 13:17:23] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Apr/2024 13:17:23] "OPTIONS /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Apr/2024 13:17:29] "POST /process HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/sandra/Desktop/ocr_application_react/backend/ocr_processing.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 132-448-163
+INFO:werkzeug: * Detected change in '/home/sandra/Desktop/ocr_application_react/backend/ocr_processing.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 132-448-163
+INFO:werkzeug: * Detected change in '/home/sandra/Desktop/ocr_application_react/backend/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 132-448-163
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [11/Apr/2024 13:27:01] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Apr/2024 13:27:01] "OPTIONS /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Apr/2024 13:27:07] "POST /process HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/sandra/.local/lib/python3.10/site-packages/mysql/connector/locales/eng/__init__.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 132-448-163
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [11/Apr/2024 13:46:08] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Apr/2024 13:46:08] "OPTIONS /process HTTP/1.1" 200 -
+ERROR:app:An error occurred during OCR processing: local variable 'connection' referenced before assignment
+Traceback (most recent call last):
+  File "/home/sandra/Desktop/ocr_application_react/backend/app.py", line 56, in process_image_endpoint
+    process_image(image_path, output_folder)
+  File "/home/sandra/Desktop/ocr_application_react/backend/ocr_processing.py", line 172, in process_image
+    connect_and_insert(data)
+  File "/home/sandra/Desktop/ocr_application_react/backend/database_connection.py", line 35, in connect_and_insert
+    if (connection.is_connected()):
+UnboundLocalError: local variable 'connection' referenced before assignment
+INFO:werkzeug:127.0.0.1 - - [11/Apr/2024 13:46:18] "[35m[1mPOST /process HTTP/1.1[0m" 500 -
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [11/Apr/2024 13:47:09] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Apr/2024 13:47:09] "OPTIONS /process HTTP/1.1" 200 -
+ERROR:app:An error occurred during OCR processing: local variable 'connection' referenced before assignment
+Traceback (most recent call last):
+  File "/home/sandra/Desktop/ocr_application_react/backend/app.py", line 56, in process_image_endpoint
+    process_image(image_path, output_folder)
+  File "/home/sandra/Desktop/ocr_application_react/backend/ocr_processing.py", line 172, in process_image
+    connect_and_insert(data)
+  File "/home/sandra/Desktop/ocr_application_react/backend/database_connection.py", line 35, in connect_and_insert
+    if (connection.is_connected()):
+UnboundLocalError: local variable 'connection' referenced before assignment
+INFO:werkzeug:127.0.0.1 - - [11/Apr/2024 13:47:15] "[35m[1mPOST /process HTTP/1.1[0m" 500 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 138-487-395
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [11/Apr/2024 13:50:12] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Apr/2024 13:50:12] "OPTIONS /process HTTP/1.1" 200 -
+ERROR:app:An error occurred during OCR processing: local variable 'connection' referenced before assignment
+Traceback (most recent call last):
+  File "/home/sandra/Desktop/ocr_application_react/backend/app.py", line 56, in process_image_endpoint
+    process_image(image_path, output_folder)
+  File "/home/sandra/Desktop/ocr_application_react/backend/ocr_processing.py", line 172, in process_image
+    connect_and_insert(data)
+  File "/home/sandra/Desktop/ocr_application_react/backend/database_connection.py", line 35, in connect_and_insert
+    if (connection.is_connected()):
+UnboundLocalError: local variable 'connection' referenced before assignment
+INFO:werkzeug:127.0.0.1 - - [11/Apr/2024 13:50:19] "[35m[1mPOST /process HTTP/1.1[0m" 500 -
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [11/Apr/2024 13:55:34] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Apr/2024 13:55:34] "OPTIONS /process HTTP/1.1" 200 -
+ERROR:app:An error occurred during OCR processing: local variable 'connection' referenced before assignment
+Traceback (most recent call last):
+  File "/home/sandra/Desktop/ocr_application_react/backend/app.py", line 56, in process_image_endpoint
+    process_image(image_path, output_folder)
+  File "/home/sandra/Desktop/ocr_application_react/backend/ocr_processing.py", line 172, in process_image
+    connect_and_insert(data)
+  File "/home/sandra/Desktop/ocr_application_react/backend/database_connection.py", line 35, in connect_and_insert
+    if (connection.is_connected()):
+UnboundLocalError: local variable 'connection' referenced before assignment
+INFO:werkzeug:127.0.0.1 - - [11/Apr/2024 13:55:39] "[35m[1mPOST /process HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in '/home/sandra/.local/lib/python3.10/site-packages/mysql/connector/django/base.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 138-487-395
+INFO:werkzeug: * Detected change in '/home/sandra/Desktop/ocr_application_react/backend/database_connection.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 138-487-395
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 138-487-395
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [11/Apr/2024 14:02:42] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Apr/2024 14:02:42] "OPTIONS /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Apr/2024 14:02:48] "POST /process HTTP/1.1" 200 -
+DEBUG:root:Requested filename: erar-0-1_002_0000280_00003_t.jpg
+DEBUG:root:Sending file from path: /home/sandra/Desktop/ocr_application_react/backend/saved_images/erar-0-1_002_0000280_00003_t.jpg
+INFO:werkzeug:127.0.0.1 - - [11/Apr/2024 14:02:48] "GET /backend/saved_images/erar-0-1_002_0000280_00003_t.jpg HTTP/1.1" 200 -
+DEBUG:root:Requested filename: erar-0-1_002_0000280_00003_t.jpg
+DEBUG:root:Sending file from path: /home/sandra/Desktop/ocr_application_react/backend/saved_images/erar-0-1_002_0000280_00003_t.jpg
+INFO:werkzeug:127.0.0.1 - - [11/Apr/2024 14:02:48] "GET /backend/saved_images/erar-0-1_002_0000280_00003_t.jpg HTTP/1.1" 200 -
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [11/Apr/2024 14:07:24] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Apr/2024 14:07:24] "OPTIONS /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Apr/2024 14:07:32] "POST /process HTTP/1.1" 200 -
+DEBUG:root:Requested filename: erar-0-1_002_0000280_00029_t.jpg
+DEBUG:root:Sending file from path: /home/sandra/Desktop/ocr_application_react/backend/saved_images/erar-0-1_002_0000280_00029_t.jpg
+INFO:werkzeug:127.0.0.1 - - [11/Apr/2024 14:07:32] "GET /backend/saved_images/erar-0-1_002_0000280_00029_t.jpg HTTP/1.1" 200 -
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [11/Apr/2024 14:52:00] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Apr/2024 14:52:00] "OPTIONS /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Apr/2024 14:52:10] "POST /process HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 116-491-297
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [12/Apr/2024 09:22:36] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Apr/2024 09:22:36] "OPTIONS /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Apr/2024 09:22:45] "POST /process HTTP/1.1" 200 -
+DEBUG:root:Requested filename: erar-0-1_002_0000280_00029_t.jpg
+DEBUG:root:Sending file from path: /home/sandra/Desktop/ocr_application_react/backend/saved_images/erar-0-1_002_0000280_00029_t.jpg
+INFO:werkzeug:127.0.0.1 - - [12/Apr/2024 09:22:45] "GET /backend/saved_images/erar-0-1_002_0000280_00029_t.jpg HTTP/1.1" 200 -
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [12/Apr/2024 09:51:46] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Apr/2024 09:51:46] "OPTIONS /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Apr/2024 09:51:51] "POST /process HTTP/1.1" 200 -
+DEBUG:root:Requested filename: erar-0-1_002_0000280_00003_t.jpg
+DEBUG:root:Sending file from path: /home/sandra/Desktop/ocr_application_react/backend/saved_images/erar-0-1_002_0000280_00003_t.jpg
+INFO:werkzeug:127.0.0.1 - - [12/Apr/2024 09:51:52] "GET /backend/saved_images/erar-0-1_002_0000280_00003_t.jpg HTTP/1.1" 200 -
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [12/Apr/2024 09:55:35] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Apr/2024 09:55:35] "OPTIONS /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Apr/2024 09:55:41] "POST /process HTTP/1.1" 200 -
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [12/Apr/2024 09:57:50] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Apr/2024 09:57:50] "OPTIONS /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Apr/2024 09:58:00] "POST /process HTTP/1.1" 200 -
+DEBUG:root:Requested filename: erar-0-1_002_0000280_00001_t.jpg
+DEBUG:root:Sending file from path: /home/sandra/Desktop/ocr_application_react/backend/saved_images/erar-0-1_002_0000280_00001_t.jpg
+INFO:werkzeug:127.0.0.1 - - [12/Apr/2024 09:58:00] "GET /backend/saved_images/erar-0-1_002_0000280_00001_t.jpg HTTP/1.1" 200 -
+DEBUG:root:Requested filename: erar-0-1_002_0000280_00001_t.jpg
+DEBUG:root:Sending file from path: /home/sandra/Desktop/ocr_application_react/backend/saved_images/erar-0-1_002_0000280_00001_t.jpg
+INFO:werkzeug:127.0.0.1 - - [12/Apr/2024 09:58:00] "GET /backend/saved_images/erar-0-1_002_0000280_00001_t.jpg HTTP/1.1" 200 -
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [12/Apr/2024 09:58:10] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Apr/2024 09:58:10] "OPTIONS /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Apr/2024 09:58:20] "POST /process HTTP/1.1" 200 -
+DEBUG:root:Requested filename: erar-0-1_002_0000280_00002_t.jpg
+DEBUG:root:Sending file from path: /home/sandra/Desktop/ocr_application_react/backend/saved_images/erar-0-1_002_0000280_00002_t.jpg
+INFO:werkzeug:127.0.0.1 - - [12/Apr/2024 09:58:20] "GET /backend/saved_images/erar-0-1_002_0000280_00002_t.jpg HTTP/1.1" 200 -
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [12/Apr/2024 09:58:30] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Apr/2024 09:58:30] "OPTIONS /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Apr/2024 09:58:44] "POST /process HTTP/1.1" 200 -
+DEBUG:root:Requested filename: erar-0-1_002_0000280_00005_t.jpg
+DEBUG:root:Sending file from path: /home/sandra/Desktop/ocr_application_react/backend/saved_images/erar-0-1_002_0000280_00005_t.jpg
+INFO:werkzeug:127.0.0.1 - - [12/Apr/2024 09:58:44] "GET /backend/saved_images/erar-0-1_002_0000280_00005_t.jpg HTTP/1.1" 200 -
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [12/Apr/2024 09:59:07] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Apr/2024 09:59:07] "OPTIONS /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Apr/2024 09:59:15] "POST /process HTTP/1.1" 200 -
+DEBUG:root:Requested filename: erar-0-1_002_0000280_00006_t.jpg
+DEBUG:root:Sending file from path: /home/sandra/Desktop/ocr_application_react/backend/saved_images/erar-0-1_002_0000280_00006_t.jpg
+INFO:werkzeug:127.0.0.1 - - [12/Apr/2024 09:59:15] "GET /backend/saved_images/erar-0-1_002_0000280_00006_t.jpg HTTP/1.1" 200 -
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [12/Apr/2024 09:59:27] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Apr/2024 09:59:27] "OPTIONS /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Apr/2024 09:59:32] "POST /process HTTP/1.1" 200 -
+DEBUG:root:Requested filename: erar-0-1_002_0000280_00009_t.jpg
+DEBUG:root:Sending file from path: /home/sandra/Desktop/ocr_application_react/backend/saved_images/erar-0-1_002_0000280_00009_t.jpg
+INFO:werkzeug:127.0.0.1 - - [12/Apr/2024 09:59:32] "GET /backend/saved_images/erar-0-1_002_0000280_00009_t.jpg HTTP/1.1" 200 -
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [12/Apr/2024 09:59:38] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Apr/2024 09:59:38] "OPTIONS /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Apr/2024 10:00:08] "POST /process HTTP/1.1" 200 -
+DEBUG:root:Requested filename: erar-0-1_002_0000280_00010_t.jpg
+DEBUG:root:Sending file from path: /home/sandra/Desktop/ocr_application_react/backend/saved_images/erar-0-1_002_0000280_00010_t.jpg
+INFO:werkzeug:127.0.0.1 - - [12/Apr/2024 10:00:08] "GET /backend/saved_images/erar-0-1_002_0000280_00010_t.jpg HTTP/1.1" 200 -
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [12/Apr/2024 10:00:25] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Apr/2024 10:00:25] "OPTIONS /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Apr/2024 10:00:44] "POST /process HTTP/1.1" 200 -
+DEBUG:root:Requested filename: erar-0-1_002_0000280_00013_t.jpg
+DEBUG:root:Sending file from path: /home/sandra/Desktop/ocr_application_react/backend/saved_images/erar-0-1_002_0000280_00013_t.jpg
+INFO:werkzeug:127.0.0.1 - - [12/Apr/2024 10:00:44] "GET /backend/saved_images/erar-0-1_002_0000280_00013_t.jpg HTTP/1.1" 200 -
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [12/Apr/2024 10:00:50] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Apr/2024 10:00:50] "OPTIONS /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Apr/2024 10:00:59] "POST /process HTTP/1.1" 200 -
+DEBUG:root:Requested filename: erar-0-1_002_0000280_00032_t.jpg
+DEBUG:root:Sending file from path: /home/sandra/Desktop/ocr_application_react/backend/saved_images/erar-0-1_002_0000280_00032_t.jpg
+INFO:werkzeug:127.0.0.1 - - [12/Apr/2024 10:00:59] "GET /backend/saved_images/erar-0-1_002_0000280_00032_t.jpg HTTP/1.1" 200 -
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [12/Apr/2024 10:01:08] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Apr/2024 10:01:08] "OPTIONS /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Apr/2024 10:01:16] "POST /process HTTP/1.1" 200 -
+DEBUG:root:Requested filename: erar-0-1_002_0000280_00044_t.jpg
+DEBUG:root:Sending file from path: /home/sandra/Desktop/ocr_application_react/backend/saved_images/erar-0-1_002_0000280_00044_t.jpg
+INFO:werkzeug:127.0.0.1 - - [12/Apr/2024 10:01:16] "GET /backend/saved_images/erar-0-1_002_0000280_00044_t.jpg HTTP/1.1" 200 -
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [12/Apr/2024 10:01:22] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Apr/2024 10:01:22] "OPTIONS /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Apr/2024 10:01:40] "POST /process HTTP/1.1" 200 -
+DEBUG:root:Requested filename: erar-0-1_002_0000280_00070_t.jpg
+DEBUG:root:Sending file from path: /home/sandra/Desktop/ocr_application_react/backend/saved_images/erar-0-1_002_0000280_00070_t.jpg
+INFO:werkzeug:127.0.0.1 - - [12/Apr/2024 10:01:40] "GET /backend/saved_images/erar-0-1_002_0000280_00070_t.jpg HTTP/1.1" 200 -
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [12/Apr/2024 10:01:46] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Apr/2024 10:01:46] "OPTIONS /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Apr/2024 10:02:00] "POST /process HTTP/1.1" 200 -
+DEBUG:root:Requested filename: erar-0-1_002_0000280_00095_t.jpg
+DEBUG:root:Sending file from path: /home/sandra/Desktop/ocr_application_react/backend/saved_images/erar-0-1_002_0000280_00095_t.jpg
+INFO:werkzeug:127.0.0.1 - - [12/Apr/2024 10:02:00] "GET /backend/saved_images/erar-0-1_002_0000280_00095_t.jpg HTTP/1.1" 200 -
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [12/Apr/2024 10:02:06] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Apr/2024 10:02:06] "OPTIONS /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Apr/2024 10:02:09] "POST /process HTTP/1.1" 200 -
+DEBUG:root:Requested filename: erar-0-1_002_0000280_00097_t.jpg
+DEBUG:root:Sending file from path: /home/sandra/Desktop/ocr_application_react/backend/saved_images/erar-0-1_002_0000280_00097_t.jpg
+INFO:werkzeug:127.0.0.1 - - [12/Apr/2024 10:02:09] "GET /backend/saved_images/erar-0-1_002_0000280_00097_t.jpg HTTP/1.1" 200 -
+DEBUG:root:Requested filename: erar-0-1_002_0000280_00097_t.jpg
+DEBUG:root:Sending file from path: /home/sandra/Desktop/ocr_application_react/backend/saved_images/erar-0-1_002_0000280_00097_t.jpg
+INFO:werkzeug:127.0.0.1 - - [12/Apr/2024 10:02:09] "[36mGET /backend/saved_images/erar-0-1_002_0000280_00097_t.jpg HTTP/1.1[0m" 304 -
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [12/Apr/2024 10:02:36] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Apr/2024 10:02:36] "OPTIONS /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Apr/2024 10:02:46] "POST /process HTTP/1.1" 200 -
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [12/Apr/2024 10:12:42] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Apr/2024 10:12:42] "OPTIONS /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Apr/2024 10:12:47] "POST /process HTTP/1.1" 200 -
+DEBUG:root:Requested filename: firstPage-S0263675100003124a.jpg
+DEBUG:root:Sending file from path: /home/sandra/Desktop/ocr_application_react/backend/saved_images/firstPage-S0263675100003124a.jpg
+INFO:werkzeug:127.0.0.1 - - [12/Apr/2024 10:12:47] "GET /backend/saved_images/firstPage-S0263675100003124a.jpg HTTP/1.1" 200 -
+DEBUG:root:Requested filename: firstPage-S0263675100003124a.jpg
+DEBUG:root:Sending file from path: /home/sandra/Desktop/ocr_application_react/backend/saved_images/firstPage-S0263675100003124a.jpg
+INFO:werkzeug:127.0.0.1 - - [12/Apr/2024 10:12:47] "GET /backend/saved_images/firstPage-S0263675100003124a.jpg HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/sandra/Desktop/ocr_application_react/backend/database_connection.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 116-491-297
+INFO:werkzeug: * Detected change in '/home/sandra/Desktop/ocr_application_react/backend/database_connection.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 116-491-297
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [12/Apr/2024 11:49:50] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Apr/2024 11:49:50] "OPTIONS /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Apr/2024 11:49:58] "POST /process HTTP/1.1" 200 -
+DEBUG:root:Requested filename: erar-0-1_002_0000280_00044_t.jpg
+DEBUG:root:Sending file from path: /home/sandra/Desktop/ocr_application_react/backend/saved_images/erar-0-1_002_0000280_00044_t.jpg
+INFO:werkzeug:127.0.0.1 - - [12/Apr/2024 11:49:58] "GET /backend/saved_images/erar-0-1_002_0000280_00044_t.jpg HTTP/1.1" 200 -
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [12/Apr/2024 13:21:10] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Apr/2024 13:21:10] "OPTIONS /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Apr/2024 13:21:18] "POST /process HTTP/1.1" 200 -
+DEBUG:root:Requested filename: erar-0-1_002_0000280_00044_t.jpg
+DEBUG:root:Sending file from path: /home/sandra/Desktop/ocr_application_react/backend/saved_images/erar-0-1_002_0000280_00044_t.jpg
+INFO:werkzeug:127.0.0.1 - - [12/Apr/2024 13:21:18] "GET /backend/saved_images/erar-0-1_002_0000280_00044_t.jpg HTTP/1.1" 200 -
+DEBUG:root:Requested filename: erar-0-1_002_0000280_00044_t.jpg
+DEBUG:root:Sending file from path: /home/sandra/Desktop/ocr_application_react/backend/saved_images/erar-0-1_002_0000280_00044_t.jpg
+INFO:werkzeug:127.0.0.1 - - [12/Apr/2024 13:21:18] "GET /backend/saved_images/erar-0-1_002_0000280_00044_t.jpg HTTP/1.1" 200 -
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [12/Apr/2024 13:21:38] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Apr/2024 13:21:38] "OPTIONS /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Apr/2024 13:21:47] "POST /process HTTP/1.1" 200 -
+DEBUG:root:Requested filename: erar-0-1_002_0000280_00044_t.jpg
+DEBUG:root:Sending file from path: /home/sandra/Desktop/ocr_application_react/backend/saved_images/erar-0-1_002_0000280_00044_t.jpg
+INFO:werkzeug:127.0.0.1 - - [12/Apr/2024 13:21:47] "GET /backend/saved_images/erar-0-1_002_0000280_00044_t.jpg HTTP/1.1" 200 -
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [12/Apr/2024 13:21:51] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Apr/2024 13:21:51] "OPTIONS /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Apr/2024 13:21:59] "POST /process HTTP/1.1" 200 -
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [12/Apr/2024 14:02:13] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Apr/2024 14:02:13] "OPTIONS /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Apr/2024 14:02:28] "POST /process HTTP/1.1" 200 -
+DEBUG:root:Requested filename: erar-0-1_002_0000280_00095_t.jpg
+DEBUG:root:Sending file from path: /home/sandra/Desktop/ocr_application_react/backend/saved_images/erar-0-1_002_0000280_00095_t.jpg
+INFO:werkzeug:127.0.0.1 - - [12/Apr/2024 14:02:28] "GET /backend/saved_images/erar-0-1_002_0000280_00095_t.jpg HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 885-449-956
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [15/Apr/2024 10:01:59] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Apr/2024 10:01:59] "OPTIONS /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Apr/2024 10:02:16] "POST /process HTTP/1.1" 200 -
+DEBUG:root:Requested filename: erar-0-1_002_0000280_00095_t.jpg
+DEBUG:root:Sending file from path: /home/sandra/Desktop/ocr_application_react/backend/saved_images/erar-0-1_002_0000280_00095_t.jpg
+INFO:werkzeug:127.0.0.1 - - [15/Apr/2024 10:02:16] "GET /backend/saved_images/erar-0-1_002_0000280_00095_t.jpg HTTP/1.1" 200 -
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [15/Apr/2024 10:10:58] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Apr/2024 10:10:59] "OPTIONS /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Apr/2024 10:11:13] "POST /process HTTP/1.1" 200 -
+DEBUG:root:Requested filename: erar-0-1_002_0000280_00095_t.jpg
+DEBUG:root:Sending file from path: /home/sandra/Desktop/ocr_application_react/backend/saved_images/erar-0-1_002_0000280_00095_t.jpg
+INFO:werkzeug:127.0.0.1 - - [15/Apr/2024 10:11:13] "GET /backend/saved_images/erar-0-1_002_0000280_00095_t.jpg HTTP/1.1" 200 -
+DEBUG:root:Requested filename: erar-0-1_002_0000280_00095_t.jpg
+DEBUG:root:Sending file from path: /home/sandra/Desktop/ocr_application_react/backend/saved_images/erar-0-1_002_0000280_00095_t.jpg
+INFO:werkzeug:127.0.0.1 - - [15/Apr/2024 10:11:13] "GET /backend/saved_images/erar-0-1_002_0000280_00095_t.jpg HTTP/1.1" 200 -
+INFO:app:File saved successfully
+INFO:werkzeug:127.0.0.1 - - [15/Apr/2024 10:26:01] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Apr/2024 10:26:01] "OPTIONS /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Apr/2024 10:26:39] "POST /process HTTP/1.1" 200 -
+DEBUG:root:Requested filename: erar-0-1_002_0000280_00010_t.jpg
+DEBUG:root:Sending file from path: /home/sandra/Desktop/ocr_application_react/backend/saved_images/erar-0-1_002_0000280_00010_t.jpg
+INFO:werkzeug:127.0.0.1 - - [15/Apr/2024 10:26:39] "GET /backend/saved_images/erar-0-1_002_0000280_00010_t.jpg HTTP/1.1" 200 -
