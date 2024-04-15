@@ -42,7 +42,7 @@ function App() {
                 <span className="main-heading tool">Kuidas kasutada?</span>
                 <span className="regular-text">
                   <ol>
-                    <li>Laadige üles pilte</li>
+                    <li>Laadige üles pilt</li>
                     <li>Lohista pilt sisendkasti või valige pilte oma kohalikust seadmest</li>
                     <li>Vajutage töötle nuppu</li>
                     <li>Pilti töödeldakse</li>
