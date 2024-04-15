@@ -31,7 +31,7 @@ This repository contains the backend code for OCR application. It consists of a 
 
 1. Start the Flask server:
     ```bash
-    python app.py
+    python3 app.py
     ```
     This will start the Flask server, which will be listening for incoming requests.
 
