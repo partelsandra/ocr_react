@@ -1,7 +1,6 @@
 import os
 from flask import Flask, request, jsonify, send_from_directory
 from werkzeug.utils import secure_filename
-import logging
 from flask_cors import CORS
 import flask  
 from ocr_processing import process_image
@@ -13,9 +12,6 @@ UPLOAD_FOLDER = os.path.join(os.path.dirname(__file__), 'saved_images')
 ALLOWED_EXTENSIONS = {'png', 'jpg', 'jpeg'}
 
 app.config['UPLOAD_FOLDER'] = UPLOAD_FOLDER
-
-logging.basicConfig(filename='error.log', level=logging.DEBUG)
-app.logger.setLevel(logging.DEBUG)
 
 def allowed_file(filename):
     return '.' in filename and \
@@ -34,14 +30,11 @@ def upload_file():
             file_path = os.path.join(app.config['UPLOAD_FOLDER'], filename)
             file.save(file_path)
             
-            app.logger.info('File saved successfully')
             return 'File uploaded successfully', 200
         else:
-            app.logger.error('File upload failed')
             return 'File upload failed', 400
     
     except Exception as e:
-        app.logger.exception('An error occurred during file upload: {}'.format(str(e)))
         return 'An error occurred during file upload', 500
 
 @app.route('/process', methods=['POST'])
@@ -68,7 +61,6 @@ def process_image_endpoint():
         }), 200
     
     except Exception as e:
-        app.logger.exception('An error occurred during OCR processing: {}'.format(str(e)))
         return 'An error occurred during OCR processing', 500
 
 @app.route('/backend/saved_images/<filename>')
