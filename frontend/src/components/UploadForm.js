@@ -45,7 +45,7 @@ function UploadForm() {
   const uploadFileToBackend = (file) => {
     const formData = new FormData();
     formData.append('file', file);
-
+  
     fetch('http://127.0.0.1:5000/upload', {
       method: 'POST',
       body: formData
@@ -58,14 +58,13 @@ function UploadForm() {
         }
       })
       .then(data => {
-        console.log(data);
         processImage(file.name);
       })
       .catch(error => {
         console.error('Error:', error);
       });
   };
-
+  
   const processImage = (fileName) => {
     fetch('http://127.0.0.1:5000/process', {
       method: 'POST',
@@ -103,8 +102,7 @@ function UploadForm() {
   const goToUploadScreen = () => {
     setOcrResult(null);
     window.location.reload();
-};
-
+  };
   return (
     <div>
       <div id="image-to-text" className="container"></div>

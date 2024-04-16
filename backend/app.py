@@ -73,12 +73,7 @@ def process_image_endpoint():
 
 @app.route('/backend/saved_images/<filename>')
 def uploaded_file(filename):
-    logging.debug(f"Requested filename: {filename}")
-
     file_path = os.path.join(app.config['UPLOAD_FOLDER'], filename)
-
-    logging.debug(f"Sending file from path: {file_path}")
-
     return send_from_directory(app.config['UPLOAD_FOLDER'], filename)
 
 if __name__ == '__main__':

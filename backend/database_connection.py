@@ -9,25 +9,22 @@ def connect_and_insert(data):
                                              password='qwerty')
 
         if connection.is_connected():
-            db_Info = connection.get_server_info()
-            print("Connected to MySQL", db_Info)
-            cursor = connection.cursor()
+                    print("Connected to MySQL")
+                    cursor = connection.cursor()
 
-            # Data to ocr_data
-            cursor.execute("INSERT INTO ocr_data (Filename, Processing_Date, Image_File_Path, Image_Size, File_Size, File_Format) VALUES (%s, NOW(), %s, %s, %s, %s)",
-                           (data['filename'], data['image_url'], data['image_size'], data['file_size'], data['file_format']))
+                    # Data to ocr_data
+                    cursor.execute("INSERT INTO ocr_data (Filename, Processing_Date, Image_File_Path, Image_Size, File_Size, File_Format) VALUES (%s, NOW(), %s, %s, %s, %s)",
+                                (data['filename'], data['image_url'], data['image_size'], data['file_size'], data['file_format']))
 
-            connection.commit()
-            print("Data inserted to ocr_data successfully")
+                    connection.commit()
 
-            image_id = cursor.lastrowid
+                    image_id = cursor.lastrowid
 
-            # data to procesing_data
-            cursor.execute("INSERT INTO processing_data (Image_ID, Duration_Time, Tesseract_Version, Enhancement_Settings, Page_Segmentation) VALUES (%s, %s, %s, %s, %s)",
-                           (image_id, data['duration_time'], data['tesseract_version'], data['enhancement_settings'], data['page_segmentation']))
+                    # data to procesing_data
+                    cursor.execute("INSERT INTO processing_data (Image_ID, Duration_Time, Tesseract_Version, Enhancement_Settings, Page_Segmentation) VALUES (%s, %s, %s, %s, %s)",
+                                (image_id, data['duration_time'], data['tesseract_version'], data['enhancement_settings'], data['page_segmentation']))
 
-            connection.commit()
-            print("Data inserted to processing_data successfully")
+                    connection.commit()
 
     except Error as e:
         print("Error while connecting to MySQL", e)
