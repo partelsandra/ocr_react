@@ -3,7 +3,7 @@ from flask import Flask, request, jsonify, send_from_directory
 from werkzeug.utils import secure_filename
 from flask_cors import CORS
 import flask  
-from .ocr_processing import process_image
+from ocr_processing import process_image
 
 app = Flask(__name__)
 CORS(app)
