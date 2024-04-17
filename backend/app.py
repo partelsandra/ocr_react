@@ -6,7 +6,7 @@ import flask
 from ocr_processing import process_image
 
 app = Flask(__name__)
-CORS(app)
+CORS(app, origins='https://ocr-react-frontend.onrender.com')
 
 UPLOAD_FOLDER = os.path.join(os.path.dirname(__file__), 'saved_images')
 ALLOWED_EXTENSIONS = {'png', 'jpg', 'jpeg'}
@@ -69,4 +69,4 @@ def uploaded_file(filename):
     return send_from_directory(app.config['UPLOAD_FOLDER'], filename)
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run(debug=True, host='0.0.0.0')
