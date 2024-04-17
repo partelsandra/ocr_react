@@ -3,7 +3,7 @@ import 'cypress-file-upload';
 describe('End-to-End Tests', () => {
   const baseUrl = "http://localhost:3000";
   const backendUrl = "http://localhost:5000";
-  const uploadTimeout = 5 * 60 * 1000; // 5 minutes timeout for upload request
+  const uploadTimeout = 5 * 60 * 1000; 
 
   it('Uploads an image through frontend and processes it on backend', () => {
     const imageName = 'erar-0-1_002_0000280_00002_t.jpg';
@@ -14,6 +14,8 @@ describe('End-to-End Tests', () => {
         res.send({ status: 200 });
       });
     }).as('uploadRequest');
+
+    cy.intercept('POST', `${backendUrl}/process`).as('processRequest');
 
     cy.visit(baseUrl);
     
@@ -29,7 +31,6 @@ describe('End-to-End Tests', () => {
 
     cy.wait('@uploadRequest', { timeout: uploadTimeout }).then(() => {
       cy.log('Upload request completed successfully.');
-      cy.intercept('POST', `${backendUrl}/process`).as('processRequest');
       cy.wait('@processRequest').then(() => {
         cy.log('Processing request completed successfully.');
         cy.get('#uploaded-image').should('be.visible');

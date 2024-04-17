@@ -1,0 +1,32 @@
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 368-418-919
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2024 15:17:09] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2024 15:17:09] "OPTIONS /process HTTP/1.1" 200 -
+ERROR:root:An error occurred during OCR processing
+Traceback (most recent call last):
+  File "/home/sandra/Desktop/ocr_application_react/backend/app.py", line 54, in process_image_endpoint
+    process_image(image_path, output_folder)
+  File "/home/sandra/Desktop/ocr_application_react/backend/ocr_processing.py", line 99, in process_image
+    ocr_text = pytesseract.image_to_string(image, config=ocr_config)
+  File "/home/sandra/.local/lib/python3.10/site-packages/pytesseract/pytesseract.py", line 423, in image_to_string
+    return {
+  File "/home/sandra/.local/lib/python3.10/site-packages/pytesseract/pytesseract.py", line 426, in <lambda>
+    Output.STRING: lambda: run_and_get_output(*args),
+  File "/home/sandra/.local/lib/python3.10/site-packages/pytesseract/pytesseract.py", line 277, in run_and_get_output
+    with save(image) as (temp_name, input_filename):
+  File "/usr/lib/python3.10/contextlib.py", line 135, in __enter__
+    return next(self.gen)
+  File "/home/sandra/.local/lib/python3.10/site-packages/pytesseract/pytesseract.py", line 197, in save
+    image, extension = prepare(image)
+  File "/home/sandra/.local/lib/python3.10/site-packages/pytesseract/pytesseract.py", line 174, in prepare
+    raise TypeError('Unsupported image object')
+TypeError: Unsupported image object
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2024 15:17:09] "[35m[1mPOST /process HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2024 15:18:17] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2024 15:18:17] "OPTIONS /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2024 15:18:30] "POST /process HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2024 15:18:30] "GET /backend/saved_images/erar-0-1_002_0000280_00044_t.jpg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2024 15:18:30] "GET /backend/saved_images/erar-0-1_002_0000280_00044_t.jpg HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/sandra/Desktop/ocr_application_react/backend/app.py', reloading
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 368-418-919
