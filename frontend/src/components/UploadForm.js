@@ -46,7 +46,7 @@ function UploadForm() {
     const formData = new FormData();
     formData.append('file', file);
   
-    fetch('https://ocr-react.onrender.com/upload', {
+    fetch('http://127.0.0.1:5000/upload', {
       method: 'POST',
       body: formData
     })
@@ -66,7 +66,7 @@ function UploadForm() {
   };
   
   const processImage = (fileName) => {
-    fetch('https://ocr-react.onrender.com/process', {
+    fetch('http://127.0.0.1:5000/process', {
       method: 'POST',
       headers: {
         'Content-Type': 'application/json'

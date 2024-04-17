@@ -8,8 +8,6 @@ from PIL import Image
 import math
 from database_connection import connect_and_insert
 
-pytesseract.pytesseract.tesseract_cmd = '/usr/bin/tesseract'
-
 def read_config_file(file_path):
     with open(file_path, 'r') as config_file:
         return config_file.read().strip()
