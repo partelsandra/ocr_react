@@ -6,7 +6,7 @@ import re
 from datetime import datetime
 from PIL import Image
 import math
-from database_connection import connect_and_insert
+#from database_connection import connect_and_insert
 
 def read_config_file(file_path):
     with open(file_path, 'r') as config_file:
@@ -123,53 +123,53 @@ def process_image(image_path, output_folder):
         output_file.write(cleaned_text)
     
     #Database info
-    image_width, image_height = Image.open(image_path).size
+    # image_width, image_height = Image.open(image_path).size
 
-    file_size = os.path.getsize(image_path)
+    # file_size = os.path.getsize(image_path)
 
-    file_format = os.path.splitext(image_path)[1].replace('.', '')
+    # file_format = os.path.splitext(image_path)[1].replace('.', '')
 
-    processing_date = start_time.strftime('%Y-%m-%d %H:%M:%S')
+    # processing_date = start_time.strftime('%Y-%m-%d %H:%M:%S')
 
-    enhancement_applied = not np.array_equal(image, enhanced_image)
+    # enhancement_applied = not np.array_equal(image, enhanced_image)
 
-    enhancement_status = "Yes" if enhancement_applied else "No"
+    # enhancement_status = "Yes" if enhancement_applied else "No"
 
-    if psm:
-        page_segmentation = psm.split()[1]
-    else:
-        page_segmentation = determine_psm(ocr_text).split()[1]
+    # if psm:
+    #     page_segmentation = psm.split()[1]
+    # else:
+    #     page_segmentation = determine_psm(ocr_text).split()[1]
 
     # Duration time
-    end_time = datetime.now()  
-    duration_time = (end_time - start_time).total_seconds()
+    # end_time = datetime.now()  
+    # duration_time = (end_time - start_time).total_seconds()
 
-    image_dimensions = f"{image_width}x{image_height}"
+    # image_dimensions = f"{image_width}x{image_height}"
 
-    file_size_bytes = os.path.getsize(image_path)
-    file_size = convert_bytes_to_human_readable(file_size_bytes)
+    # file_size_bytes = os.path.getsize(image_path)
+    # file_size = convert_bytes_to_human_readable(file_size_bytes)
 
-    end_time = datetime.now()  
-    duration_time = (end_time - start_time).total_seconds()
+    # end_time = datetime.now()  
+    # duration_time = (end_time - start_time).total_seconds()
 
-    tesseract_version = str(pytesseract.get_tesseract_version())
+    # tesseract_version = str(pytesseract.get_tesseract_version())
 
-    data = {
-        'filename': os.path.basename(image_path),
-        'processing_date': processing_date,
-        'image_size': image_dimensions, 
-        'file_size': file_size,
-        'file_format': file_format,
-        'tesseract_version': tesseract_version, 
-        'enhancement_settings': enhancement_status,
-        'page_segmentation': page_segmentation,
-        'duration_time': duration_time,
-        'ocr_text': cleaned_text,  
-        'image_url': image_path
-}
+    # data = {
+    #     'filename': os.path.basename(image_path),
+    #     'processing_date': processing_date,
+    #     'image_size': image_dimensions, 
+    #     'file_size': file_size,
+    #     'file_format': file_format,
+    #     'tesseract_version': tesseract_version, 
+    #     'enhancement_settings': enhancement_status,
+    #     'page_segmentation': page_segmentation,
+    #     'duration_time': duration_time,
+    #     'ocr_text': cleaned_text,  
+    #     'image_url': image_path
+    # }
 
     # Database connection
-    connect_and_insert(data)
+    # connect_and_insert(data)
 
     return cleaned_text, output_path
 
