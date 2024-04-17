@@ -2,11 +2,15 @@ import os
 from flask import Flask, request, jsonify, send_from_directory
 from werkzeug.utils import secure_filename
 from flask_cors import CORS
-import flask  
+import flask
 from ocr_processing import process_image
 
 app = Flask(__name__)
 CORS(app)
+
+# Define the path to the frontend static files
+STATIC_FOLDER = os.path.join(os.path.dirname(__file__), 'frontend', 'build', 'static')
+app.config['STATIC_FOLDER'] = STATIC_FOLDER
 
 UPLOAD_FOLDER = os.path.join(os.path.dirname(__file__), 'saved_images')
 ALLOWED_EXTENSIONS = {'png', 'jpg', 'jpeg'}
@@ -61,6 +65,15 @@ def process_image_endpoint():
 def uploaded_file(filename):
     file_path = os.path.join(app.config['UPLOAD_FOLDER'], filename)
     return send_from_directory(app.config['UPLOAD_FOLDER'], filename)
+
+# Serve static files from the frontend build
+@app.route('/', defaults={'path': ''})
+@app.route('/<path:path>')
+def serve_frontend(path):
+    if path != "" and os.path.exists(os.path.join(app.config['STATIC_FOLDER'], path)):
+        return send_from_directory(app.config['STATIC_FOLDER'], path)
+    else:
+        return send_from_directory(app.config['STATIC_FOLDER'], 'index.html')
 
 # Heroku
 port = int(os.environ.get('PORT', 5000))
