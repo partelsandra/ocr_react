@@ -20,10 +20,13 @@ def allowed_file(filename):
 @app.route('/upload', methods=['POST'])
 def upload_file():
     try:
+        app.logger.info('Upload request received')  
         if 'file' not in request.files:
+            app.logger.error('No file part') 
             return 'No file part', 400
         file = request.files['file']
         if file.filename == '':
+            app.logger.error('No selected file')  
             return 'No selected file', 400
         if file and allowed_file(file.filename):
             filename = secure_filename(file.filename)
@@ -32,14 +35,17 @@ def upload_file():
             
             return 'File uploaded successfully', 200
         else:
+            app.logger.error('File upload failed')  
             return 'File upload failed', 400
     
     except Exception as e:
+        app.logger.exception('An error occurred during file upload')  
         return 'An error occurred during file upload', 500
 
 @app.route('/process', methods=['POST'])
 def process_image_endpoint():
     try:
+        app.logger.info('Image processing request received') 
         data = request.get_json()
         filename = data.get('filename')
 
@@ -61,9 +67,18 @@ def process_image_endpoint():
         }), 200
     
     except Exception as e:
+        app.logger.exception('An error occurred during OCR processing')  
         return 'An error occurred during OCR processing', 500
 
 @app.route('/backend/saved_images/<filename>')
 def uploaded_file(filename):
-    file_path = os.path.join(app.config['UPLOAD_FOLDER'], filename)
-    return send_from_directory(app.config['UPLOAD_FOLDER'], filename)
+    try:
+        app.logger.info('Requested saved image file: {}'.format(filename))  
+        file_path = os.path.join(app.config['UPLOAD_FOLDER'], filename)
+        return send_from_directory(app.config['UPLOAD_FOLDER'], filename)
+    except Exception as e:
+        app.logger.exception('An error occurred while serving saved image file') 
+        return 'An error occurred while serving saved image file', 500
+
+if __name__ == '__main__':
+    app.run(debug=True, host='0.0.0.0')
