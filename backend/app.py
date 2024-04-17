@@ -67,6 +67,3 @@ def process_image_endpoint():
 def uploaded_file(filename):
     file_path = os.path.join(app.config['UPLOAD_FOLDER'], filename)
     return send_from_directory(app.config['UPLOAD_FOLDER'], filename)
-
-if __name__ == '__main__':
-    app.run(debug=True, host='0.0.0.0')
