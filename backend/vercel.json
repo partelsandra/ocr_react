@@ -4,16 +4,16 @@
     {
       "src": "/api/upload",
       "methods": ["POST"],
-      "dest": "backend/app.py"
+      "dest": "app.py"
     },
     {
       "src": "/api/process",
       "methods": ["POST"],
-      "dest": "backend/app.py"
+      "dest": "app.py"
     },
     {
       "src": "/api/backend/saved_images/(.*)",
-      "dest": "backend/app.py"
+      "dest": "app.py"
     }
   ]
 }
