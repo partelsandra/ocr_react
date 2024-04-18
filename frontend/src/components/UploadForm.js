@@ -1,5 +1,7 @@
 import React, { useState } from 'react';
 
+const backendUrl = 'https://ocr-react-nu.vercel.app';
+
 function UploadForm() {
   const [uploadedFile, setUploadedFile] = useState(null);
   const [loading, setLoading] = useState(false);
@@ -46,7 +48,7 @@ function UploadForm() {
     const formData = new FormData();
     formData.append('file', file);
   
-    fetch('http://127.0.0.1:5000/upload', {
+    fetch(`${backendUrl}/upload`, { // Use the backend URL here
       method: 'POST',
       body: formData
     })
@@ -66,7 +68,7 @@ function UploadForm() {
   };
   
   const processImage = (fileName) => {
-    fetch('http://127.0.0.1:5000/process', {
+    fetch(`${backendUrl}/process`, { 
       method: 'POST',
       headers: {
         'Content-Type': 'application/json'
