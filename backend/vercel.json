@@ -10,6 +10,9 @@
         "src": "/(.*)",
         "dest": "app.py"
       }
-    ]
+    ],
+    "env": {
+      "python_version": "3.9"
+    }
   }
   
