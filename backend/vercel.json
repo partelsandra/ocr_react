@@ -1,10 +1,19 @@
 {
-    "version": 2,
-    "routes": [
-      {
-        "src": "/(.*)",
-        "dest": "app.py"
-      }
-    ]
-  }
-  
+  "version": 2,
+  "routes": [
+    {
+      "src": "/api/upload",
+      "methods": ["POST"],
+      "dest": "backend/app.py"
+    },
+    {
+      "src": "/api/process",
+      "methods": ["POST"],
+      "dest": "backend/app.py"
+    },
+    {
+      "src": "/api/backend/saved_images/(.*)",
+      "dest": "backend/app.py"
+    }
+  ]
+}
