@@ -11,6 +11,7 @@ from database_connection import connect_and_insert
 def read_config_file(file_path):
     with open(file_path, 'r') as config_file:
         return config_file.read().strip()
+
 def enhance_image(image):
     border_size = 30
     without_borders = image[border_size:-border_size, border_size:-border_size]
@@ -21,6 +22,7 @@ def enhance_image(image):
     adaptive_thresh = cv2.adaptiveThreshold(gamma_corrected, 255, cv2.ADAPTIVE_THRESH_GAUSSIAN_C,
                                             cv2.THRESH_BINARY, 11, 2)
     return adaptive_thresh
+
 # Text cleanup
 def clean_up_text(original_text):
     cleaned_text = re.sub(r'[^\w.,öäüõÖÄÜÕ()\s-]', '', original_text)
@@ -28,9 +30,11 @@ def clean_up_text(original_text):
     cleaned_text = re.sub(r'\b\w{2}\b\s*\n\s*\b\w{2}\b', '', cleaned_text)
     cleaned_text = re.sub(r'\n\s*\n\s*\n+', '\n\n', cleaned_text)
     return cleaned_text
+
 def is_list(ocr_text):
     list_patterns = ["1.", "2.", "3.", "a)", "b)", "c)"]
     return any(pattern in ocr_text for pattern in list_patterns)
+
 def is_table(ocr_text):
     table_patterns = ["|"]
     lines = ocr_text.split('\n')
@@ -38,6 +42,7 @@ def is_table(ocr_text):
     if num_columns > 1:
         return any(any(pattern in line for pattern in table_patterns) for line in lines)
     return False
+
 def is_regular_text(ocr_text):
     regular_text_pattern = r'.{20,}' 
     num_line_breaks = ocr_text.count('\n')
@@ -45,6 +50,7 @@ def is_regular_text(ocr_text):
     return (re.match(regular_text_pattern, ocr_text) is not None 
             and num_line_breaks >= 2 
             and consecutive_lines >= 3)
+
 def determine_psm(ocr_text):
     if is_regular_text(ocr_text):
         return "--psm 3"  
@@ -56,6 +62,7 @@ def determine_psm(ocr_text):
         return "--psm 6"
     else:
         return "--psm 3"
+
 # Filesize to readable form
 def convert_bytes_to_human_readable(size_bytes):
     """
@@ -68,6 +75,7 @@ def convert_bytes_to_human_readable(size_bytes):
     size = size_bytes / (1024 ** exponent)
     formatted_size = f"{size:.2f} {units[exponent]}"
     return formatted_size
+
 def process_image(image_path, output_folder):
     script_dir = os.path.dirname(os.path.abspath(__file__))
     
@@ -96,8 +104,10 @@ def process_image(image_path, output_folder):
         if is_list(ocr_text) or is_table(ocr_text):
             psm = determine_psm(ocr_text)
     ocr_text = pytesseract.image_to_string(enhanced_image, config=f"{ocr_config} -l est --oem 3")
+    
     # Text cleanup
     cleaned_text = clean_up_text(ocr_text)
+    
     # Save cleaned OCR 
     output_filename = os.path.splitext(os.path.basename(image_path))[0] + '.txt'
     output_path = os.path.join(output_folder, output_filename)
