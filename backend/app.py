@@ -7,7 +7,7 @@ import flask
 from ocr_processing import process_image
 
 app = Flask(__name__)
-CORS(app, origins=['https://ocr-react-frontend.vercel.app'])
+CORS(app, origins=['https://ocr-react-frontend.vercel.app', 'https://ocr-react-nu.vercel.app'])
 
 UPLOAD_FOLDER = os.path.join(os.path.dirname(__file__), 'saved_images')
 ALLOWED_EXTENSIONS = {'png', 'jpg', 'jpeg'}
