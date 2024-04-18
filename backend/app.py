@@ -13,8 +13,6 @@ UPLOAD_FOLDER = os.path.join(os.path.dirname(__file__), 'saved_images')
 ALLOWED_EXTENSIONS = {'png', 'jpg', 'jpeg'}
 app.config['UPLOAD_FOLDER'] = UPLOAD_FOLDER
 
-logging.basicConfig(filename='ocr_backend.log', level=logging.DEBUG)
-
 def allowed_file(filename):
     return '.' in filename and \
            filename.rsplit('.', 1)[1].lower() in ALLOWED_EXTENSIONS
@@ -23,11 +21,9 @@ def allowed_file(filename):
 def upload_file():
     try:
         if 'file' not in request.files:
-            logging.error('No file part')
             return 'No file part', 400
         file = request.files['file']
         if file.filename == '':
-            logging.error('No selected file')
             return 'No selected file', 400
         if file and allowed_file(file.filename):
             filename = secure_filename(file.filename)
@@ -36,11 +32,9 @@ def upload_file():
             
             return 'File uploaded successfully', 200
         else:
-            logging.error('File upload failed')
             return 'File upload failed', 400
     
     except Exception as e:
-        logging.exception('An error occurred during file upload')
         return 'An error occurred during file upload', 500
     
 @app.route('/process', methods=['POST'])
@@ -62,7 +56,6 @@ def process_image_endpoint():
         }), 200
     
     except Exception as e:
-        logging.exception('An error occurred during OCR processing')
         return 'An error occurred during OCR processing', 500
     
 @app.route('/backend/saved_images/<filename>')
