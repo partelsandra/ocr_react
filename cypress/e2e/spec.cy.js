@@ -8,11 +8,12 @@ describe('End-to-End Tests', () => {
     const imageName = 'erar-0-1_002_0000280_00002_t.jpg';
 
     cy.intercept('POST', `${backendUrl}/upload`).as('uploadRequest');
+    cy.intercept('POST', `${backendUrl}/process`).as('processRequest');
 
     cy.visit(baseUrl);
 
     cy.fixture(imageName, 'base64').then(fileContent => {
-      // Convert image inyo blob
+      // Convert image into blob
       const blob = Cypress.Blob.base64StringToBlob(fileContent);
 
       // Create file from blob
@@ -24,11 +25,9 @@ describe('End-to-End Tests', () => {
     cy.get('.inner-box.display').should('contain', imageName).then(() => {
       cy.get('#process-button').should('not.be.disabled').click();
 
-      cy.wait('@uploadRequest').then(() => {
-        cy.get('#progress-bar').should('be.visible');
+      cy.get('#ocr-result-container', { timeout: 30000 }).should('exist');
 
-        cy.get('.text-box pre').should('be.visible');
-      });
+      cy.get('.text-box pre').should('be.visible');
     });
   });
 });
