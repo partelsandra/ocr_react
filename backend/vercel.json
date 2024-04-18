@@ -1,22 +1,14 @@
 {
-    "functions": {
-      "api": {
-        "source": "app.py",
-        "runtime": "python3.8"
+    "builds": [
+      {
+        "src": "app.py",
+        "use": "@vercel/python"
       }
-    },
+    ],
     "routes": [
       {
-        "src": "/upload",
-        "dest": "/api/upload"
-      },
-      {
-        "src": "/process",
-        "dest": "/api/process"
-      },
-      {
-        "src": "/backend/saved_images/(.*)",
-        "dest": "/api/uploaded_file"
+        "src": "/(.*)",
+        "dest": "app.py"
       }
     ]
   }
